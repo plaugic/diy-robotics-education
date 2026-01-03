@@ -12,20 +12,23 @@ Fields **PR (Repeat/Prerequisite)** and **Grade Status (Excluded / Withdrawn / R
 
 | Term              | Institution                     | Title                           | SCH | DEPT | CRS   | SEC | Credits | PR  | Grade | Status    |
 |-------------------|---------------------------------|---------------------------------|-----|------|-------|-----|---------|-----|-------|-----------|
-| Fall 2010         | Hudson County Community College | Intro to Computers & CMPT       | 21  | 198  | 100   | —   | 3.0     | —   | A     | —         |
-| Fall 2010         | Hudson County Community College | College Composition I           | 21  | 355  | 101   | —   | 3.0     | —   | B+    | —         |
-| Fall 2010         | Hudson County Community College | Speech                          | 21  | 950  | 020   | —   | 3.0     | —   | A     | —         |
-| Spring 2012       | Hudson County Community College | College Composition II          | 21  | 355  | 102   | —   | 3.0     | —   | B     | —         |
-| Spring 2012       | Hudson County Community College | Food and Culture                | 21  | 090  | 020   | —   | 3.0     | —   | B     | —         |
-| Spring 2012       | Hudson County Community College | College Algebra                 | 21  | 640  | 109   | —   | 3.0     | —   | A     | —         |
-| Spring 2012       | Hudson County Community College | Precalculus                     | 62  | 640  | 114   | —   | 4.0     | —   | B     | —         |
-| Spring 2012       | Hudson County Community College | American Government             | 21  | 790  | 201   | —   | 3.0     | —   | A-    | —         |
-| Summer I 2012     | Hudson County Community College | Principles of Biology I         | 21  | 120  | 101   | —   | 4.0     | —   | B+    | —         |
-| Summer II 2012    | Hudson County Community College | Principles of Biology II        | 21  | 120  | 102   | —   | 4.0     | —   | A-    | —         |
-| Fall 2012         | Hudson County Community College | College Chemistry I             | 21  | 160  | 115   | —   | 4.0     | —   | B     | —         |
-| Fall 2012         | Hudson County Community College | College Chemistry I Lab         | 21  | 160  | 113   | —   | 1.0     | —   | B     | —         |
-| Fall 2012         | Hudson County Community College | Calculus I                      | 21  | 640  | 135   | —   | 4.0     | —   | B-    | —         |
-| Fall 2012         | Hudson County Community College | Introduction to Music           | 21  | 087  | 101   | —   | 3.0     | —   | B     | —         |
+| Fall 2010         | Hudson County Community College | Intro to Psychology             | -   | PSY  | 101   | —   | 3.0     | —   | W     | —         |
+| Fall 2011         | Hudson County Community College | Intro to Computers & Computing  | -   | CSC  | 100   | —   | 3.0     | —   | A     | —         |
+| Fall 2011         | Hudson County Community College | College Composition I           | -   | ENG  | 101   | —   | 3.0     | —   | B+    | —         |
+| Fall 2011         | Hudson County Community College | Speech                          | -   | ENG  | 112   | —   | 3.0     | —   | A     | —         |
+| Spring 2012       | Hudson County Community College | College Algebra                 | -   | MAT  | 100   | —   | 3.0     | —   | A     | —         |
+| Spring 2012       | Hudson County Community College | College Composition II          | -   | ENG  | 102   | —   | 3.0     | —   | B     | —         |
+| Spring 2012       | Hudson County Community College | Food and Culture                | -   | HUM  | 020   | —   | 3.0     | —   | B     | —         |
+| Spring 2012       | Hudson County Community College | Precalculus                     | -   | MAT  | 114   | —   | 4.0     | —   | B     | —         |
+| Spring 2012       | Hudson County Community College | American Government             | -   | PSC  | 201   | —   | 3.0     | —   | A-    | —         |
+| Summer I 2012     | Hudson County Community College | Principles of Biology I         | -   | BIO  | 101   | —   | 4.0     | —   | B+    | —         |
+| Summer II 2012    | Hudson County Community College | Principles of Biology II        | -   | BIO  | 102   | —   | 4.0     | —   | A-    | —         |
+| Fall 2012         | Hudson County Community College | College Chemistry I             | -   | CHP  | 115   | —   | 4.0     | —   | B     | —         |
+| Fall 2012         | Hudson County Community College | Calculus I                      | -   | MAT  | 135   | —   | 4.0     | —   | B-    | —         |
+| Fall 2012         | Hudson County Community College | Introduction to Music           | -   | MUS  | 101   | —   | 3.0     | —   | B     | —         |
+
+| Term              | Institution                     | Title                           | SCH | DEPT | CRS   | SEC | Credits | PR  | Grade | Status    |
+|-------------------|---------------------------------|---------------------------------|-----|------|-------|-----|---------|-----|-------|-----------|
 | Spring 2013       | Rutgers–Newark                  | Cultural Anthropology           | 21  | 070  | 204   | 03  | 3.0     | —   | C+    | —         |
 | Spring 2013       | Rutgers–Newark                  | Intro to Economics (Macro)      | 21  | 220  | 102   | 01  | 3.0     | —   | C     | —         |
 | Spring 2013       | Rutgers–Newark                  | Vietnam War & American Lit      | 21  | 352  | 350   | 01  | 3.0     | E   | D     | Excluded  |
@@ -58,11 +61,14 @@ Fields **PR (Repeat/Prerequisite)** and **Grade Status (Excluded / Withdrawn / R
 | Fall 2015         | Rutgers–Newark                  | Cell Biology                    | 21  | 120  | 355   | 01  | 3.0     | —   | W     | Withdrawn |
 | Fall 2015         | Rutgers–Newark                  | Evolution of Humans             | 21  | 120  | 365   | 01  | 3.0     | —   | D     | —         |
 | Fall 2015         | Rutgers–Newark                  | Statistics I                    | 21  | 640  | 211   | 61  | 3.0     | R   | F     | Repeat    |
-| Fall 2016         | Hudson County Community College | Histology                       | 21  | 230  | —     | —   | 4.0     | —   | B+    | —         |
-| Fall 2016         | Hudson County Community College | Physics I                       | 21  | 113  | —     | —   | 4.0     | —   | A     | —         |
-| Fall 2016         | Hudson County Community College | Genetics                        | 21  | 240  | —     | —   | 4.0     | —   | A     | —         |
-| Spring 2017       | Hudson County Community College | College Chemistry II            | 21  | 211  | —     | —   | 4.0     | —   | D     | —         |
-| Summer II 2017    | Hudson County Community College | College Chemistry II            | 21  | 211  | —     | —   | 4.0     | —   | C     | Repeat    |
+
+| Term              | Institution                     | Title                           | SCH | DEPT | CRS   | SEC | Credits | PR  | Grade | Status    |
+|-------------------|---------------------------------|---------------------------------|-----|------|-------|-----|---------|-----|-------|-----------|
+| Fall 2016         | Hudson County Community College | Histology                       | -   | 230  | —     | —   | 4.0     | —   | B+    | —         |
+| Fall 2016         | Hudson County Community College | Physics I                       | -   | 113  | —     | —   | 4.0     | —   | A     | —         |
+| Fall 2016         | Hudson County Community College | Genetics                        | -   | 240  | —     | —   | 4.0     | —   | A     | —         |
+| Spring 2017       | Hudson County Community College | College Chemistry II            | -   | CHP  | 115   | —   | 4.0     | —   | D     | —         |
+| Summer II 2017    | Hudson County Community College | College Chemistry II            | -   | CHP  | 116   | —   | 4.0     | —   | C     | Repeat    |
 
 ---
 
