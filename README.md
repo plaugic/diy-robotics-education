@@ -19,10 +19,6 @@
 ### Physics
 - [ ] **Classical Mechanics (High School Level):** Newton's Three Laws, Kinematics equations (velocity/acceleration), Free Body Diagrams.
 
-### Tools
-- [ ] **Terminal Literacy:** Navigating folders (`cd`, `ls`), compiling code (`gcc`), and basic Bash scripting.
-- [ ] **Touch Typing:** 60+ WPM. (You cannot code if you hunt-and-peck).
-
 ---
 
 ## YEAR 1: The Foundation (The "Weeder" Year)
@@ -37,8 +33,6 @@
     - *Hardcore Check:* Build a version of "Tetris" from scratch using Java Swing.
 - [ ] **CHEM 6A: General Chemistry I**
     - *Topics:* Atomic theory, bonding, stoichiometry. (Required for Engineering breadth).
-- [ ] **GE: Writing I (Warren Writing 10A)**
-    - *Focus:* Argumentative writing.
 
 ### Winter Quarter (16 Units)
 - [ ] **MATH 20B: Calculus II (Integral)**
