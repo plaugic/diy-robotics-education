@@ -31,8 +31,6 @@
 - [ ] **CSE 11: Intro to Computer Science & Object-Oriented Programming (Java)**
     - *Topics:* Classes, Objects, Inheritance, Polymorphism, Recursion.
     - *Hardcore Check:* Build a version of "Tetris" from scratch using Java Swing.
-- [ ] **CHEM 6A: General Chemistry I**
-    - *Topics:* Atomic theory, bonding, stoichiometry. (Required for Engineering breadth).
 
 ### Winter Quarter (16 Units)
 - [ ] **MATH 20B: Calculus II (Integral)**
