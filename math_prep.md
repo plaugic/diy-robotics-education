@@ -1,311 +1,312 @@
+# 10-Day Math Self-Study Crash Course: From Basics to Calculus II Readiness
 
-f which are essential before learning calculus ￼.g@l
+---
 
-How to use this plan: Dedicate several hours each day to learning and practice. The plan outlines Topics to Master and suggests Learning Resources (videos, articles, interactive tools) for each day. Be sure to practice problems for every new concept – solving exercises is key to solidifying your understanding ￼. Skim or skip any content you’re already comfortable with, but do not skip core concepts. (If you find the pace too fast at any point, consider slowing down or supplementing with more practice rather than moving on with shaky understanding.) Now, let’s dive into the day-by-day breakdown.
+## Overview
 
-Day 1: Arithmetic and Fundamental Algebraic Operations
+Preparing for **Calculus II in just 10 days** is an intensive but achievable challenge. This plan focuses on **essential topics only**—arithmetic, algebra, functions, trigonometry, and the core concepts of Calculus I—because a solid grasp of these is crucial before tackling Calculus II. Each day builds upon prior material in a logical progression, ensuring you reinforce foundations as you advance.
 
-Focus: Refresh the building blocks of mathematic10-Day Math Self-Study Crash Course: From Basics to Calculus II Readiness
+By the end of **Day 10**, you should feel confident in:
+- Manipulating algebraic expressions  
+- Understanding and analyzing functions  
+- Using trigonometry fluently  
+- Computing limits, derivatives, and basic integrals  
 
-Overview
+All of these are **non-negotiable prerequisites** for Calculus II.
 
-Preparing for Calculus II in just 10 days is an intensive but achievable challenge. This plan focuses on essential topics only – arithmetic, algebra, functions, trigonometry, and the core concepts of Calculus I – because a solid grasp of these is crucial before tackling Calculus II. (In fact, the standard prerequisites for calculus include a firm command of algebra, trigonometry, and logarithms ￼.) Each day builds upon prior material in a logical progression, ensuring you reinforce foundations as you advance. By the end of Day 10, you should feel confident in fundamental skills like manipulating algebraic expressions, understanding functions, and using basic trigonomets – these underpin all later topics. You’ll need to be fluent with numerical operations and basic algebraic notation to succeed in higher math.
-	•	Topics to Master:
-	•	Fractions and Decimals: Converting between them, and performing addition, subtraction, multiplication, division of each. Ensure you can find common denominators and understand place values for decimals.
-	•	Percentages: Converting to/from decimals and fractions, and solving simple percentage problems (e.g. find 20% of 60).
-	•	Negative Numbers and Absolute Value: Adding/subtracting negatives, understanding the number line; the meaning of absolute value as a distance from zero.
-	•	Order of Operations (PEMDAS): Evaluate expressions like –$2^2 + (3\ –\ 5)$ correctly by following the conventional order.
-	•	Basic Variable Notation: What a variable is (e.g. $x$ in an expression), and substituting values into simple expressions.
-	•	Learning Resources:
-	•	Khan Academy – Arithmetic (videos and exercises): Covers all core arithmetic skills, from fractions and decimals to negative numbers (ideal for a quick refresher) ￼. Work through the “Fractions, decimals, & percentages” unit to ensure you’re comfortable with these conversions and operations.
-	•	Purplemath – Fractions and Absolute Value (online lessons): Read Purplemath’s tutorials on fractions￼ for tips on common pitfalls (like when to find a common denominator) and on absolute value￼ to reinforce your understanding of positives/negatives.
-	•	Practice: After reviewing, solidify skills by doing practice problems. Khan Academy’s Arithmetic practice sets are very effective – for example, try exercises on adding fractions and on negative number operations. Aim to comfortably handle problems like: Compute $ \frac{3}{4} + \frac{2}{3} $; Convert 0.375 to a fraction; Evaluate $|,5 - 8,|$.
+### How to Use This Plan
+- Dedicate **several focused hours each day**.
+- Each day includes:
+  - **Focus**
+  - **Topics to Master**
+  - **Learning Resources**
+  - **Practice**
+  - **Why This Matters**
+- Practice is mandatory. Reading or watching alone is insufficient.
+- Skim material you truly know—but **do not skip core concepts**.
+- If something is shaky, slow down and reinforce before moving on.
 
-Why this matters: Calculus manipulations often boil down to algebraic and numeric steps. If you can’t confidently handle fractions or negatives, even a simple calculus problem can trip you up. So invest time here to eliminate small algebra mistakes later ￼. Mastery of Day 1 material means you can swiftly perform calculations and move on to higher concepts without stumbling over arithmetic.
+---
 
-Day 2: Basic Algebra – Solving Simple Equations and Rearranging Expressions
+## Day 1: Arithmetic and Fundamental Algebraic Operations
 
-Focus: Lay the algebraic groundwork. Calculus will require you to solve equations for different variables and simplify expressions frequently. Today you’ll master linear equations (your first step into algebra) and foundational algebraic skills.
-	•	Topics to Master:
-	•	Combining Like Terms: Simplify expressions such as $5x + 3 - 2x + 8$ by merging like terms (here, $5x - 2x$ and $3 + 8$). This is critical before solving equations.
-	•	The Distributive Property: Practice expanding expressions (e.g. $3(a + 4) = 3a + 12$) and factoring simple expressions (pulling out common factors).
-	•	Linear Equations (one variable): Solve equations of the form $ax + b = c$. Start with simple one-step equations (like $x + 7 = 12$), then two-step equations ($3x - 5 = 10$), and multi-step equations involving parentheses or fractions (e.g. $4(y - 2) = 8$ or $\frac{2}{3}m + 1 = 5$). Ensure you understand the goal is to isolate the variable.
-	•	Basic Equation Word Problems: Set up and solve a couple of simple real-life linear equations (for example, “If 5 added to twice a number is 17, what is the number?” translates to $2x + 5 = 17$). This builds comfort in translating problems into equations.
-	•	Intro to Inequalities: (Optional if time permits) Solve a few basic inequalities (like $2x + 3 > 7$) and graph their solution on a number line. While not heavily used in basic calculus, understanding inequalities is useful for domain/range discussions and limit definitions.
-	•	Learning Resources:
-	•	Khan Academy – Intro to Algebra: Go through the “Solving basic equations” module. It covers one-step and two-step equations thoroughly, with videos walking through the process and plenty of practice problems. Ensure you also try “solving equations with variables on both sides” for a challenge (e.g. $2x + 3 = x - 5$).
-	•	Purplemath – Solving Linear Equations: Read Purplemath’s lesson on how to solve linear equations￼. It provides a step-by-step approach and common mistakes to avoid (like forgetting to distribute a negative sign).
-	•	Interactive Practice: Use an online equation solver like School Yourself Algebra￼ – it has interactive tutorials where you can practice combining like terms and solving equations step by step.
-	•	Practice: Solve at least 10–15 linear equations of varying difficulty. For instance:
-	•	Simple: $m - 4 = 9$ (solution $m = 13$).
-	•	With distribution: $5(2 + t) = 20$.
-	•	With fractions: $\frac{z}{3} + 2 = 6$.
-	•	Both-sides variables: $4p + 1 = 2p - 5$.
-Check your answers, and if you get any wrong, rework the steps to find the mistake. Remember: the ability to solve equations reliably is vital for later math classes (like calculus) ￼, so get comfortable with the process now.
+### Focus
+Refresh the numerical building blocks that underpin all later math.
 
-Why this matters: In calculus problems you’ll often need to solve for when two expressions are equal (e.g. finding when velocities match, solving for critical points by setting a derivative to zero, etc.). If you have a solid algebraic solving ability, you won’t be derailed by the equation-solving part of a calculus problem ￼. Today’s practice ensures you can isolate variables and simplify expressions confidently, which will make advanced topics much easier to digest.
+### Topics to Master
+- Fractions and decimals (conversion + operations)
+- Percentages
+- Negative numbers and absolute value
+- Order of operations (PEMDAS)
+- Variables and substitution
 
-Day 3: Polynomials, Factoring, and Quadratic Equations
+### Learning Resources
+- **Khan Academy – Arithmetic**
+- **Purplemath – Fractions & Absolute Value**
 
-Focus: Today is about polynomials – algebraic expressions that appear everywhere in calculus. You’ll learn how to manipulate polynomials, factor them (a crucial skill), and solve quadratic equations. This is the heart of algebra preparation for calculus: without comfort here, calculus will be a struggle ￼.
-	•	Topics to Master:
-	•	Polynomial Operations: Understand what polynomials are (expressions like $2x^3 - 5x + 7$) and practice adding, subtracting, and multiplying them. For example, be able to expand $(x + 2)(x - 3)$ and add/subtract polynomials of like degree. (Division of polynomials is less critical at this moment, except as needed for factoring/partial fractions.)
-	•	Factoring Techniques: This is critical. Learn to factor:
-	•	Greatest Common Factor (GCF): e.g. factor $6x^2 - 8x = 2x(3x - 4)$.
-	•	Trinomials ($ax^2 + bx + c$): e.g. $x^2 + 5x + 6 = (x+2)(x+3)$. Start with simple $x^2$ cases, then try those with a leading coefficient ($2x^2 + 7x + 3$, etc.).
-	•	Difference of Squares: e.g. $9y^2 - 16 = (3y - 4)(3y + 4)$.
-	•	Recognize prime polynomials (not factorable over reals) vs those that factor nicely. Factoring is so important that it will appear in almost every chapter of calculus – it’s vital to master it ￼.
-	•	Solving Quadratic Equations: Combine your factoring skills with equation-solving. Solve quadratics by factoring when possible (set each factor to zero). Also, know the quadratic formula $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ for equations that don’t factor nicely. Practice a few examples of each.
-	•	Solve something like $x^2 + x - 6 = 0$ by factoring $(x+3)(x-2)=0$ so $x=-3,2$.
-	•	Solve something like $3x^2 - x - 4 = 0$ using the formula (since it may not factor easily).
-	•	Quadratic Applications: (Optional) Try one real-world style problem, e.g., finding two numbers that multiply to a certain product and add to a certain sum – these often lead to quadratic equations. This helps reinforce understanding of what the factors mean.
-	•	Learning Resources:
-	•	Paul’s Online Math Notes – Factoring Polynomials: Paul’s notes emphasize that factoring “will appear in pretty much every chapter… and so is vital that you understand it” ￼. Read through his overview of factoring techniques. Pay attention to each type (GCF, trinomials, etc.) and the provided examples.
-	•	Khan Academy – Polynomial Arithmetic and Factoring: Use Khan Academy’s sequences on “Multiplying polynomials” and “Factor polynomials”. The videos there walk through examples step-by-step. Do the exercises, especially factoring practice – Khan will give immediate feedback if you misfactor, which is helpful.
-	•	Video Resource (Optional): The Organic Chemistry Tutor on YouTube has an excellent Algebra video on factoring and quadratic equations￼ (covering multiple examples in a clear way). Watching a few worked examples can solidify the patterns.
-	•	Practice: Spend ample time on practice problems:
-	•	Write down 5 polynomials and factor each (e.g. factor $4x^2 - 12x$, $t^2 - 9$, $m^2 + 4m + 3$, $2y^2 + y - 1$). Check your answers against solutions (from a textbook or online factoring calculator) to ensure you factored correctly.
-	•	Solve ~5 quadratic equations: a mix of easy factoring (as in the examples above) and ones requiring the quadratic formula.
-	•	Also try one that has no real solution (discriminant $<0$) so you recognize when a quadratic has no real roots (this can matter in calculus when finding domain or critical points).
-	•	Remember to revisit any factoring pattern that feels tricky; factoring is so important going forward that investing extra time here will pay off tremendously.
+### Practice
+- Compute: `3/4 + 2/3`
+- Convert `0.375` to a fraction
+- Evaluate `|5 − 8|`
+- Simplify expressions with exponents and parentheses
 
-Why this matters: Factoring and polynomial skills are the backbone of many calculus techniques. For instance, simplifying a complex fraction in a limit or performing partial fraction decomposition in an integral both require strong factoring ability. As Paul’s notes warn, factoring shows up over and over ￼. Also, solving quadratic equations is necessary for finding points of interest on functions (e.g. where a derivative equals zero, which often leads to a quadratic). After today, you should be able to factor and solve quadratics almost on autopilot – freeing your mental energy for the new concepts introduced in calculus.
+### Why This Matters
+Algebra and calculus collapse quickly if arithmetic is weak. Errors here compound later.
 
-Day 4: Radical Expressions and Rational Expressions
+---
 
-Focus: This day tackles two advanced algebra topics: radicals (roots) and rational expressions (fractions involving polynomials). These topics solidify your algebra toolbox. Simplifying complex expressions underpins limit calculations and integral simplifications in calculus (for example, when rationalizing a numerator in a limit, or simplifying an integrand). Mastering them now will save you from algebraic roadblocks later.
-	•	Topics to Master:
-	•	Radicals and Exponents: Understand $n$th roots and the connection to exponents (e.g. $\sqrt{x} = x^{1/2}$, $\sqrt[3]{x^2} = x^{2/3}$). Practice simplifying expressions like $\sqrt{50}$ (to $5\sqrt{2}$) and $\sqrt[3]{16}$ ($= 2\sqrt[3]{2}$). Also, remember rules: $\sqrt{a}\sqrt{b} = \sqrt{ab}$ (for nonnegative $a,b$), and how to handle adding/subtracting radicals (only like radicals can be combined).
-	•	Rationalizing: Learn the technique of rationalizing the denominator (or numerator): for example, rewrite $\frac{1}{\sqrt{3}}$ as $\frac{\sqrt{3}}{3}$ by multiplying by $\sqrt{3}/\sqrt{3}$. Likewise, rationalize expressions like $\frac{2}{3-\sqrt{5}}$ by multiplying numerator and denominator by the conjugate $(3+\sqrt{5})$. This skill is occasionally required to simplify expressions in calculus (for instance, when evaluating certain limits) ￼.
-	•	Rational Expressions: These are fractions where numerator and/or denominator are polynomials (e.g. $\frac{x^2-1}{x+1}$). Key skills:
-	•	Simplifying rational expressions by canceling common factors (first factor the polynomials!). For example, simplify $\frac{x^2-1}{x-1}$ by factoring the numerator $(x-1)(x+1)$ and canceling $x-1$ (for $x \neq 1$). The ability to simplify these correctly is vital in many calculus problems ￼.
-	•	Performing operations: adding/subtracting rational expressions (find common denominators), multiplying/dividing them (factor first, then cancel common factors). Try a sample addition like $\frac{2}{x} + \frac{3}{2x^2}$, and a multiplication like $\frac{x^2-4}{3x}\cdot\frac{9x}{2(x-2)}$.
-	•	Complex Fraction simplification (optional): Simplify an expression like $\frac{\frac{1}{x} + \frac{2}{y}}{\frac{3}{x}}$. This is less common but good for sharpening your algebra manipulations.
-	•	Solving Rational Equations: (Optional) Solve a simple rational equation, e.g. $\frac{1}{x} + \frac{1}{2} = \frac{1}{3}$. This involves finding common denominators and checking for extraneous solutions (like $x=0$ is not allowed). This can prepare you for solving equations that come up in integration techniques (like partial fractions or work problems).
-	•	Learning Resources:
-	•	Khan Academy – Radicals & Exponentials: Work through “Radical expressions” (simplifying and rationalizing) and “Rational exponents” modules. Khan’s exercises will give you plenty of practice with $\sqrt{}$ and $^{1/n}$ forms and test your rationalizing skills.
-	•	Paul’s Online Math Notes – Algebra/Trig Review: Radicals and Rational Expressions: Paul provides concise reviews on these topics. Notably, he covers rationalizing denominators, a topic “that doesn’t always get covered well in algebra class, but is required occasionally in a Calculus class” ￼. Read through those sections and try the sample problems he presents (solutions are usually provided for verification). His section on simplifying rational expressions emphasizes its importance for calculus ￼.
-	•	Purplemath – Rational Expressions: Purplemath’s lessons on rational expressions￼ walk through simplification step by step (including warnings about common mistakes, like canceling terms that are not common factors). This can reinforce what you learn from Paul’s notes.
-	•	Interactive Tool: Try the Interactive Rational Simplifier on MathPortal or Symbolab. You can input a rational expression and see the step-by-step simplification. Use it to check your hand-simplified results (e.g., confirm that $\frac{x^2-4}{2x^2+6x}$ simplifies to $\frac{x-2}{2x+6}$ after canceling $x+2$, given $x\neq -3$).
-	•	Practice:
-	•	Simplify at least 10 radical expressions (mix of square roots, cube roots, and expressions with sums under radicals – e.g., simplify $\sqrt{48}$, $\sqrt{18} + 3\sqrt{2}$, $\sqrt[3]{x^4}$, $(\sqrt{3} - \sqrt{2})^2$). Ensure you rationalize denominators in your answers if any remain.
-	•	Simplify 8–10 rational expressions: include ones that need factoring (like $\frac{x^2-9}{2x^2+3x}$), ones requiring adding fractions ($\frac{3}{x} - \frac{2}{x^2}$), and a complex fraction or two.
-	•	Perform rationalizing on a few tricky cases (e.g., rationalize $\frac{1}{\sqrt{5}+\sqrt{2}}$).
-	•	Solve one or two rational equations (keeping in mind to exclude values that make denominators zero).
-	•	Double-check all results – a common calculus pitfall is algebraic simplification errors, so it’s better to catch them now during practice.
+## Day 2: Basic Algebra – Linear Equations & Expressions
 
-Why this matters: Calculus problems often require simplifying algebraic expressions either before or after applying a calculus concept. For example, when evaluating $\lim_{x\to 0}\frac{\sqrt{x+1}-1}{x}$, you’d rationalize the numerator to find the limit. If you can’t do that manipulation quickly, the problem becomes much harder. Similarly, integrals involving rational functions require you to simplify or decompose fractions (partial fractions) which relies on the skills you practice today ￼. By conquering radicals and rational expressions, you ensure that algebraic complexity won’t derail your calculus work. As you practice, remember that these techniques are not “side topics” – they directly support many calculus techniques you’ll soon learn.
+### Focus
+Build algebra fluency and equation-solving confidence.
 
-Day 5: Understanding Functions and Graphs
+### Topics to Master
+- Combining like terms
+- Distributive property
+- Solving linear equations
+- Word problems
+- Intro to inequalities (optional)
 
-Focus: With algebraic techniques in hand, turn to the concept of a function – the cornerstone of calculus. A strong intuitive grasp of functions (what they mean, how to interpret their graphs, domain/range, etc.) is essential for understanding limits, derivatives, and integrals. Today you will learn function notation, analyze basic graphs, and practice manipulating functions.
-	•	Topics to Master:
-	•	Function Definition and Notation: Understand a function as a rule that assigns each input exactly one output. Learn notation like $f(x)$ and the idea that $y = f(x)$. Be comfortable interpreting statements like “for $f(x) = x^2 - 3$, $f(2) = 1$”. You should be able to define and work with functions fluidly ￼.
-	•	Domain and Range: Given a function formula, determine its domain (all allowable $x$ inputs) and range (possible $y$ outputs). For instance, for $g(x) = \sqrt{x-1}$, domain is $x \ge 1$ and range is $g(x) \ge 0$. Practice finding domain for functions involving fractions (denominators $\neq 0$) or evens roots (radicand $\ge 0$). This skill becomes important when dealing with integrals and series convergence in Calc II.
-	•	Basic Types of Functions and Their Graphs: Ensure you recognize and can roughly sketch the following:
-	•	Linear functions (graphs are lines, slope-intercept form $y = mx + b$). Know how slope works and how to find x- and y-intercepts.
-	•	Quadratic functions ($y = ax^2 + bx + c$ parabolas). Identify vertex form if possible, and know if it opens up/down.
-	•	Polynomial functions more generally (shapes, end-behavior for leading term – though you needn’t get too detailed beyond quadratics for now).
-	•	Rational functions like $y = \frac{1}{x}$ (know it has vertical/horizontal asymptotes and two branch graphs). Also $y = \frac{ax+b}{cx+d}$ basic hyperbolas.
-	•	Exponential ($y = a^x$) and Logarithmic ($y = \log_a x$) – we’ll focus more on these Day 6, but be aware of their general shapes (exponential grows rapidly, log grows slowly and is inverse of exponential).
-	•	Trigonometric (sine, cosine etc.) – to be covered Day 7, but if you have time you might glance at how $y=\sin x$ and $y=\cos x$ oscillate.
-	•	Absolute value ($y = |x|$ V-shape graph) and piecewise functions (defined by different formulas on different intervals). These often appear in calculus for continuity and integrals.
-	•	Graphical Features: Practice reading a graph: given a function graph, identify key features like intercepts, where it’s increasing or decreasing, any symmetry (even/odd functions), etc. For example, know that an even function satisfies $f(-x) = f(x)$ (graph is y-axis symmetric) – e.g. $x^2$ – and an odd function satisfies $f(-x) = -f(x)$ (origin symmetric) – e.g. $x^3$ or $\sin x$ ￼. Understanding symmetry can simplify problems.
-	•	Function Operations: If time, cover combining functions: $(f+g)(x)$, $(f\circ g)(x)$ (composition). Composition is particularly important – e.g. if $f(u) = \sqrt{u}$ and $u = g(x) = x^2+1$, then $f(g(x)) = \sqrt{x^2+1}$. Practice a couple of compositions and simple inverses (e.g. $f(x)=3x-5$, then $f^{-1}(x) = \frac{x+5}{3}$). These come up in calculus when you do substitution or invert functions to solve for $x$.
-	•	Learning Resources:
-	•	Khan Academy – Functions and Graphs: Go through the “Functions” unit on Khan Academy. Key subtopics include function notation, domain and range, and recognizing function types. Khan’s interactive questions will test if you can evaluate functions (like find $h(2)$ given a graph or formula) and determine domains.
-	•	Paul’s Online Math Notes – Algebra/Trig Review: Functions and Graphing: Paul includes a section on function notation/evaluation and one on common graphs ￼. Review the list of “common functions and how to graph them” ￼ – this covers lines, parabolas, circles, etc. (Note: Conic sections like circles, ellipses, hyperbolas are listed; while you don’t need detailed conic knowledge for Calc II, it’s good to recognize their equations. Circles and hyperbolas may appear in some integrals or parametric form, but you won’t delve deeply into conics in calculus.) Pay attention to the concept of piecewise definitions in these notes too.
-	•	Desmos Graphing Calculator (Interactive): Use the free Desmos online graphing tool ￼. It’s a fantastic way to visualize functions. Try plotting basic functions: input y = 2x + 1, y = x^2 - 4, y = 1/x, y = 2^x, etc., and observe their shapes. Utilize sliders (Desmos allows you to add sliders for parameters) – for example, graph $y = ax^2 + bx + c$ with sliders for $a, b, c$ to see how the parabola changes. This visual exploration helps cement your understanding of how algebraic changes affect graphs.
-	•	Math Is Fun – Function Introduction: If you prefer a gentle introduction, the MathIsFun function guide￼ explains functions in simple terms with diagrams, covering the idea of inputs/outputs, domains, etc.
-	•	Practice:
-	•	Evaluate functions: If $f(x) = x^2 - 2x$, find $f(0)$, $f(3)$, solve $f(x)=2$ for $x$. Given a piecewise function (like $h(x) = {x^2 \text{ if } x<0; ; 2x+1 \text{ if } x\ge0}$), practice finding a couple of values and understanding the graph’s split behavior.
-	•	Domain/range: Determine the domain of: (a) $f(x) = \frac{x+2}{x-1}$, (b) $g(x) = \sqrt{4-x^2}$, (c) $h(x) = \ln(x-5)$ (logarithm, domain $x>5$). For each, describe the range too (e.g. for $g(x)=\sqrt{4-x^2}$, domain $-2\le x \le 2$, range $0 \le g(x) \le 2$).
-	•	Sketch by hand (roughly) a few basic functions without plotting software, to ensure you know their general shape: try to draw $y = x^3$ (and note it’s odd-symmetric), $y = |x|$, $y = 1/x$ (two branches), $y = \sqrt{x}$. Mark key points like intercepts and asymptotes.
-	•	If you learned composition: let $f(x) = x^2$ and $g(x) = 3x-1$. Find $(f \circ g)(2)$ and simplify the formula for $f(g(x))$. Also find an $f^{-1}(x)$ for a simple $f$ if you tried inverses.
-	•	Being comfortable with these will make a big difference as we enter calculus concepts (since we’ll talk about continuous functions, increasing/decreasing behavior, etc., all in terms of functions and their graphs).
+### Learning Resources
+- **Khan Academy – Intro to Algebra**
+- **Purplemath – Linear Equations**
+- **School Yourself – Algebra**
 
-Why this matters: Calculus is essentially the study of how functions behave (how they change, accumulate, etc.). You need to “speak the language” of functions. When a problem asks for the limit of $f(x)$ as $x$ approaches some value, or the slope of the graph of $y = f(x)$, you must be comfortable understanding $f$ and its graph. Also, some Calculus II topics (like finding the radius of convergence of a power series, or integrating a rational function) require knowing the domain of a function or asymptotic behavior, which ties back to function graphs and restrictions. By mastering functions now, you’ll have a much easier time understanding the formal definitions (like continuity and limits) that are coming up next. Essentially, functions are the canvas on which calculus is painted, so ensure you have a clear picture of that canvas.
+### Practice
+Solve equations such as:
+- `x − 4 = 9`
+- `4(y − 2) = 8`
+- `(2/3)m + 1 = 5`
+- `4p + 1 = 2p − 5`
 
-Day 6: Exponential and Logarithmic Functions
+### Why This Matters
+Calculus problems often reduce to solving equations—critical points, intersections, and constraints.
 
-Focus: Today you will tackle exponentials and logarithms in depth. These functions feature prominently in Calculus (for example, $e^x$ is its own derivative, and log functions often appear in integration results). A solid handle on their properties and algebra is essential. Calculus II especially involves exponential growth/decay models and logarithmic integrals, so we must not skip these core concepts ￼.
-	•	Topics to Master:
-	•	Exponential Functions: Understand $a^x$ for various bases $a$. Special focus on base $e$ (the natural exponential, $e \approx 2.71828$) since $e^x$ is ubiquitous in calculus. Know the general shape of $y = a^x$ (always positive, growth if $a>1$, decay if $0<a<1$). Properties to know: $a^{m+n} = a^m a^n$, $a^{-k} = \frac{1}{a^k}$, $(a^m)^n = a^{mn}$. Practice simplifying expressions with exponents, including those with different bases (e.g., compare growth of $2^x$ vs $3^x$).
-	•	Logarithmic Functions: Understand that $\log_a x$ is the inverse of $a^x$. In particular, the natural logarithm $\ln x$ is the inverse of $e^x$. Learn basic log properties: $\log(ab) = \log a + \log b$, $\log(\frac{a}{b}) = \log a - \log b$, $\log(a^r) = r \log a$. Also, remember $\ln(e^x) = x$ and $e^{\ln x} = x$. Practice converting between exponential and log form: e.g. $a^b = c$ is equivalent to $\log_a c = b$.
-	•	Laws of Exponents and Logs: Work through examples using the laws. For instance: simplify $5e^3 \cdot 2e^{-1}$, or solve $3^{x} = 17$ by taking logs. Also practice expanding/condensing logs: e.g. write $\ln\left(\frac{x^5 \sqrt{y}}{z^2}\right)$ as a sum/difference $5\ln x + \frac{1}{2}\ln y - 2\ln z$. These manipulations come in handy when integrating or differentiating log expressions.
-	•	Solving Equations Involving Exponentials/Logs: Try solving equations like $2^{x} = 7$ (take log base 2 or use natural log: $x = \ln 7 / \ln 2$) and log equations like $\log_3 (x) = 4$ ($x = 3^4 = 81$). Also combined types: $e^{2x} = 5$ (so $2x = \ln 5$, $x = \frac{1}{2}\ln 5$), or $\ln(2x - 1) = 3$ (so $2x - 1 = e^3$, etc.). These skills are directly used when solving for time in growth/decay models or finding when an exponential function reaches a certain value.
-	•	Applications Insight (Optional): Understand conceptually what $e^x$ and $\ln x$ mean: $e^x$ arises in continuously compounded growth (Calc II will likely cover $e^x$ in integrals and series), and $\ln x$ is the area under $1/t$ from 1 to $x$ (an idea from calculus). While deep understanding isn’t needed yet, it’s good to know these connections exist.
-	•	Learning Resources:
-	•	Khan Academy – Exponentials & Logarithms: Use the “Exponential growth & decay” and “Intro to logarithms” modules. Khan has targeted exercises for converting forms, using log properties, and solving equations (like solving $10^{3x}=7$). Be sure to do the quizzes on those topics to test your fluency.
-	•	Paul’s Online Math Notes – Algebra Review: Exponentials and Logarithms: Paul’s review sections on Basic Exponential Functions and Basic Logarithm Functions will reinforce definitions and properties ￼. He also covers Log Properties and solving equations in subsequent sub-sections. These notes concisely list out laws of logs and have example problems; use them to double-check your understanding. Paul notes that the ability to manipulate exponents and logs is assumed going into calculus, so make sure you’re comfortable.
-	•	Purplemath – Logarithms: Purplemath’s logarithm tutorials￼ are excellent at explaining the “why” behind log rules and giving step-by-step examples of solving log equations and simplifying expressions. If logs are new or rusty for you, spend time with these explanations.
-	•	Interactive Visualization: Check out Desmos or another graphing tool to plot $y = 2^x$, $y = 3^x$, and $y = e^x$ on the same axes, as well as $y = \ln x$. Visually see how $\ln x$ is the mirror image of $e^x$ across the line $y=x$. This will help you remember their inverse relationship.
-	•	Practice:
-	•	Write out the three most important log identities and exponent rules from memory, then verify them. For example, test that $\ln(ab) = \ln a + \ln b$ by picking numbers (like $a=2,b=5$, check $\ln(10)$ vs $\ln2+\ln5$ on a calculator). Do this to cement the properties in your mind.
-	•	Simplify expressions: e.g. $3^{2x} \cdot 3^{-x} = 3^x$, or $\frac{e^{4x}}{e^{x}} = e^{3x}$. Also $\log_{5}(25x) = \log_{5}25 + \log_{5}x = 2 + \log_{5}x$.
-	•	Solve 5 exponent equations and 5 log equations:
-	•	Exponential: $4^{x}=50$; $e^{x}-5=0$; $10 \cdot 2^{3x} = 160$; $5^{2x+1}=125$; $e^{-x} = 7$.
-	•	Log: $\ln x = 2$; $\log_{3}(x) = -1$; $\ln(2x) = 4$; $\log_{10}(x+1) = 2$; $3 + \ln x = 5$.
-	•	For each, isolate $x$ and express the answer either exactly (like $x = \ln(7)$ or $x = 2^{\log_2 50}$, etc.) or a decimal if needed. Make sure you know how to handle when you take log of both sides vs exponentiating both sides.
-	•	Combine and break down logs: take something like $\frac{\ln(a^3 \sqrt{b})}{\ln(a \cdot b)}$ and simplify it using properties (just for manipulation practice).
-	•	By the end of practice, manipulating and solving exponentials/logs should feel routine. If it’s not yet, do a few more practice problems – these are that important to get right before calculus.
+---
 
-Why this matters: In Calculus II, you will frequently encounter $e^x$ and $\ln x$. For instance, when integrating $\frac{1}{x}$, you’ll get $\ln|x| + C$. Solving growth/decay problems involves $e^{kt}$ forms. Improper integrals often use $\ln$. If you’re fluent in exponent and log rules, you can seamlessly follow the calculus logic without tripping over algebra. Also, series expansions (a Calc II topic) for $e^x$ and $\ln(1+x)$ are common – understanding the behavior of these functions now will give context to those series later. Essentially, exponentials and logs are so fundamental that a calculus student must be comfortable with them, as they are standard examples and solutions in many problems ￼. Get to the point where seeing $e^x$ or $\ln x$ in a problem feels familiar and not intimidating.
+## Day 3: Polynomials, Factoring, and Quadratic Equations
 
-Day 7: Trigonometry Essentials
+### Focus
+Master polynomial manipulation and factoring—the backbone of calculus algebra.
 
-Focus: Trigonometry is often the topic that troubles Calculus students the most – yet it’s essential. Calculus II, in particular, delves into integrals of trig functions and techniques like trigonometric substitution ￼. Today’s mission is to grasp the core trig concepts: the unit circle, fundamental trig functions (sine, cosine, etc.), basic identities, and simple trig equations. Given the time crunch, we’ll prioritize what’s absolutely essential for calculus: evaluating trig functions, using identities to simplify expressions, and understanding trig function behavior.
-	•	Topics to Master:
-	•	Angles and the Unit Circle: Understand radians (the standard measure in calculus) versus degrees. Know common angle measures: $0, \pi/6, \pi/4, \pi/3, \pi/2$ (and their degree equivalents 0°, 30°, 45°, 60°, 90°; likewise for 120°, 135°, etc., up to 360° or $2\pi$). Be able to find coordinates on the unit circle for these angles. For example, $\sin(\pi/6)=1/2$, $\cos(\pi/3)=1/2$, etc. Practice by drawing a unit circle and labeling it with sine and cosine values for those key angles. Use an interactive unit circle to verify your memory ￼.
-	•	Definition of trig functions: Recall that for an angle $\theta$ on the unit circle, $\cos\theta$ is the $x$-coordinate and $\sin\theta$ is the $y$-coordinate. Tangent $\tan\theta = \sin\theta/\cos\theta$. Know the basic shape of sine and cosine waves (sine starts at 0 and goes up, cosine starts at 1 at $\theta=0$). Remember $\sin(0)=0$, $\cos(0)=1$; $\sin(\pi/2)=1$, $\cos(\pi/2)=0$; etc. Understanding these will help evaluate limits and integrals involving trig.
-	•	Key Trig Identities: The Pythagorean Identity $\sin^2\theta + \cos^2\theta = 1$ (and its rearrangements $\cos^2\theta = 1-\sin^2\theta$, etc.) is a must-know ￼. Also know the co-function identities $\sin(\pi/2 - \theta) = \cos\theta$, etc., and the even/odd properties: $\cos(-\theta) = \cos\theta$ (cosine is even), $\sin(-\theta) = -\sin\theta$ (sine is odd) ￼. These identities are frequently used to simplify integrals and solve equations. If possible, also familiarize with angle sum identities (like $\sin(\alpha+\beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$) and double-angle formulas ($\sin(2x) = 2\sin x\cos x$, $\cos(2x) = 1-2\sin^2x$) ￼. In Calc II, the double-angle for cosine in the form $\cos^2x = \frac{1+\cos(2x)}{2}$ is especially useful for integrating $\sin^2x$ or $\cos^2x$. Make sure you have at least the Pythagorean and double-angle identities on hand (even if not fully memorized, know where to find them).
-	•	Evaluating Trig Expressions: Practice simplifying expressions using identities: e.g. simplify $\frac{\sin^2x}{1-\cos^2x}$ (using $1-\cos^2x=\sin^2x$, this simplifies to 1). Or simplify $\cos^2x - \sin^2x$ (that’s $\cos(2x)$ by a double-angle identity). Being comfortable with such manipulations will greatly help in integration techniques.
-	•	Basic Trig Equations: Solve simple equations like $\sin \theta = \frac{\sqrt{2}}{2}$. Know the general solutions on $[0,2\pi)$: for $\sin\theta = \sqrt{2}/2$, $\theta = \pi/4$ or $3\pi/4$ (and similarly for other quadrants if needed). Or $\cos \theta = -1/2$ gives $\theta = 2\pi/3$ or $4\pi/3$ in that interval. Understanding where trig functions take certain values is crucial for solving equations such as $\sin x = a$ or $\cos x = a$ that appear in calculus (like when finding where a derivative $\cos x$ equals zero, etc.).
-	•	Inverse Trig (if time): Be aware of $\arcsin$, $\arccos$, $\arctan$ as the inverses of sin, cos, tan (restricted to principal ranges). Calc II might require understanding $\arcsin x$ or $\arctan x$ as results of integrals (e.g. $\int \frac{1}{\sqrt{1-x^2}}dx = \arcsin x + C$). You don’t need deep knowledge now beyond knowing $\arcsin x$ gives an angle whose sine is $x$, etc., and that $\arctan x$ ranges $(-\pi/2,\pi/2)$.
-	•	Learning Resources:
-	•	Khan Academy – Trigonometry: Focus on the “Unit circle definition of trig functions” and “Trigonometric identities” topics. Khan’s videos on the unit circle will help convert between degrees and radians and memorize coordinates. There are also exercises for using identities (like verifying one side equals another). Also check out the “Graphs of sin(x) and cos(x)” for a visual of these functions.
-	•	MathisFun – Unit Circle Interactive: Use the Interactive Unit Circle￼ on MathisFun to click around angles and see sin, cos, tan values ￼. This is a great way to reinforce the quadrant signs (e.g. sin is positive in QI and QII, negative in QIII/QIV) and common angle values. Spend a few minutes testing yourself: “What is $\sin(150°)$?” and confirm on the interactive tool (should be 0.5).
-	•	Professor Leonard’s Trig Videos (Optional): If you prefer a lecture style, search YouTube for “Professor Leonard Trigonometry crash course” – he has comprehensive lectures. However, given our time constraint, it may be more than needed. Instead, you might find shorter videos like “All the Trig Identities in 10 minutes” for a quick rundown. Use as needed for tricky parts.
-	•	Paul’s Online Math Notes – Trig Review: Paul’s trig sections cover evaluating trig functions ￼, trig formulas ￼ (like identities), solving trig equations ￼, and inverse trig ￼. This is a good reference if you need to look up an identity or see a solved example. Keep this page bookmarked for when you’re doing calculus – it’s handy for recalling identities.
-	•	Practice:
-	•	Unit circle recall: Draw a blank unit circle and fill in as much as you can: angles in radians (especially multiples of $\pi/6, \pi/4, \pi/3$), and the corresponding $(\cos\theta, \sin\theta)$ coordinates. Use a reference to check and correct it. Repeat until you can reproduce the key values from memory.
-	•	Identity usage: Do 5 quick identity verifications/simplifications, such as: prove $\frac{1-\cos(2x)}{2} = \sin^2 x$ (start from one side and transform to the other); simplify $\frac{\sin x \cos x}{\sin^2 x}$ (that simplifies to $\cot x \csc x$ or $\frac{\cos x}{\sin x}$ depending how you approach); verify $\tan^2x + 1 = \sec^2x$ using $\sin^2+\cos^2=1$. The goal is not rigorous proof but to ensure you know how to apply identities correctly.
-	•	Evaluate trig values: Without a calculator, determine: $\sin 300°$, $\cos(5\pi/6)$, $\tan(\pi/4)$. Then some involving negative angles: $\sin(-\pi/3)$, $\cos(-\pi/3)$ (using odd/even properties). Check with a calculator or unit circle to confirm.
-	•	Solve trig equations: Solve $\sin x = 0$ for $x$ in $[0,2\pi)$ (answers: $x=0,\pi,2\pi$). Solve $\cos x = \frac{\sqrt{2}}{2}$ in $[0,2\pi)$ ($x=\pi/4, 7\pi/4$). Solve $\tan x = \sqrt{3}$ in $[0,\pi)$ ($x=\pi/3, \pi/3 + \pi$ but within $[0,\pi)$ just $\pi/3$ for principal, general solution $x = \pi/3 + k\pi$). Knowing these patterns will help, for example, when finding where a derivative like $\cos x$ equals zero (you’ll immediately know $x=\pi/2, 3\pi/2$ etc.).
-	•	Inverse trig (if done): Evaluate a couple like $\arcsin(1/2)$ (expect $\pi/6$) or $\arctan(1)$ ($\pi/4$) to get comfortable with the idea.
-	•	Trig might be the densest topic you cover in one day, so prioritize: if time is short, ensure you know unit circle values and Pythagorean/double-angle identities, as those are used constantly in Calc II integrals ￼. It’s okay if you need to occasionally look up a less common identity (like $\sin(α+\beta)$) when doing homework – just know where to find it. But the basic ones should be at your fingertips.
+### Topics to Master
+- Polynomial arithmetic
+- Factoring:
+  - GCF
+  - Trinomials
+  - Difference of squares
+- Solving quadratics (factoring + quadratic formula)
 
-Why this matters: In Calculus II, you’ll encounter integrals of trig functions (like $\int \sin^2 x,dx$ or $\int \frac{dx}{1+x^2}$ which yields $\arctan x$). Techniques like trig substitution explicitly require recognizing trig relationships (for example, substituting $x = \sin\theta$ in an integral uses the identity $1-\sin^2\theta=\cos^2\theta$ ￼). Many students who “howl and cry about Calc 2” are those who never fully learned their basic trig and algebra ￼ – we don’t want to be in that camp. By solidifying trig now, you set yourself up to handle those integration techniques and also to understand the behavior of periodic functions in series. Essentially, trig is to Calc II what algebra was to Calc I: absolutely required background. After today, keep your unit circle and identities sheet handy; even as you do calculus problems, you may refer to it until everything is second nature.
+### Learning Resources
+- **Paul’s Online Math Notes – Factoring**
+- **Khan Academy – Polynomials**
+- **The Organic Chemistry Tutor (YouTube)**
 
-Day 8: Introduction to Calculus – Limits and Continuity
+### Practice
+- Factor: `4x² − 12x`, `x² + 5x + 6`
+- Solve: `x² + x − 6 = 0`
+- Use quadratic formula where factoring fails
 
-Focus: Congratulations – you’re now stepping into calculus itself! The first fundamental concept is the limit. Limits describe how a function’s output behaves as the input approaches some value, and they underpin the definitions of derivatives and integrals. Today you will learn what limits are, how to evaluate basic limits, and the concept of continuity. This will bridge your algebra/pre-calculus knowledge into the new realm of calculus ideas.
-	•	Topics to Master:
-	•	Concept of a Limit: Understand informally that $\lim_{x \to a} f(x) = L$ means $f(x)$ gets arbitrarily close to $L$ as $x$ approaches $a$ (from both sides). A key insight: the value of $f(a)$ (if it even exists) is not directly relevant to the limit – what matters is the trend of $f(x)$ around $a$ ￼. For example, you can have a situation where $f(a)$ is undefined or different from the limit, yet the limit exists (like a removable hole in the graph). Grasp this through examples (see below).
-	•	Computing Limits Numerically/Graphically: Practice finding limits by creating small tables of values. E.g. estimate $\lim_{x\to2} \frac{x^2-4}{x-2}$ by plugging $x=1.9,1.99,2.01,2.1$ (you’ll see values approaching 4). Graphical approach: look at the graph and see what y-value you approach as $x$ approaches the target. This builds intuition.  ￼ ￼
-	•	Basic Algebraic Limit Techniques: Learn to evaluate limits using algebra for common cases:
-	•	If $f$ is a nice (continuous) function at $a$, then $\lim_{x\to a} f(x) = f(a)$. So for a polynomial or a simple trig/exp/log function where plugging in $a$ is fine, the limit is just the value. Example: $\lim_{x\to 3} (x^2 - 1) = 3^2 - 1 = 8$.
-	•	Indeterminate form $0/0$: Many interesting limits yield $0/0$ if you plug in directly. Use algebraic manipulation to simplify. Techniques include factoring and canceling, rationalizing, or using conjugates. For instance, $\lim_{x\to 2}\frac{x^2-4}{x-2}$: direct sub gives $0/0$, but factoring $x^2-4=(x-2)(x+2)$ cancels the $(x-2)$, leaving $\lim_{x\to2}(x+2) = 4$. Similarly, $\lim_{h\to 0}\frac{\sqrt{1+h}-1}{h}$, rationalize numerator: $\frac{(\sqrt{1+h}-1)(\sqrt{1+h}+1)}{h(\sqrt{1+h}+1)} = \frac{1+h-1}{h(\sqrt{1+h}+1)} = \frac{1}{\sqrt{1+h}+1}$, then plug $h\to0$: result $1/2$. Practice a couple such manipulations.
-	•	Limits at Infinity: Get a taste of how functions behave as $x\to \infty$ or $-\infty$. For rational functions, recall that the end behavior is determined by the degrees. Example: $\lim_{x\to\infty}\frac{5x^2 - 1}{2x^2 + 3x} = \frac{5}{2}$ (ratio of leading coefficients). If degree denominator > numerator, limit is 0; if numerator > denominator, limit diverges (or $\pm \infty$). This will be useful in improper integrals and series.
-	•	Continuity: A function $f(x)$ is continuous at $x=a$ if $\lim_{x\to a}f(x) = f(a)$. In other words, the function’s value and the limit agree (no hole or jump at that point). Learn that polynomials, sin x, e^x, etc., are continuous everywhere, whereas something like $f(x) = \frac{x^2-4}{x-2}$ is not continuous at $x=2$ (there’s a hole). Also, piecewise functions can have jump discontinuities if the left- and right-hand limits differ. You should be able to identify if a graph is continuous or has a discontinuity (and of what type: removable hole, jump, infinite asymptote). This concept is important because many theorems in Calc (Intermediate Value Theorem, etc.) apply to continuous functions ￼.
-	•	Tricky Limits (optional): Be aware of special trigonometric limits: $\lim_{x\to 0}\frac{\sin x}{x} = 1$ and $\lim_{x\to 0}(1 + \frac{1}{n})^n = e$ (the latter in a different form is $\lim_{x\to 0}\frac{e^x - 1}{x} = 1$). These are used so often that they’re worth noting. If you have time, read why $\sin x \sim x$ near 0 (series or geometric argument). But at minimum, remember the result – you will likely use it in Calc I/II problems.
-	•	Learning Resources:
-	•	Khan Academy – Limits Intro: Start with “Introduction to limits” videos and problems. Khan will present examples of approaching a value from left and right, and how sometimes they differ (nonexistent limit) or agree (limit exists). Do their exercises on evaluating limits algebraically, which include factoring and rationalizing examples.
-	•	3Blue1Brown “Essence of Calculus” (Chapter 2): If you want a conceptual deep-dive, 3Blue1Brown’s second video “The paradox of the derivative” actually introduces limits by framing the idea of instantaneous rate of change as a limiting process. It’s a highly visual explanation. While not required, it can give a strong intuition for why limits matter. (Time permitting, watch the first 10 minutes for the intuitive gist.)
-	•	Paul’s Online Math Notes – Calculus I: Limit section: Paul’s notes on limits are very student-friendly. He goes through the $\frac{0}{0}$ cases with step-by-step algebra ￼, explains one-sided vs two-sided limits, and defines continuity clearly. Use these notes to see additional examples (e.g. piecewise function limits). Pay special attention to any summary he gives of limit properties – knowing those properties (e.g. you can take limit inside a sum, etc.) will help you solve limits systematically.
-	•	Practice:
-	•	Understanding Definition: In your own words (maybe write a few sentences), describe what $\lim_{x\to a}f(x) = L$ means ￼. Also, consider a simple example like $f(x) = (x^2-1)/(x-1)$. Simplify it (it becomes $x+1$ for $x\neq1$). Now, $f(1)$ is undefined, but $\lim_{x\to1}f(x) = 2$. Explain why the limit is 2 even though $f(1)$ doesn’t exist – this will reinforce the concept.
-	•	Numerical limits: For a function like $g(x) = \frac{|x|}{x}$, make a table approaching 0 from left and right (e.g. $x=-0.1,-0.01,…$ and $x=0.1,0.01,…$). See that $g(x)$ approaches -1 from the left and +1 from the right, thus $\lim_{x\to0}g(x)$ doesn’t exist (DNE). This is a classic example (sgn function) to illustrate one-sided limits and discontinuity.
-	•	Algebraic evaluation: Solve a set of about 6 limit problems:
-	1.	$\lim_{x\to 3} (2x^3 - x)$ (direct substitution).
-	2.	$\lim_{x\to -2} \frac{x^2-4}{x+2}$ (factor and cancel, removable hole).
-	3.	$\lim_{t\to 0} \frac{\sqrt{4+t} - 2}{t}$ (rationalize to find the limit, should get $1/4$).
-	4.	$\lim_{x\to 5^+} \frac{1}{5-x}$ (approaching 5 from right, denominator is negative small, so limit $=-\infty$).
-	5.	$\lim_{x\to\infty} \frac{3x^2 + 1}{4x^2 - x + 9}$ (leading terms dominate, answer $3/4$).
-	6.	$\lim_{x\to 0} \frac{\sin x}{x}$ (know this special case is 1).
-	•	Check your answers via either reasoning or tools (for rational ones, plug a very close value; for the trig one, maybe use a calculator radian mode for a small x).
-	•	Continuity check: Take a piecewise function, say $h(x) = \begin{cases}x^2 & x<1 \ 3 & x=1 \ 2x-1 & x>1 \end{cases}$. Determine if it’s continuous at $x=1$. (Find $\lim_{x\to1^-}h(x) = 1$, $\lim_{x\to1^+}h(x) = 1$, and $h(1)=3$. The left/right limits agree at 1, but the function’s value is 3, so there’s a jump – not continuous at 1. It has a removable discontinuity if we redefined $h(1)=1$.) Do a couple such analyses; this is common in exam questions to test understanding of continuity.
-	•	By the end of these exercises, you should feel comfortable with the idea of approaching values and know how to do basic limit algebra. The formal $\varepsilon$-$\delta$ definition isn’t necessary for this prep (usually taught in more theoretical courses), so focus on computational and intuitive understanding.
+### Why This Matters
+Factoring appears constantly in limits, derivatives, integrals, and partial fractions.
 
-Why this matters: Limits are the foundation of calculus. The derivative is defined as a limit (a slope as two points get infinitely close), and the definite integral is defined as a limit (adding infinitely many slices). If you understand limits, you’ll find the definitions of derivative and integral much more natural ￼ ￼. Moreover, in Calculus II you’ll encounter series and sequences, which also have limits at their core (e.g. the sum of an infinite series is the limit of partial sums). By getting limit concepts down, you set yourself up for success in both Calc I and II concepts. Today’s introduction to continuity also matters: many powerful theorems (like the Intermediate Value Theorem or determining convergence of improper integrals) assume continuity. So, as you move forward, always consider limits first – they tell you “what happens as…”, which is the key question in calculus. Having tackled Day 8, you’re now thinking like a budding calculus student, where approaching values and infinities is second nature!
+---
 
-Day 9: Differentiation – The Concept of the Derivative and Basic Rules
+## Day 4: Radicals and Rational Expressions
 
-Focus: Time to learn about the derivative, the central idea of Calculus I (and heavily used in Calculus II for series tests, etc.). The derivative measures instantaneous rate of change – essentially, it gives the slope of the tangent line to a function’s graph. Today, you’ll grasp what a derivative is, learn how to compute derivatives of common functions using rules (power, product, quotient, chain), and see some basic applications. This is a packed day, but extremely important: by the end, you should be able to differentiate most algebraic functions you encounter.
-	•	Topics to Master:
-	•	Definition of the Derivative: Understand the derivative $f’(x)$ as $\displaystyle \lim_{h\to0}\frac{f(x+h) - f(x)}{h}$. This formula encapsulates taking the slope of the secant line between two close points and moving the points infinitely close. Recognize that $f’(a)$ is the slope of $f$ at $x=a$. Conceptually: if $f$ is position, $f’$ is velocity. If $f$ gives a curve, $f’$ gives its slope at each point ￼. It might help to derive $f’ (x)$ for a simple function from first principles: e.g., do the limit for $f(x)=x^2$ to find $f’(x)=2x$. This secures understanding of where rules come from.
-	•	Basic Differentiation Rules: Learn the common derivative formulas:
-	•	Power Rule: $\frac{d}{dx}x^n = nx^{n-1}$ for any real $n$. This is a workhorse rule (e.g. $d(x^5)/dx = 5x^4$; $d(1/x)/dx = -1/x^2$ since that’s $x^{-1}$).
-	•	Constant & Coefficient Rules: $d(c)/dx = 0$ for constant $c$. $d(cf(x))/dx = c\cdot f’(x)$ (you can pull constants out).
-	•	Sum/Difference Rule: derivative of sum is sum of derivatives, likewise for difference (linearity of derivative).
-	•	Product Rule: If $u(x)$ and $v(x)$ are functions, $(uv)’ = u’v + uv’$. Practice on something like $f(x) = x^2 \sin x$.
-	•	Quotient Rule: $\displaystyle \left(\frac{u}{v}\right)’ = \frac{u’v - uv’}{v^2}$ (provided $v \neq 0$). Use it for, say, $f(x) = \frac{x}{x^2+1}$. It’s a bit memorization-heavy, but you can derive it if needed by combining product + chain, or just memorize “lo d hi minus hi d lo over lo-lo”.
-	•	Chain Rule: The most important rule for composition: if $y = f(u)$ and $u = g(x)$, then $\frac{dy}{dx} = f’(u) \cdot g’(x)$. In Leibniz form, $\frac{d}{dx}f(g(x)) = f’(g(x))\cdot g’(x)$. Practice on a composite like $\sin(x^2)$ (outer $f=\sin$, inner $g=x^2$, derivative = $\cos(x^2)\cdot 2x$). Or $e^{3x}$ (derivative $e^{3x}\cdot 3$). This rule is crucial for Calc II integration (it’s the reverse of the chain rule, $u$-substitution).
-	•	Derivative of Common Functions: Know that $(\sin x)’ = \cos x$, $(\cos x)’ = -\sin x$, $(\tan x)’ = \sec^2 x$. Also $(e^x)’ = e^x$, $(\ln x)’ = 1/x$. For $a^x$, $(a^x)’ = a^x \ln a$. For $\log_a x$, $(\log_a x)’ = 1/(x\ln a)$. These should be on your formula sheet to memorize.
-	•	Practice Differentiation: Once you have rules, apply them to lots of examples to ensure you’re doing it right. Example tasks:
-	•	Differentiate simple polynomials and sums: $d(x^3 + 5x - 4)/dx = 3x^2 + 5$.
-	•	Use product rule: if $h(x) = x^2 e^x$, $h’(x) = 2x e^x + x^2 e^x = e^x(2x + x^2)$.
-	•	Use quotient: $k(x) = \frac{\sin x}{x}$, then $k’(x) = \frac{\cos x \cdot x - \sin x \cdot 1}{x^2}$. Simplify it if possible.
-	•	Use chain: $m(x) = (3x^2 + 1)^5$, then $m’(x) = 5(3x^2+1)^4 \cdot (6x)$ by chain (outer $u^5$ and inner $3x^2+1$).
-	•	Higher-order derivatives: Know notation like $f’’(x)$ for second derivative (derivative of the derivative), etc. Understand these physically: e.g. if $f$ is position, $f’$ is velocity, $f’’$ is acceleration. In Calc II, second derivatives appear in tests for series convergence and solving differential equations. Not a major focus now, but be aware how to take a second derivative (just differentiate again). For instance, if $y=x^3$, $y’ = 3x^2$, $y’’ = 6x$.
-	•	Using Derivatives: Briefly see how derivatives solve problems:
-	•	Tangent lines: The line tangent to $y=f(x)$ at $x=a$ has slope $f’(a)$, so equation: $y - f(a) = f’(a)(x - a)$. You can try finding a tangent line equation, e.g. for $f(x) = x^2$ at $x=1$ (slope $2$, line: $y - 1 = 2(x-1)$).
-	•	Critical points: Points where $f’(x)=0$ (or undefined) are critical – often where maxima/minima occur. Just note this; in Calc II you’ll need this concept for finding extreme values in some contexts (like optimizing a function that appears in an application or testing endpoints of interval of convergence in series). You may not have time to delve deep, but know the idea: set derivative to zero to find horizontal tangents, etc.
-	•	Velocity/Acceleration: If you have a simple motion equation (e.g. $s(t) = t^3 - 5t^2$ for position), you can get $v(t) = s’(t)$ and $a(t) = v’(t)$. Do one quick check: if $s(t) = t^2$, then $v(t) = 2t$, acceleration $a(t) = 2$ (constant acceleration). This just ties derivative to a real concept.
-	•	Learning Resources:
-	•	Khan Academy – Basic Derivatives: Use the modules on “Derivative as slope of curve” and “Power rule”, “Product and quotient rules”, “Chain rule”. Khan’s exercises will guide you through differentiation step by step. Start with verifying you conceptually get derivative as a limit (Khan often has a graph where you estimate the slope of tangent). Then focus on mechanical skills with the rules.
-	•	Paul’s Online Math Notes – Calculus I: Derivatives: Paul’s notes list out all the differentiation formulas clearly (you might want to print or jot these as your formula sheet) ￼. He also has plenty of examples applying each rule in increasing complexity. If any rule confuses you, check his examples. Notably, check his example for chain rule – a common mistake is not applying it correctly with nested functions. Paul also covers implicit differentiation (differentiating relations not explicitly solved for y) – if time permits, glance at that concept (useful if you ever need $\frac{dy}{dx}$ given an equation like $x^2 + y^2 = 25$, which gives $2x + 2y \frac{dy}{dx} = 0$ so $\frac{dy}{dx} = -\frac{x}{y}$). Implicit differentiation is handy in related rates and in deriving derivative of inverse functions, but might be a stretch goal for today.
-	•	3Blue1Brown – “The Essence of Calculus”: Chapter 2 and 3 of his series visually derive the derivative of $x^2$ and generalize the power rule, etc. If you’re a visual learner and want a break from symbolic manipulation, watch a few minutes of these to see geometric interpretation of derivative rules (like how the $n$ in power rule comes from something combinatorial). It’s not necessary, but can deepen understanding.
-	•	Practice: Differentiation gets easier the more you practice. Try to differentiate at least ~10 functions covering various cases:
-	1.	A simple polynomial: $f(x) = 4x^3 - 3x + 7$.
-	2.	Including a reciprocal: $g(x) = \frac{5}{x^4}$. (Rewrite as $5x^{-4}$ first, then use power rule.)
-	3.	Product rule: $h(x) = (2x^2 + 1)(x^3 - x)$. (You can expand to check result.)
-	4.	Quotient rule: $p(x) = \frac{x^2 + 1}{x^3}$ (or something a bit more complex like $\frac{\sin x}{x}$ which you did above).
-	5.	Chain rule basics: $q(x) = (3x + 5)^7$.
-	6.	Chain in trig: $r(x) = \sin(4x)$, $s(x) = \cos^3 x$ (for $\cos^3 x$, see it as $(\cos x)^3$).
-	7.	Chain with exp: $t(x) = e^{2x^2}$ (here do inner $2x^2$, outer $e^u$).
-	8.	Implicit (if you looked at it): Differentiate $x^2 + y^2 = 25$ or $x^3 + y^3 = 6$ implicitly to find $\frac{dy}{dx}$.
-	9.	Logarithmic differentiation technique (optional advanced): differentiate $y = x^x$ (this is tricky directly; you set $\ln y = x \ln x$ and differentiate implicitly: $\frac{1}{y} y’ = \ln x + 1$, so $y’ = y(\ln x + 1) = x^x(\ln x + 1)$). This showcases using logs to differentiate weird exponentials, a skill sometimes useful in Calc II integration or series. If it’s too much, skip it, but it’s a neat application.
-	10.	Confirm any results using a CAS (computer algebra system) or differentiator tool if available (just to ensure no algebra mistakes).
-	•	Also, do a couple of tangent line calculations and critical point finds: e.g., for $f(x) = x^3 - 3x$, find $f’(x)$ and solve $f’(x)=0$ (here $3x^2 - 3 = 0$ gives $x = \pm 1$, which are critical points likely maxima/minima). Check $f(1)$ and $f(-1)$ and note shape. This ties derivative to function behavior.
-	•	Aim to get to the point where seeing something like $y = \frac{\ln x}{x^2}$ doesn’t scare you: you’d calmly apply quotient (with a chain inside for $\ln x$ as needed). Speed isn’t crucial now, accuracy is – speed will come with familiarity.
+### Focus
+Develop advanced algebra skills used heavily in limits and integration.
 
-Why this matters: Differentiation is a must-know for any calculus sequence. In Calculus II, you will use derivatives in various contexts: analyzing series (e.g. Taylor series are derived from taking derivatives), solving optimization problems in applications, working with differential equations, and more. Also, integration (Calc II’s new focus) is essentially the reverse of differentiation – knowing your derivatives well makes finding antiderivatives easier. For example, if you instantly recognize that $\frac{d}{dx}(\tan^{-1}x) = \frac{1}{1+x^2}$, then when you see $\int \frac{1}{1+x^2}dx$ in Calc II, you know it’s $\tan^{-1}x + C$. Many integration techniques rely on thinking “what derivative would produce this integrand?”. Therefore, the more derivative facts you have memorized and the more practiced you are, the easier integration will be. Additionally, Calc II topics like convergence tests for series (e.g. the Ratio Test involves taking limits of ratios that include derivatives in some cases) and calculus of parametric curves (finding slopes) all use derivatives. In short, mastering differentiation rules is non-negotiable for success. Use today to solidify that mastery, and be ready to deploy these rules instantly in problem-solving.
+### Topics to Master
+- Radicals and rational exponents
+- Rationalizing denominators
+- Simplifying rational expressions
+- Operations with rational expressions
+- Rational equations (optional)
 
-Day 10: Integration – Antiderivatives and the Fundamental Theorem of Calculus
+### Learning Resources
+- **Khan Academy – Radicals & Rational Expressions**
+- **Paul’s Online Math Notes – Algebra Review**
+- **Purplemath – Rational Expressions**
 
-Focus: In the final stretch, you’ll tackle the basics of integration, which is the other fundamental operation in calculus (roughly the inverse of differentiation). Calculus II will delve deep into integration techniques and applications, so today we establish a strong base: understanding integrals as antiderivatives and area, learning to compute basic integrals, and appreciating the Fundamental Theorem of Calculus (FTC) which links derivatives and integrals. By the end, you should be able to integrate standard functions and know how integration will expand in Calc II.
-	•	Topics to Master:
-	•	Antiderivatives: Recognize that integration (indefinite integrals) is about finding a function $F(x)$ whose derivative is the given function $f(x)$. For example, an antiderivative of $2x$ is $x^2$, since $(x^2)’ = 2x$. Remember to add the constant of integration $+C$ for indefinite integrals. Practice by asking “What differentiates to…?” for simple forms: e.g. $\int 3x^2 dx = x^3 + C$ (since $(x^3)’=3x^2$). This is essentially reversing differentiation rules.
-	•	Basic Integration Rules:
-	•	Power Rule (Integral form): $\displaystyle \int x^n dx = \frac{x^{n+1}}{n+1} + C$ for $n \neq -1$. (E.g. $\int x^4 dx = \frac{x^5}{5}+C$.) This is the inverse of the power rule for derivatives.
-	•	$\int \frac{1}{x} dx = \ln|x| + C$. (The one case power rule didn’t cover, since n=-1 case leads to log.)
-	•	Exponential/Log integrals: $\int e^x dx = e^x + C$. $\int a^x dx = \frac{a^x}{\ln a} + C$ (for $a>0$). $\int \frac{1}{1+x^2} dx = \arctan x + C$. $\int \frac{1}{\sqrt{1-x^2}} dx = \arcsin x + C$. It’s okay if inverse trig integrals aren’t memorized yet, but know they exist.
-	•	Trig integrals: $\int \sin x dx = -\cos x + C$ (since derivative of cos is -sin, so derivative of -cos is sin). $\int \cos x dx = \sin x + C$. $\int \sec^2 x dx = \tan x + C$ (because $(\tan x)’ = \sec^2 x$). Also $\int \csc^2 x dx = -\cot x + C$. These should be memorized. Others like $\int \sec x \tan x dx = \sec x + C$ are good to know, but less critical than the primary ones.
-	•	Linearity: $\int [af(x) + bg(x)] dx = a\int f(x)dx + b\int g(x)dx$. So you can integrate term by term.
-	•	Reverse Chain (Substitution) intuition: Recognize simple $u$-substitution scenarios: If an integrand looks like something and its derivative, you can set $u$ to the inner function. Example: $\int 2x(1+x^2)^3 dx$. Notice derivative of $(1+x^2)$ is $2x$. So $u = 1+x^2$ yields $du = 2x dx$, and the integral becomes $\int u^3 du = u^4/4 + C = (1+x^2)^4/4 + C$. This is a preview of a key Calc II integration skill (formal $u$-substitution), but even now start spotting these patterns. Another example: $\int \cos(3x)dx$. We know derivative of $\sin(3x)$ is $3\cos(3x)$, so $\int \cos(3x)dx = \frac{1}{3}\sin(3x)+C$. Generally, if $\int f’(g(x))g’(x) dx$, the answer is $f(g(x)) + C$. (This is just chain rule in reverse.) Practice identifying these because a huge part of Calc II is integrating functions, often by undoing the chain rule.
-	•	Definite Integrals and Area: Understand that $\int_a^b f(x) dx$ (the definite integral from a to b) represents the net area under $f(x)$ from $x=a$ to $x=b$ (area above the x-axis counts positive, below counts negative). If $f(x) \ge 0$ on [a,b], it’s just the area under the curve. Know the connection: a definite integral can be computed using an antiderivative and the Fundamental Theorem of Calculus: $\int_a^b f(x)dx = F(b) - F(a)$, where $F’(x) = f(x)$ ￼. This is the crux of FTC Part 2 – it allows you to evaluate areas quickly if you can find an antiderivative.
-	•	For example, $\int_0^2 (3x^2) dx$. An antiderivative is $x^3$. So plug 2 and 0: $2^3 - 0^3 = 8$. (Which geometrically would be area under $3x^2$ from 0 to 2.)
-	•	If you have a graph or known geometry, you can also compute some integrals by area formulas (like area of a triangle, etc.), but generally we use antiderivatives.
-	•	Fundamental Theorem of Calculus (conceptual): Connect differentiation and integration. FTC Part 1 states that $\frac{d}{dx}\int_a^x f(t)dt = f(x)$ – in other words, the derivative of an area-so-far function returns you to the original integrand function. FTC Part 2 is the evaluation theorem mentioned above. In essence, differentiation and integration are opposites ￼. Make sure you internalize this: it’s why we can solve integrals by finding antiderivatives (which are just derivatives in reverse).
-	•	Basic Integral Applications:
-	•	Interpretation: If $v(t)$ is velocity, $\int_{t_1}^{t_2} v(t)dt$ gives displacement (area under velocity curve). If $f’(x)$ is a known rate, $\int f’(x)dx = f(x) + C$ recovers the original quantity (plus constant). Realize that sums (integrals) accumulate change, whereas derivatives measure instantaneous change ￼.
-	•	Area calculation: Try a simple one – find the area between $y=x$ and the x-axis from $x=0$ to $x=3$. That’s $\int_0^3 x dx = [x^2/2]_0^3 = 9/2$. If a function dips below the axis, realize the integral counts signed area; you could split the interval or take absolute values if you want total area.
-	•	Learning Resources:
-	•	Khan Academy – Integration intro: Go through the videos on “Antiderivatives and indefinite integrals” and “Definite integrals & signed area”. Khan will introduce integration as reverse differentiation and show some examples. Then the section on “Fundamental Theorem of Calculus” ties it together. Also try the exercises on basic integration to test your skill at finding antiderivatives.
-	•	Paul’s Online Math Notes – Calculus I: Integrals: Paul covers basic integration techniques including substitution. Look at his “Indefinite Integrals” section to see lists of integrals (like a table of common antiderivatives) ￼. Use his examples to practice tricky ones. He also explains the FTC clearly – reading that explanation can reinforce your understanding of why $F(b)-F(a)$ works ￼. If you have time, also glance at any section on substitution (often a part of Calc I or early Calc II notes).
-	•	Reference Tables: It might be helpful to have a table of integrals (there are many online). Having a quick reference for trig integrals or others is useful as you practice – over time you’ll memorize them, but initially you can refer to it. OpenStax Calculus or a similar source often has such tables in an appendix.
-	•	Practice:
-	•	Antiderivatives: For each derivative rule, do a reverse:
-	•	Given $f’(x) = 7x^6$, find $f(x)$ (antiderivative $\frac{7}{7}x^7 = x^7 + C$).
-	•	$\frac{d}{dx}[\something] = \sec^2 x$, then that something was $\tan x + C$ (since $(\tan x)’ = \sec^2 x$). So $\int \sec^2 x dx = \tan x + C$.
-	•	Practice 10 indefinite integrals:
-	1.	$\int (5x^4 - 2x + 3) dx$ (polynomial term-by-term).
-	2.	$\int \frac{1}{x^3} dx$ (rewrite $x^{-3}$, then power rule -> $-1/(2x^2)+C$).
-	3.	$\int \sin x dx$ (answer $- \cos x + C$).
-	4.	$\int \sec^2 x dx$ ($\tan x + C$).
-	5.	$\int e^{5x} dx$ ($\frac{1}{5}e^{5x}+C$).
-	6.	$\int \frac{1}{2x} dx$ ($\frac{1}{2}\ln|x|+C$).
-	7.	$\int (3x+2)^5 dx$ (use mental substitution: guess result $\frac{(3x+2)^6}{18}+C$ because derivative of $(3x+2)^6$ brings a factor 18, so you divide by 18). Test by differentiating your result.
-	8.	$\int \frac{\cos 3x}{5} dx$ ($= \frac{1}{5} \cdot \frac{1}{3}\sin 3x + C = \frac{\sin 3x}{15}+C$).
-	9.	$\int \frac{2x}{x^2+1} dx$ (recognize $\frac{d}{dx}(x^2+1)=2x$, so this is $\ln|x^2+1|+C$).
-	10.	$\int (\sec x \tan x) dx$ ($=\sec x + C$).
-	•	Check a few by differentiating your answer to see if you get back the integrand.
-	•	Definite integrals: Compute a few with easy antiderivatives:
-	•	$\int_1^4 3x^2 dx = [x^3]_1^4 = 64 - 1 = 63$.
-	•	$\int_0^{\pi} \sin x dx = [-\cos x]_0^{\pi} = (-\cos \pi) - (-\cos 0) = -(-1) - (-(1)) = 1 + 1 = 2$.
-	•	$\int_{-1}^{1} 5x^3 dx = [5x^4/4]_{-1}^{1} = \frac{5}{4}(1^4 - (-1)^4) = \frac{5}{4}(1-1)=0$. (Illustrates an odd function integrated symmetrically gives 0 area – cancellations of positive/negative.)
-	•	$\int_0^2 (x^2 - 4) dx$. First, note $x^2-4$ is negative on part of [0,2]. Compute: $[\frac{x^3}{3} - 4x]_0^2 = (\frac{8}{3}-8) - (0-0) = \frac{8-24}{3} = -\frac{16}{3}$. This means net area is -16/3 (the area below outweighed above; if asked for total area you’d take absolute of the negative part separately).
-	•	FTC understanding: Take the derivative of an integral function: e.g. define $F(x) = \int_0^x \cos t dt$. By FTC, $F’(x) = \cos x$ (the integrand evaluated at x). Try another: $G(x) = \int_2^{x^2} \sqrt{1+t^2} dt$. Here the upper limit is $x^2$ (a function of x). By the chain rule version of FTC: $G’(x) = \sqrt{1+(x^2)^2} \cdot \frac{d}{dx}(x^2) = \sqrt{1+x^4} \cdot 2x$. This is an advanced example of FTC Part 1 + chain rule (if it’s confusing, skip, but it demonstrates the power of understanding these concepts).
-	•	Review and Wrap up: Reflect on what we’ve covered. At this point, you should recognize that integration and differentiation are inverse processes ￼. Summaries might help: Perhaps create a one-page sheet listing all derivative and integral formulas you know, and the main concepts (limit definition, FTC, etc.). This sheet will be a handy reference as you continue to Calculus II.
+### Practice
+- Simplify radicals: `√48`, `³√x⁴`
+- Rationalize: `1/(√5 + √2)`
+- Simplify rational expressions after factoring
 
-Why this matters: Integration is the focus of Calculus II. You will learn many techniques (integration by parts, trig integrals, partial fractions, improper integrals) – all of which build on the basics you covered today. Knowing how to find antiderivatives of common functions is crucial; it’s assumed knowledge going into Calc II that you can integrate polynomial, trig, exponential, and basic rational functions. We also saw the Fundamental Theorem, which is the bridge linking the beautiful theory of calculus to practical computation ￼. In Calc II, you will use the FTC to evaluate definite integrals (sometimes in pieces or limits), and to understand properties of functions (for example, using integrals to define new functions like the logarithm or inverse trig). Also, series (a big Calc II topic) can be understood as integrals of power series or as solving differential equations by integration. Thus, having integration fundamentals down – including the recognition that derivatives and integrals are opposites ￼ – will allow you to tackle those advanced topics with confidence.
+### Why This Matters
+Limit evaluation and integration techniques rely on clean algebraic simplification.
 
-Finally, remember that practice is key: even after this 10-day sprint, continue to solve problems. Calculus is not a spectator sport; the more you do, the more you internalize. You now have a strong foundation from arithmetic through Calc I. With focus and continued practice, you are well-prepared to succeed in Calculus II. Good luck, and enjoy the journey of higher mathematics!
+---
 
-Sources:
-	•	Khan Academy – Prerequisites and Calculus Concepts ￼ ￼ ￼ (prerequisite skills and introduction to limits)
-	•	SpainExchange (Geographic FAQ) – Preparation for Calculus ￼ (emphasizing algebra, function, trig proficiency before calculus)
-	•	Paul Dawkins’ Online Math Notes – Lamar University (Algebra/Trig Review and Calculus I Notes) ￼ ￼ ￼ ￼ ￼ ￼ (factoring vital for calculus, rationalizing, simplifying expressions, derivative/integral formulas, Fundamental Theorem insight)
-	•	Purplemath Algebra and Trig Lessons (various pages on fractions, solving equations, logarithms, trig identities) – for supplementary explanations in approachable language.
-	•	3Blue1Brown – Essence of Calculus series ￼ (conceptual understanding of calculus ideas: integrals and derivatives as inverses, visual intuition).
+## Day 5: Understanding Functions and Graphs
+
+### Focus
+Learn the language of calculus: **functions**.
+
+### Topics to Master
+- Function notation
+- Domain and range
+- Graphs of common functions
+- Even/odd symmetry
+- Function composition and inverses
+
+### Learning Resources
+- **Khan Academy – Functions**
+- **Paul’s Online Math Notes – Functions**
+- **Desmos Graphing Calculator**
+- **MathIsFun – Functions**
+
+### Practice
+- Find domains of rational and radical functions
+- Sketch graphs by hand
+- Evaluate compositions like `f(g(x))`
+
+### Why This Matters
+Calculus studies how **functions behave**—limits, derivatives, and integrals all depend on this.
+
+---
+
+## Day 6: Exponential and Logarithmic Functions
+
+### Focus
+Build fluency with exponential growth, decay, and logarithmic manipulation.
+
+### Topics to Master
+- Exponential functions (`a^x`, `e^x`)
+- Logarithms and properties
+- Solving exponential/log equations
+- Inverse relationships
+
+### Learning Resources
+- **Khan Academy – Exponentials & Logs**
+- **Paul’s Online Math Notes – Exponentials**
+- **Purplemath – Logarithms**
+- **Desmos Visualization**
+
+### Practice
+- Solve `e^{2x} = 5`
+- Simplify logarithmic expressions
+- Convert between exponential and log form
+
+### Why This Matters
+Exponential and logarithmic functions dominate Calc II integrals and series.
+
+---
+
+## Day 7: Trigonometry Essentials
+
+### Focus
+Strengthen trig skills required for Calc II integration techniques.
+
+### Topics to Master
+- Unit circle (radians)
+- Trig function definitions
+- Core identities
+- Trig equations
+- Inverse trig (intro)
+
+### Learning Resources
+- **Khan Academy – Trigonometry**
+- **MathIsFun – Unit Circle**
+- **Paul’s Online Math Notes – Trig Review**
+
+### Practice
+- Memorize unit circle values
+- Simplify expressions using identities
+- Solve equations like `sin x = √2/2`
+
+### Why This Matters
+Trig substitution and trig integrals are major Calc II topics.
+
+---
+
+## Day 8: Limits and Continuity
+
+### Focus
+Enter calculus by understanding limits—the foundation of everything.
+
+### Topics to Master
+- Concept of limits
+- Algebraic limit techniques
+- Limits at infinity
+- Continuity
+- Special limits (`sin x / x`)
+
+### Learning Resources
+- **Khan Academy – Limits**
+- **Paul’s Online Math Notes – Limits**
+- **3Blue1Brown – Essence of Calculus**
+
+### Practice
+- Compute limits algebraically
+- Analyze continuity of piecewise functions
+- Evaluate limits graphically and numerically
+
+### Why This Matters
+Derivatives, integrals, and series all rely on limits.
+
+---
+
+## Day 9: Differentiation
+
+### Focus
+Master derivatives—rate of change and slope.
+
+### Topics to Master
+- Definition of derivative
+- Differentiation rules
+- Chain, product, quotient rules
+- Derivatives of trig, exponential, and log functions
+- Tangent lines and critical points
+
+### Learning Resources
+- **Khan Academy – Derivatives**
+- **Paul’s Online Math Notes – Derivatives**
+- **3Blue1Brown – Derivative Visualizations**
+
+### Practice
+- Differentiate 10–15 functions of varying complexity
+- Find tangent lines
+- Solve `f′(x) = 0`
+
+### Why This Matters
+Integration reverses differentiation. Strong derivative skills make Calc II far easier.
+
+---
+
+## Day 10: Integration and the Fundamental Theorem of Calculus
+
+### Focus
+Prepare directly for Calculus II by mastering integration basics.
+
+### Topics to Master
+- Antiderivatives
+- Basic integration rules
+- Trig, exponential, and log integrals
+- Substitution intuition
+- Definite integrals
+- Fundamental Theorem of Calculus
+
+### Learning Resources
+- **Khan Academy – Integration**
+- **Paul’s Online Math Notes – Integrals**
+- **Integral Tables (Reference)**
+
+### Practice
+- Compute 10+ indefinite integrals
+- Evaluate definite integrals
+- Apply FTC to functions defined by integrals
+
+### Why This Matters
+Calc II is integration-heavy. This day sets the stage for advanced techniques.
+
+---
+
+## Final Notes
+
+You now have a **complete, coherent preparation path** from arithmetic to Calculus I mastery. Calculus II will push integration techniques, series, and applications—but with this foundation, you are **not starting from behind**.
+
+Calculus rewards **active problem-solving**. Keep practicing daily, even beyond these 10 days.
+
+You’re doing something ambitious—and that’s exactly how strong mathematicians are made.
