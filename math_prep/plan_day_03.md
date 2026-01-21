@@ -1,144 +1,200 @@
-## Day 3: Polynomials, Factoring, and Quadratic Equations
+# Day 3 — Polynomials & Factoring
 
-### Focus
-Today is about **polynomials**—algebraic expressions that appear everywhere in calculus. You’ll learn how to manipulate polynomials, factor them (a crucial skill), and solve quadratic equations. This is the heart of algebra preparation for calculus: without comfort here, calculus will be a struggle.
+**Goal:** Achieve complete structural fluency with polynomials and factoring so algebraic simplification and equation solving are automatic in later calculus work.
 
----
-
-### Topics to Master
-
-#### 1. Polynomial Operations
-Understand what polynomials are (expressions like  
-\[
-2x^3 - 5x + 7
-\]
-) and practice:
-- Adding and subtracting polynomials
-- Multiplying polynomials  
-
-Be able to expand expressions such as:
-\[
-(x + 2)(x - 3)
-\]
-
-Also practice adding/subtracting polynomials of like degree.  
-> *Note:* Division of polynomials is less critical at this moment, except as needed for factoring or partial fractions later.
+**Scope:** Covers **Polynomial Core + Factoring**  
+**Time Expectation:** 6–8 focused hours  
+**Rule:** You must recognize *which* factoring technique applies before attempting to factor.
 
 ---
 
-#### 2. Factoring Techniques (**Critical**)
-Factoring is one of the most important algebra skills for calculus. Learn to factor:
+## 1. Polynomials
 
-- **Greatest Common Factor (GCF)**  
-  Example:
-  \[
-  6x^2 - 8x = 2x(3x - 4)
-  \]
+### 1.1 What a Polynomial Is
+- Definition of a polynomial
+- Terms vs expressions
+- Coefficients
+- Variables and exponents
+- Writing polynomials in standard form
 
-- **Trinomials (\(ax^2 + bx + c\))**  
-  Example:
-  \[
-  x^2 + 5x + 6 = (x + 2)(x + 3)
-  \]  
-  Start with simple \(x^2\) cases, then move to trinomials with a leading coefficient, such as:
-  \[
-  2x^2 + 7x + 3
-  \]
-
-- **Difference of Squares**  
-  Example:
-  \[
-  9y^2 - 16 = (3y - 4)(3y + 4)
-  \]
-
-- **Recognizing Prime Polynomials**  
-  Learn to distinguish polynomials that factor over the reals from those that do not.
-
-> Factoring appears in almost every chapter of calculus, so it is vital to master it.
+**Learning Resource:**  
+- [Khan Academy – Introduction to polynomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials)
 
 ---
 
-#### 3. Solving Quadratic Equations
-Combine factoring skills with equation-solving techniques.
+### 1.2 Degree
+- Degree of a single term
+- Degree of a polynomial
+- Identifying the highest power
+- Why degree matters for behavior and factoring
 
-- **Solve by factoring** (when possible):  
-  Example:
-  \[
-  x^2 + x - 6 = 0
-  \]  
-  Factor:
-  \[
-  (x + 3)(x - 2) = 0
-  \]  
-  Solutions:
-  \[
-  x = -3,\; 2
-  \]
-
-- **Quadratic Formula** (when factoring is difficult):  
-  \[
-  x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-  \]  
-  Example:
-  \[
-  3x^2 - x - 4 = 0
-  \]
-
-Practice several examples of both approaches.
+**Learning Resource:**  
+- [Khan Academy – Degree of polynomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/e/degree_of_polynomials)
 
 ---
 
-#### 4. Quadratic Applications (Optional)
-Try one real-world–style problem, such as:
-- Finding two numbers that multiply to a given product and add to a given sum
+### 1.3 Leading Coefficient
+- Definition of leading coefficient
+- Relationship to the leading term
+- Effect on graph end behavior (conceptual)
 
-These problems often lead to quadratic equations and help reinforce the meaning of factors.
-
----
-
-### Learning Resources
-
-- **Paul’s Online Math Notes – Factoring Polynomials**  
-  These notes emphasize that factoring “will appear in pretty much every chapter… and so is vital that you understand it.” Review each factoring type (GCF, trinomials, difference of squares, etc.) and study the examples carefully.
-
-- **Khan Academy – Polynomial Arithmetic and Factoring**  
-  Work through:
-  - *Multiplying polynomials*
-  - *Factor polynomials*  
-  Complete the exercises—immediate feedback is especially helpful for correcting factoring mistakes.
-
-- **Video Resource (Optional)**  
-  *The Organic Chemistry Tutor* on YouTube has clear, example-heavy videos on factoring and solving quadratic equations that can help solidify patterns.
+**Learning Resource:**  
+- [Khan Academy – Leading coefficient](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/v/leading-coefficient)
 
 ---
 
-### Practice
+### 1.4 Constant Term
+- Identifying the constant term
+- Interpreting the constant as the value when the variable is zero
+- Constant term as \(x^0\)
 
-- **Factoring Practice**  
-  Factor at least 5 polynomials, such as:
-  - \(4x^2 - 12x\)
-  - \(t^2 - 9\)
-  - \(m^2 + 4m + 3\)
-  - \(2y^2 + y - 1\)
-
-  Check your answers using a textbook or an online factoring calculator.
-
-- **Quadratic Equations**  
-  Solve ~5 quadratic equations:
-  - Some that factor easily
-  - Some that require the quadratic formula
-
-- **No Real Solutions**  
-  Solve at least one quadratic with a negative discriminant (\(< 0\)) so you can recognize when a quadratic has no real roots—important later for domain and critical point analysis in calculus.
-
-> Revisit any factoring pattern that feels tricky. Extra time spent here will pay off tremendously.
+**Learning Resource:**  
+- [Khan Academy – Polynomial terms](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials)
 
 ---
 
-### Why This Matters
-Factoring and polynomial skills are the backbone of many calculus techniques. Examples include:
-- Simplifying complex fractions in limits
-- Partial fraction decomposition in integrals
-- Solving equations to find critical points (where derivatives equal zero)
+### 1.5 Polynomial Operations
 
-Factoring shows up repeatedly, and solving quadratic equations is essential for analyzing functions. By the end of today, you should be able to factor and solve quadratics almost on autopilot—freeing your mental energy for new calculus concepts.
+#### 1.5.1 Polynomial Addition
+- Aligning like terms
+- Adding coefficients
+- Handling missing powers
+
+**Learning Resource:**  
+- [Khan Academy – Adding polynomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/e/adding_polynomials)
+
+---
+
+#### 1.5.2 Polynomial Subtraction
+- Distributing negatives
+- Combining like terms
+- Avoiding sign errors
+
+**Learning Resource:**  
+- [Khan Academy – Subtracting polynomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/e/subtracting_polynomials)
+
+---
+
+#### 1.5.3 Polynomial Multiplication
+- Monomial × polynomial
+- Polynomial × polynomial
+- FOIL as a special case
+- Box/area method
+- Recognizing degree growth
+
+**Learning Resource:**  
+- [Khan Academy – Multiplying polynomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/e/multiplying_polynomials)
+
+---
+
+## 2. Factoring Techniques
+
+### 2.1 Greatest Common Factor (GCF)
+- Identifying numerical GCF
+- Identifying variable GCF
+- Factoring negative GCF intentionally
+- Why GCF is always checked first
+
+**Learning Resource:**  
+- [Khan Academy – Factoring out the GCF](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_out_gcf)
+
+---
+
+### 2.2 Trinomials \(x^2 + bx + c\)
+- Product–sum method
+- Sign analysis
+- Recognizing factorable vs prime trinomials
+
+**Learning Resource:**  
+- [Khan Academy – Factoring trinomials (simple)](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_trinomials_1)
+
+---
+
+### 2.3 Trinomials \(ax^2 + bx + c\)
+- AC (decomposition) method
+- Grouping after decomposition
+- Common factoring errors
+
+**Learning Resource:**  
+- [Khan Academy – Factoring trinomials with leading coefficient](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_trinomials_2)
+
+---
+
+### 2.4 Difference of Squares
+- Pattern recognition
+- Structure: \(a^2 - b^2\)
+- Why sums of squares do not factor over the reals
+
+**Learning Resource:**  
+- [Khan Academy – Difference of squares](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_difference_of_squares)
+
+---
+
+### 2.5 Perfect Square Trinomials
+- Recognizing square patterns
+- Binomial squared form
+- Verification by expansion
+
+**Learning Resource:**  
+- [Khan Academy – Perfect square trinomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_perfect_square_trinomials)
+
+---
+
+### 2.6 Factoring by Grouping
+- Grouping strategy
+- Factoring common binomials
+- Multi-step factoring chains
+
+**Learning Resource:**  
+- [Khan Academy – Factoring by grouping](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_by_grouping)
+
+---
+
+## 3. Quadratic Equations
+
+### 3.1 Solving by Factoring
+- Writing equations in standard form
+- Zero-product property
+- Interpreting roots as solutions
+
+**Learning Resource:**  
+- [Khan Academy – Solving quadratics by factoring](https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics/e/solving_quadratics_by_factoring)
+
+---
+
+### 3.2 Quadratic Formula
+- Formula structure
+- Identifying \(a\), \(b\), and \(c\)
+- Exact vs decimal solutions
+- When the quadratic formula is required
+
+**Learning Resource:**  
+- [Khan Academy – Quadratic formula](https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics/e/quadratic_formula)
+
+---
+
+### 3.3 Discriminant
+- Definition of \(b^2 - 4ac\)
+- Predicting number of solutions
+- Meaning of:
+  - Two real roots
+  - One real root
+  - No real roots
+
+**Learning Resource:**  
+- [Khan Academy – Discriminant](https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics/v/discriminant)
+
+---
+
+## ✅ Day 3 Mastery Criteria
+
+You are finished with **Day 3** when:
+- You can classify a polynomial instantly
+- You know which factoring method applies before starting
+- Factoring feels reversible and structural
+- Quadratic equations no longer surprise you
+- You can predict solution types using the discriminant
+
+If factoring ever feels slow, this is the day to repeat.
+
+---

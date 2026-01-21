@@ -1,261 +1,174 @@
-# Day 9: Differentiation – The Concept of the Derivative and Basic Rules
+# Day 9 — Limits & Continuity
 
-## Focus
+**Goal:** Build a complete conceptual and procedural foundation for limits and continuity so derivatives and integrals feel logically inevitable rather than mysterious.
 
-Time to learn about the **derivative**, the central idea of Calculus I (and heavily used in Calculus II for series tests, etc.). The derivative measures **instantaneous rate of change**—essentially, it gives the **slope of the tangent line** to a function’s graph.
-
-Today, you’ll:
-- Grasp what a derivative *is*
-- Learn how to compute derivatives using standard rules (power, product, quotient, chain)
-- See basic applications of derivatives
-
-This is a **packed but critical day**. By the end, you should be able to differentiate most algebraic functions you encounter.
+**Scope:** Covers **all limit foundations**  
+**Time Expectation:** 6–8 focused hours  
+**Rule:** A limit describes *behavior*, not necessarily value.
 
 ---
 
-## Topics to Master
+## 1. Limits
 
-### Definition of the Derivative
+### 1.1 Conceptual Definition
+- Intuitive meaning of \(\lim_{x \to a} f(x)\)
+- Behavior near a point vs value at a point
+- Limits independent of function definition at the point
+- Left-hand vs right-hand approach intuition
 
-Understand the derivative \( f'(x) \) as:
-
-\[
-f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}
-\]
-
-This formula represents:
-- The slope of a **secant line** between two nearby points
-- Letting those points move infinitely close to become a **tangent line**
-
-Key interpretations:
-- \( f'(a) \) is the slope of \( f \) at \( x = a \)
-- If \( f \) is **position**, then \( f' \) is **velocity**
-- If \( f \) is a **curve**, then \( f' \) gives its **slope** at each point
-
-To cement understanding, derive a derivative *from first principles*:
-- Example:  
-  \( f(x) = x^2 \Rightarrow f'(x) = 2x \) via the limit definition
-
-This shows **where differentiation rules come from**, not just how to apply them.
+**Learning Resource:**  
+- [Khan Academy – Limits intro](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-1/v/introduction-to-limits)
 
 ---
 
-### Basic Differentiation Rules
+### 1.2 One-Sided Limits
+- Definition of left-hand limit
+- Definition of right-hand limit
+- When one-sided limits differ
+- When a two-sided limit fails to exist
 
-#### Power Rule
-\[
-\frac{d}{dx}x^n = nx^{n-1}
-\]
-
-Examples:
-- \( \frac{d}{dx}(x^5) = 5x^4 \)
-- \( \frac{d}{dx}(1/x) = -1/x^2 \) (since \( x^{-1} \))
-
-#### Constant & Coefficient Rules
-- \( \frac{d}{dx}(c) = 0 \)
-- \( \frac{d}{dx}[c f(x)] = c f'(x) \)
-
-#### Sum / Difference Rule
-- Derivative of a sum is the sum of derivatives
-- Derivative of a difference is the difference of derivatives
+**Learning Resource:**  
+- [Khan Academy – One-sided limits](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-2/v/one-sided-limits)
 
 ---
 
-### Product Rule
+### 1.3 Graphical Limits
+- Reading limits from graphs
+- Approaching a point visually
+- Distinguishing holes, jumps, and asymptotes
+- Open vs closed circles
 
-If \( u(x) \) and \( v(x) \) are functions:
-
-\[
-(uv)' = u'v + uv'
-\]
-
-Example:
-- \( f(x) = x^2 \sin x \)
+**Learning Resource:**  
+- [Khan Academy – Limits from graphs](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-3/v/estimating-limits-from-graphs)
 
 ---
 
-### Quotient Rule
+### 1.4 Numerical Limits
+- Using tables of values
+- Approaching from left and right
+- Recognizing divergence or oscillation
 
-\[
-\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}, \quad v \neq 0
-\]
-
-Example:
-- \( f(x) = \frac{x}{x^2 + 1} \)
-
-Mnemonic:
-> *“Low d-high minus high d-low over low-low”*
+**Learning Resource:**  
+- [Khan Academy – Limits from tables](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-4/v/estimating-limits-from-tables)
 
 ---
 
-### Chain Rule
+## 2. Limit Techniques
 
-For composite functions:
+### 2.1 Direct Substitution
+- When substitution works
+- Continuous functions and substitution
+- Identifying indeterminate forms
 
-\[
-\frac{d}{dx} f(g(x)) = f'(g(x)) \cdot g'(x)
-\]
-
-Examples:
-- \( \sin(x^2) \Rightarrow \cos(x^2)\cdot 2x \)
-- \( e^{3x} \Rightarrow 3e^{3x} \)
-
-This rule is **crucial for Calc II**, especially for integration via *u-substitution*.
+**Learning Resource:**  
+- [Khan Academy – Direct substitution](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-5/v/direct-substitution)
 
 ---
 
-### Derivatives of Common Functions
+### 2.2 Factoring & Canceling
+- Recognizing removable discontinuities
+- Canceling common factors
+- Limits involving rational expressions
 
-- \( (\sin x)' = \cos x \)
-- \( (\cos x)' = -\sin x \)
-- \( (\tan x)' = \sec^2 x \)
-- \( (e^x)' = e^x \)
-- \( (\ln x)' = \frac{1}{x} \)
-- \( (a^x)' = a^x \ln a \)
-- \( (\log_a x)' = \frac{1}{x \ln a} \)
-
-These **must be memorized**.
+**Learning Resource:**  
+- [Khan Academy – Limits by factoring](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-6/v/limits-by-factoring)
 
 ---
 
-## Practice Differentiation
+### 2.3 Rationalization
+- Conjugates in limits
+- Eliminating indeterminate forms
+- When rationalization applies
 
-### Example Tasks
-
-- **Polynomial**  
-  \[
-  \frac{d}{dx}(x^3 + 5x - 4) = 3x^2 + 5
-  \]
-
-- **Product Rule**  
-  \[
-  h(x) = x^2 e^x \Rightarrow h'(x) = e^x(2x + x^2)
-  \]
-
-- **Quotient Rule**  
-  \[
-  k(x) = \frac{\sin x}{x} \Rightarrow k'(x) = \frac{x\cos x - \sin x}{x^2}
-  \]
-
-- **Chain Rule**  
-  \[
-  m(x) = (3x^2 + 1)^5 \Rightarrow m'(x) = 5(3x^2 + 1)^4 \cdot 6x
-  \]
+**Learning Resource:**  
+- [Khan Academy – Limits by rationalization](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-7/v/limits-by-rationalizing)
 
 ---
 
-### Higher-Order Derivatives
+### 2.4 Limits at Infinity
+- Meaning of \(x \to \pm\infty\)
+- Horizontal asymptotes
+- Dominant term analysis
+- Infinite limits vs finite limits
 
-- \( f''(x) \): second derivative  
-- Interpretation:
-  - Position → velocity → acceleration
-
-Example:
-- \( y = x^3 \)
-- \( y' = 3x^2 \)
-- \( y'' = 6x \)
+**Learning Resource:**  
+- [Khan Academy – Limits at infinity](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-8/v/limits-at-infinity)
 
 ---
 
-## Using Derivatives
+## 3. Continuity
 
-### Tangent Lines
+### 3.1 Definition of Continuity
+- Three conditions for continuity at a point
+- Continuity on an interval
+- Relationship between continuity and limits
 
-Equation at \( x = a \):
-
-\[
-y - f(a) = f'(a)(x - a)
-\]
-
-Example:
-- \( f(x) = x^2 \) at \( x = 1 \)
-- Slope \( = 2 \)
-- Line: \( y - 1 = 2(x - 1) \)
+**Learning Resource:**  
+- [Khan Academy – Continuity](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-9/v/continuity)
 
 ---
 
-### Critical Points
+### 3.2 Removable Discontinuities
+- Holes in graphs
+- Limits exist but function value is missing or mismatched
+- Algebraic identification
 
-- Occur when \( f'(x) = 0 \) or undefined
-- Often correspond to maxima or minima
-- Important in optimization and series endpoints
-
----
-
-### Velocity & Acceleration
-
-Example:
-- \( s(t) = t^3 - 5t^2 \)
-- \( v(t) = s'(t) \)
-- \( a(t) = v'(t) \)
-
-If:
-- \( s(t) = t^2 \)
-- \( v(t) = 2t \)
-- \( a(t) = 2 \)
+**Learning Resource:**  
+- [Khan Academy – Removable discontinuities](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-10/v/removable-discontinuities)
 
 ---
 
-## Learning Resources
+### 3.3 Jump Discontinuities
+- Left and right limits finite but unequal
+- Graphical interpretation
+- Piecewise function context
 
-### Khan Academy – Basic Derivatives
-- Derivative as slope of curve
-- Power, product, quotient, and chain rules
-- Excellent step-by-step practice
-
-### Paul’s Online Math Notes – Calculus I
-- Clear formula lists
-- Extensive worked examples
-- Includes **implicit differentiation**
-  - Example:
-    \[
-    x^2 + y^2 = 25 \Rightarrow \frac{dy}{dx} = -\frac{x}{y}
-    \]
-
-### 3Blue1Brown – *Essence of Calculus*
-- Chapters 2–3
-- Visual intuition for derivatives
-- Optional but excellent for conceptual depth
+**Learning Resource:**  
+- [Khan Academy – Jump discontinuities](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-11/v/jump-discontinuities)
 
 ---
 
-## Practice Set (Do ~10)
+### 3.4 Infinite Discontinuities
+- Vertical asymptotes
+- Limits that diverge to infinity
+- Relationship to rational functions
 
-1. \( f(x) = 4x^3 - 3x + 7 \)
-2. \( g(x) = \frac{5}{x^4} \)
-3. \( h(x) = (2x^2 + 1)(x^3 - x) \)
-4. \( p(x) = \frac{x^2 + 1}{x^3} \)
-5. \( q(x) = (3x + 5)^7 \)
-6. \( r(x) = \sin(4x) \), \( s(x) = \cos^3 x \)
-7. \( t(x) = e^{2x^2} \)
-8. Implicit: \( x^2 + y^2 = 25 \)
-9. Log diff (optional):  
-   \[
-   y = x^x \Rightarrow y' = x^x(\ln x + 1)
-   \]
-10. Verify results using a CAS
-
-Also:
-- Find tangent lines
-- Find critical points (e.g. \( f(x) = x^3 - 3x \))
+**Learning Resource:**  
+- [Khan Academy – Infinite discontinuities](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-12/v/infinite-discontinuities)
 
 ---
 
-## Why This Matters
+## 4. Special Limits
 
-Differentiation is **non-negotiable** for Calculus II.
+### 4.1 Trigonometric Special Limit
+- \(\lim_{x \to 0} \frac{\sin x}{x} = 1\)
+- Why radians are required
+- Geometric intuition
 
-You’ll use derivatives for:
-- Taylor and power series
-- Optimization problems
-- Differential equations
-- Parametric curves
-- Integration (as reverse differentiation)
+**Learning Resource:**  
+- [Khan Academy – Limit of sin(x)/x](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-13/v/limit-of-sin-x-over-x)
 
-Example:
-- Knowing \( \frac{d}{dx}(\tan^{-1}x) = \frac{1}{1+x^2} \)
-- Makes \( \int \frac{1}{1+x^2}dx = \tan^{-1}x + C \) immediate
+---
 
-The stronger your differentiation skills, the easier **integration and series analysis** become.
+### 4.2 Exponential Special Limit
+- \(\lim_{x \to 0} \frac{e^x - 1}{x} = 1\)
+- Relationship to derivative of \(e^x\)
+- Conceptual meaning
 
-**Accuracy first. Speed follows.**
+**Learning Resource:**  
+- [Khan Academy – Limit of (e^x − 1)/x](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-14/v/limit-of-e-x-minus-1-over-x)
+
+---
+
+## ✅ Day 9 Mastery Criteria
+
+You are finished with **Day 9** when:
+- Limits are understood as behavior, not substitution
+- One-sided limits feel intuitive
+- You choose the correct limit technique instinctively
+- Continuity conditions are recalled without effort
+- Special limits are memorized with understanding
+
+This day is the conceptual bridge into derivatives and integrals.
+
+---

@@ -1,141 +1,241 @@
-## Day 4: Radical Expressions and Rational Expressions
+# Day 4 — Rational & Radical Algebra
 
-**Focus:**  
-This day tackles two advanced algebra topics: **radicals (roots)** and **rational expressions (fractions involving polynomials)**. These topics solidify your algebra toolbox. Simplifying complex expressions underpins limit calculations and integral simplifications in calculus (for example, when rationalizing a numerator in a limit, or simplifying an integrand). Mastering them now will save you from algebraic roadblocks later.
+**Goal:** Eliminate fear and friction around exponents, radicals, and rational expressions so simplification and equation-solving feel automatic.
 
----
-
-## Topics to Master
-
-### 1. Radicals and Exponents
-- Understand *n*th roots and the connection to exponents:
-  - \(\sqrt{x} = x^{1/2}\)
-  - \(\sqrt[3]{x^2} = x^{2/3}\)
-- Practice simplifying expressions such as:
-  - \(\sqrt{50} = 5\sqrt{2}\)
-  - \(\sqrt[3]{16} = 2\sqrt[3]{2}\)
-- Review and apply key rules:
-  - \(\sqrt{a}\sqrt{b} = \sqrt{ab}\) (for nonnegative \(a, b\))
-  - Adding/subtracting radicals: **only like radicals can be combined**
+**Scope:** Covers **all Exponents, Radicals & Rational Expressions**  
+**Time Expectation:** 6–8 focused hours  
+**Rule:** Always simplify *before* solving. Domain awareness is not optional.
 
 ---
 
-### 2. Rationalizing
-- Learn how to rationalize denominators (or numerators):
-  - \(\frac{1}{\sqrt{3}} = \frac{\sqrt{3}}{3}\) by multiplying by \(\frac{\sqrt{3}}{\sqrt{3}}\)
-  - \(\frac{2}{3 - \sqrt{5}}\): multiply numerator and denominator by the conjugate \((3 + \sqrt{5})\)
-- This technique is sometimes required in calculus, especially when evaluating limits.
+## 1. Exponent Laws
+
+### 1.1 Product Rule
+- Multiplying powers with the same base
+- Adding exponents
+- Recognizing when the rule applies (same base only)
+
+**Learning Resource:**  
+- [Khan Academy – Product rule of exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponents/e/product_rule)
 
 ---
 
-### 3. Rational Expressions
-Rational expressions are fractions with polynomials in the numerator and/or denominator (e.g., \(\frac{x^2 - 1}{x + 1}\)).
+### 1.2 Quotient Rule
+- Dividing powers with the same base
+- Subtracting exponents
+- Understanding why subtraction works
 
-**Key skills include:**
-
-- **Simplifying rational expressions**
-  - Always factor first.
-  - Example:  
-    \[
-    \frac{x^2 - 1}{x - 1} = \frac{(x - 1)(x + 1)}{x - 1} = x + 1 \quad (x \neq 1)
-    \]
-  - This skill is vital in many calculus problems.
-
-- **Performing operations**
-  - Adding/subtracting: find a common denominator.
-  - Multiplying/dividing: factor first, then cancel.
-  - Example additions and products:
-    - \(\frac{2}{x} + \frac{3}{2x^2}\)
-    - \(\frac{x^2 - 4}{3x} \cdot \frac{9x}{2(x - 2)}\)
-
-- **Complex fraction simplification (optional)**
-  - Example:
-    \[
-    \frac{\frac{1}{x} + \frac{2}{y}}{\frac{3}{x}}
-    \]
-  - Less common, but excellent for sharpening algebraic manipulation skills.
+**Learning Resource:**  
+- [Khan Academy – Quotient rule of exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponents/e/quotient_rule)
 
 ---
 
-### 4. Solving Rational Equations (Optional)
-- Example:
-  \[
-  \frac{1}{x} + \frac{1}{2} = \frac{1}{3}
-  \]
-- Steps:
-  - Find a common denominator.
-  - Solve the resulting equation.
-  - Check for extraneous solutions (e.g., \(x = 0\) is not allowed).
-- This prepares you for techniques like partial fractions in calculus.
+### 1.3 Power Rule
+- Power of a power
+- Distributing exponents across multiplication
+- Avoiding incorrect distribution over addition
+
+**Learning Resource:**  
+- [Khan Academy – Power rule of exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponents/e/power_rule)
 
 ---
 
-## Learning Resources
+### 1.4 Negative Exponents
+- Interpreting negative exponents as reciprocals
+- Moving factors between numerator and denominator
+- Simplifying expressions with negative exponents
 
-- **Khan Academy – Radicals & Exponentials**
-  - Work through:
-    - *Radical expressions*
-    - *Rational exponents*
-  - Focus on simplifying radicals and rationalizing denominators.
-
-- **Paul’s Online Math Notes – Algebra/Trig Review**
-  - Sections on *Radicals* and *Rational Expressions*
-  - Especially strong coverage of rationalizing denominators and simplifying rational expressions.
-  - Sample problems with solutions included.
-
-- **Purplemath – Rational Expressions**
-  - Step-by-step walkthroughs.
-  - Highlights common mistakes (e.g., canceling terms that aren’t common factors).
-
-- **Interactive Tool**
-  - Use an online rational simplifier (e.g., MathPortal or Symbolab).
-  - Check your work step by step.
-  - Example verification:
-    \[
-    \frac{x^2 - 4}{2x^2 + 6x} \rightarrow \frac{x - 2}{2x + 6}, \quad x \neq -3
-    \]
+**Learning Resource:**  
+- [Khan Academy – Negative exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponents/v/negative-exponents)
 
 ---
 
-## Practice
+### 1.5 Fractional Exponents
+- Meaning of fractional exponents
+- Relationship between roots and exponents
+- Converting between radical and exponent form
 
-- **Radicals**
-  - Simplify at least **10 radical expressions**, including:
-    - \(\sqrt{48}\)
-    - \(\sqrt{18} + 3\sqrt{2}\)
-    - \(\sqrt[3]{x^4}\)
-    - \((\sqrt{3} - \sqrt{2})^2\)
-  - Rationalize denominators where applicable.
-
-- **Rational Expressions**
-  - Simplify **8–10 expressions**, including:
-    - Factoring: \(\frac{x^2 - 9}{2x^2 + 3x}\)
-    - Adding/subtracting: \(\frac{3}{x} - \frac{2}{x^2}\)
-    - One or two complex fractions.
-
-- **Rationalizing Practice**
-  - Try tricky cases such as:
-    - \(\frac{1}{\sqrt{5} + \sqrt{2}}\)
-
-- **Rational Equations**
-  - Solve 1–2 equations.
-  - Always exclude values that make denominators zero.
-
-- **Check Your Work**
-  - Algebraic errors are a common calculus pitfall—catch them now.
+**Learning Resource:**  
+- [Khan Academy – Fractional exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponents/v/fractional-exponents)
 
 ---
 
-## Why This Matters
+## 2. Radicals
 
-Calculus problems frequently require algebraic simplification before or after applying calculus concepts. For example:
+### 2.1 Square Roots
+- Definition of square root
+- Perfect squares
+- Principal square root vs negative root
 
-\[
-\lim_{x \to 0} \frac{\sqrt{x + 1} - 1}{x}
-\]
+**Learning Resource:**  
+- [Khan Academy – Square roots](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/v/square-roots)
 
-This limit is evaluated by **rationalizing the numerator**. Without strong algebra skills, the problem becomes much harder.
+---
 
-Similarly, integrals involving rational functions rely heavily on simplification and decomposition (partial fractions). By conquering radicals and rational expressions now, you ensure that algebraic complexity won’t derail your calculus work.
+### 2.2 Higher-Order Roots
+- Cube roots
+- Fourth roots and beyond
+- Interpreting the index of a radical
 
-These are not “side topics”—they directly support many calculus techniques you’re about to learn.
+**Learning Resource:**  
+- [Khan Academy – Roots](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals)
+
+---
+
+### 2.3 Radical Simplification
+- Factoring inside radicals
+- Pulling out perfect powers
+- Simplifying variables under radicals
+
+**Learning Resource:**  
+- [Khan Academy – Simplifying radicals](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/e/simplifying_radicals)
+
+---
+
+### 2.4 Adding & Subtracting Radicals
+- Like radicals vs unlike radicals
+- Combining coefficients
+- Common simplification mistakes
+
+**Learning Resource:**  
+- [Khan Academy – Adding and subtracting radicals](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/e/adding_subtracting_radicals)
+
+---
+
+### 2.5 Multiplying Radicals
+- Radical multiplication rule
+- Multiplying coefficients and radicands
+- Simplifying after multiplication
+
+**Learning Resource:**  
+- [Khan Academy – Multiplying radicals](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/e/multiplying_radicals)
+
+---
+
+## 3. Rationalization
+
+### 3.1 Rationalizing Denominators
+- Removing radicals from denominators
+- Single-term radical denominators
+- Multi-term denominators
+
+**Learning Resource:**  
+- [Khan Academy – Rationalizing denominators](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/e/rationalizing_denominators)
+
+---
+
+### 3.2 Rationalizing Numerators
+- When numerator rationalization is required
+- Structural symmetry with denominator rationalization
+
+**Learning Resource:**  
+- [Khan Academy – Rationalizing radicals](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals)
+
+---
+
+### 3.3 Conjugates
+- Definition of a conjugate
+- Why conjugates eliminate radicals
+- Connection to difference of squares
+
+**Learning Resource:**  
+- [Khan Academy – Conjugates](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/v/conjugates)
+
+---
+
+## 4. Rational Expressions
+
+### 4.1 Simplifying Rational Expressions
+- Factoring numerator and denominator
+- Canceling factors (not terms)
+- Identifying excluded values
+
+**Learning Resource:**  
+- [Khan Academy – Simplifying rational expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions)
+
+---
+
+### 4.2 Domain Restrictions
+- Values that make denominators zero
+- Writing domain restrictions explicitly
+- Understanding why restrictions persist after simplification
+
+**Learning Resource:**  
+- [Khan Academy – Domain of rational expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions/v/domain-restrictions)
+
+---
+
+### 4.3 Multiplication & Division
+- Multiplying rational expressions
+- Dividing using reciprocals
+- Simplifying before multiplying
+
+**Learning Resource:**  
+- [Khan Academy – Multiplying and dividing rational expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions/e/multiplying_dividing_rational_expressions)
+
+---
+
+### 4.4 Addition & Subtraction
+- Finding the least common denominator (LCD)
+- Rewriting expressions with common denominators
+- Combining numerators correctly
+
+**Learning Resource:**  
+- [Khan Academy – Adding and subtracting rational expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions/e/adding_and_subtracting_rational_expressions)
+
+---
+
+### 4.5 Complex Fractions
+- Understanding nested fractions
+- Clearing denominators
+- Avoiding partial simplification errors
+
+**Learning Resource:**  
+- [Khan Academy – Complex fractions](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions/e/complex_fractions)
+
+---
+
+## 5. Rational & Radical Equations
+
+### 5.1 Clearing Denominators
+- Identifying the LCD
+- Multiplying the entire equation
+- Preserving equality
+
+**Learning Resource:**  
+- [Khan Academy – Rational equations](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-equations)
+
+---
+
+### 5.2 Solving Radical Equations
+- Isolating the radical
+- Squaring both sides
+- Multi-step radical equations
+
+**Learning Resource:**  
+- [Khan Academy – Radical equations](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/e/radical_equations)
+
+---
+
+### 5.3 Extraneous Solutions
+- Why extraneous solutions occur
+- Checking solutions in the original equation
+- Rejecting invalid answers
+
+**Learning Resource:**  
+- [Khan Academy – Extraneous solutions](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/v/extraneous-solutions)
+
+---
+
+## ✅ Day 4 Mastery Criteria
+
+You are finished with **Day 4** when:
+- Exponent rules are reflexive
+- Radicals simplify cleanly and confidently
+- You instinctively check domain restrictions
+- Rational expressions no longer feel cluttered
+- Extraneous solutions are expected and handled calmly
+
+If simplification feels slow or uncertain, this is the day to reinforce before moving on.
+
+---

@@ -1,303 +1,349 @@
-# Day 10: Integration – Antiderivatives and the Fundamental Theorem of Calculus
+# Day 10 — Derivatives, Sequences & Series Foundations
 
-## Focus
+**Goal:** Finish all remaining Calculus I foundations and gain controlled exposure to Calculus II concepts so the transition feels familiar rather than abrupt.
 
-In the final stretch, you’ll tackle the basics of **integration**, which is the other fundamental operation in calculus (roughly the inverse of differentiation). Calculus II will delve deep into integration techniques and applications, so today we establish a strong base: understanding integrals as **antiderivatives and area**, learning to compute **basic integrals**, and appreciating the **Fundamental Theorem of Calculus (FTC)**, which links derivatives and integrals.
-
-By the end, you should be able to integrate standard functions and understand how integration will expand in Calculus II.
-
----
-
-## Topics to Master
-
-### Antiderivatives
-
-- Recognize that integration (indefinite integrals) is about finding a function \( F(x) \) whose derivative is the given function \( f(x) \).
-- Example: An antiderivative of \( 2x \) is \( x^2 \), since \( (x^2)' = 2x \).
-- Always include the **constant of integration** \( +C \) for indefinite integrals.
-- Practice by asking: *“What differentiates to…?”*
-  - Example:  
-    \[
-    \int 3x^2 \, dx = x^3 + C \quad \text{since } (x^3)' = 3x^2
-    \]
-- This is essentially **reversing differentiation rules**.
+**Scope:** Covers **remaining Calc I + Calc II pre-exposure**  
+**Time Expectation:** 6–8 focused hours  
+**Rule:** Today is about *recognition*, not mastery. You are building mental templates.
 
 ---
 
-### Basic Integration Rules
+## 1. Derivatives
 
-#### Power Rule (Integral Form)
+### 1.1 Definition via Limits
+- Derivative as a limit of average rates of change
+- Difference quotient structure
+- Tangent line interpretation
+- Relationship between limits and instantaneous change
 
-\[
-\int x^n \, dx = \frac{x^{n+1}}{n+1} + C \quad \text{for } n \neq -1
-\]
-
-- Example:
-  \[
-  \int x^4 \, dx = \frac{x^5}{5} + C
-  \]
-- This is the inverse of the derivative power rule.
-
-#### Logarithmic Case
-
-\[
-\int \frac{1}{x} \, dx = \ln |x| + C
-\]
-
-- This is the special case where \( n = -1 \).
-
-#### Exponential and Inverse Trig Integrals
-
-- \( \int e^x \, dx = e^x + C \)
-- \( \int a^x \, dx = \frac{a^x}{\ln a} + C \) for \( a > 0 \)
-- \( \int \frac{1}{1+x^2} \, dx = \arctan x + C \)
-- \( \int \frac{1}{\sqrt{1-x^2}} \, dx = \arcsin x + C \)
-
-> It’s okay if inverse trig integrals aren’t memorized yet—just know they exist.
+**Learning Resource:**  
+- [Khan Academy – Derivative as a limit](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-1/v/derivative-definition)
 
 ---
 
-### Trigonometric Integrals (Memorize These)
+### 1.2 Power Rule
+- Differentiating \(x^n\)
+- Constant multiples
+- Why the rule works (pattern recognition)
 
-- \( \int \sin x \, dx = -\cos x + C \)
-- \( \int \cos x \, dx = \sin x + C \)
-- \( \int \sec^2 x \, dx = \tan x + C \)
-- \( \int \csc^2 x \, dx = -\cot x + C \)
-
-Also useful (but slightly less critical):
-
-- \( \int \sec x \tan x \, dx = \sec x + C \)
+**Learning Resource:**  
+- [Khan Academy – Power rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-2/v/power-rule)
 
 ---
 
-### Linearity of Integrals
+### 1.3 Product Rule
+- When the rule applies
+- Structure of the formula
+- Common misuse cases
 
-\[
-\int [a f(x) + b g(x)] \, dx = a \int f(x) \, dx + b \int g(x) \, dx
-\]
-
-- Integrate **term by term**.
-
----
-
-### Reverse Chain Rule (Substitution Intuition)
-
-Recognize simple \( u \)-substitution patterns.
-
-**Example 1:**
-\[
-\int 2x(1+x^2)^3 \, dx
-\]
-
-- Derivative of \( 1+x^2 \) is \( 2x \)
-- Let \( u = 1+x^2 \), \( du = 2x\,dx \)
-- Integral becomes:
-  \[
-  \int u^3 \, du = \frac{u^4}{4} + C = \frac{(1+x^2)^4}{4} + C
-  \]
-
-**Example 2:**
-\[
-\int \cos(3x) \, dx = \frac{1}{3}\sin(3x) + C
-\]
-
-General idea:
-\[
-\int f'(g(x))g'(x)\,dx = f(g(x)) + C
-\]
-
-This is the **chain rule in reverse**, and it is a *huge* part of Calculus II.
+**Learning Resource:**  
+- [Khan Academy – Product rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2/ab-3-2/v/product-rule)
 
 ---
 
-### Definite Integrals and Area
+### 1.4 Quotient Rule
+- Relationship to product rule
+- Structure and memorization
+- Simplifying before differentiating
 
-- The definite integral
-  \[
-  \int_a^b f(x)\,dx
-  \]
-  represents **net area** under the curve from \( a \) to \( b \).
-- Area above the x-axis is positive; below is negative.
-- If \( f(x) \ge 0 \) on \([a,b]\), it equals geometric area.
-
-Using the **Fundamental Theorem of Calculus (FTC)**:
-\[
-\int_a^b f(x)\,dx = F(b) - F(a)
-\quad \text{where } F'(x) = f(x)
-\]
-
-**Example:**
-\[
-\int_0^2 3x^2 \, dx
-\]
-
-- Antiderivative: \( x^3 \)
-- Evaluate:
-  \[
-  2^3 - 0^3 = 8
-  \]
+**Learning Resource:**  
+- [Khan Academy – Quotient rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2/ab-3-3/v/quotient-rule)
 
 ---
 
-### Fundamental Theorem of Calculus (Conceptual)
+### 1.5 Chain Rule
+- Nested functions
+- Inner vs outer functions
+- Recognizing composite structure
 
-- **FTC Part 1**:
-  \[
-  \frac{d}{dx}\int_a^x f(t)\,dt = f(x)
-  \]
-  The derivative of accumulated area returns the original function.
-- **FTC Part 2**:
-  \[
-  \int_a^b f(x)\,dx = F(b) - F(a)
-  \]
-
-**Big idea:** Differentiation and integration are **opposites**.
+**Learning Resource:**  
+- [Khan Academy – Chain rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2/ab-3-4/v/chain-rule)
 
 ---
 
-### Basic Integral Applications
+## 2. Common Derivatives
 
-#### Interpretation
+### 2.1 Polynomials
+- Differentiating sums of powers
+- Constants vanish
+- Degree reduction intuition
 
-- If \( v(t) \) is velocity:
-  \[
-  \int_{t_1}^{t_2} v(t)\,dt
-  \]
-  gives **displacement**.
-- If \( f'(x) \) is a rate:
-  \[
-  \int f'(x)\,dx = f(x) + C
-  \]
-
-Derivatives measure **instantaneous change**; integrals **accumulate change**.
-
-#### Area Example
-
-- Area between \( y = x \) and the x-axis from \( x=0 \) to \( x=3 \):
-  \[
-  \int_0^3 x\,dx = \left[\frac{x^2}{2}\right]_0^3 = \frac{9}{2}
-  \]
+**Learning Resource:**  
+- [Khan Academy – Derivatives of polynomials](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-3/v/derivatives-of-polynomials)
 
 ---
 
-## Learning Resources
+### 2.2 Trigonometric Functions
+- \(\sin x\), \(\cos x\), \(\tan x\)
+- Reciprocal trig derivatives
+- Pattern recognition over memorization
 
-- **Khan Academy – Integration Intro**
-  - Antiderivatives and indefinite integrals
-  - Definite integrals and signed area
-  - Fundamental Theorem of Calculus
-- **Paul’s Online Math Notes – Calculus I**
-  - Indefinite integrals
-  - Tables of common antiderivatives
-  - Clear explanations of the FTC
-- **Reference Tables**
-  - Tables of integrals (OpenStax, appendices, etc.)
+**Learning Resource:**  
+- [Khan Academy – Trig derivatives](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-4/v/derivatives-of-trigonometric-functions)
 
 ---
 
-## Practice
+### 2.3 Exponential Functions
+- Derivative of \(e^x\)
+- Constant multiples
+- Growth interpretation
 
-### Antiderivatives
-
-- Given \( f'(x) = 7x^6 \), find \( f(x) \):
-  \[
-  f(x) = x^7 + C
-  \]
-
-- If
-  \[
-  \frac{d}{dx}[\text{something}] = \sec^2 x
-  \]
-  then:
-  \[
-  \int \sec^2 x\,dx = \tan x + C
-  \]
+**Learning Resource:**  
+- [Khan Academy – Derivative of e^x](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-5/v/derivative-of-e-x)
 
 ---
 
-### Practice 10 Indefinite Integrals
+### 2.4 Logarithmic Functions
+- Derivative of \(\ln x\)
+- Chain rule interaction
+- Domain awareness
 
-1. $$\int (5x^4 - 2x + 3)\,dx$$
-
-2. $$\int \frac{1}{x^3}\,dx$$
-
-3. $$\int \sin x\,dx$$
-
-4. $$\int \sec^2 x\,dx$$
-
-5. $$\int e^{5x}\,dx$$
-
-6. $$\int \frac{1}{2x}\,dx$$
-
-7. $$\int (3x + 2)^5\,dx$$
-
-8. $$\int \frac{\cos(3x)}{5}\,dx$$
-
-9. $$\int \frac{2x}{x^2 + 1}\,dx$$
-
-10. $$\int (\sec x \tan x)\,dx$$
-
-> Check a few by differentiating your answers.
+**Learning Resource:**  
+- [Khan Academy – Derivative of ln(x)](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-6/v/derivative-of-natural-log)
 
 ---
 
-### Definite Integrals
+## 3. Applications
 
-- \( \int_1^4 3x^2\,dx = 63 \)
-- \( \int_0^\pi \sin x\,dx = 2 \)
-- \( \int_{-1}^1 5x^3\,dx = 0 \)
-- \( \int_0^2 (x^2 - 4)\,dx = -\frac{16}{3} \)
+### 3.1 Tangent Lines
+- Equation of the tangent line
+- Point-slope form
+- Using derivative values
 
----
-
-### FTC Understanding
-
-- If:
-  \[
-  F(x) = \int_0^x \cos t\,dt
-  \]
-  then:
-  \[
-  F'(x) = \cos x
-  \]
-
-- Advanced example:
-  \[
-  G(x) = \int_2^{x^2} \sqrt{1+t^2}\,dt
-  \]
-  \[
-  G'(x) = \sqrt{1+x^4}\cdot 2x
-  \]
+**Learning Resource:**  
+- [Khan Academy – Tangent lines](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-7/v/equation-of-tangent-line)
 
 ---
 
-## Review and Wrap-Up
+### 3.2 Critical Points
+- Definition of critical points
+- Where derivative is zero or undefined
+- Relationship to maxima and minima
 
-At this point, you should clearly recognize that **integration and differentiation are inverse processes**. Consider creating a **one-page summary sheet** of:
-
-- Derivative rules
-- Integral rules
-- FTC concepts
-
-This will be extremely useful as you move into Calculus II.
+**Learning Resource:**  
+- [Khan Academy – Critical points](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2/ab-4-1/v/critical-points)
 
 ---
 
-## Why This Matters
+### 3.3 Second Derivatives (Conceptual)
+- Meaning of second derivative
+- Concavity intuition
+- Acceleration interpretation
 
-Integration is the **core of Calculus II**. You will study:
+**Learning Resource:**  
+- [Khan Academy – Second derivative](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2/ab-4-3/v/second-derivative)
 
-- Integration by parts  
-- Trigonometric integrals  
-- Partial fractions  
-- Improper integrals  
-- Series and power series  
+---
 
-All of these rely on the fundamentals covered today. Calc II assumes you can integrate:
+## 4. Antiderivative Recognition
 
-- Polynomials
-- Trigonometric functions
-- Exponentials
-- Basic rational functions
+### 4.1 Basic Inverse Derivative Pairs
+- Recognizing common antiderivatives
+- Thinking “what differentiates to this?”
+- Preview of integration mindset
 
-The **Fundamental Theorem of Calculus** is the bridge between theory and computation. Mastering these ideas now will allow you to approach advanced Calc II topics—especially series and applications of integration—with confidence.
+**Learning Resource:**  
+- [Khan Academy – Antiderivatives](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-2/v/antiderivatives)
+
+---
+
+### 4.2 Constant of Integration
+- Why \(+C\) exists
+- Families of functions
+- Conceptual meaning
+
+**Learning Resource:**  
+- [Khan Academy – Constant of integration](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-3/v/constant-of-integration)
+
+---
+
+## 5. Sequences
+
+### 5.1 Definition of a Sequence
+- Sequence vs function
+- Discrete input
+- Index notation
+
+**Learning Resource:**  
+- [Khan Academy – Introduction to sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-1/v/introduction-to-sequences)
+
+---
+
+### 5.2 Explicit Formulas
+- Direct computation
+- Index-based evaluation
+- Pattern recognition
+
+**Learning Resource:**  
+- [Khan Academy – Explicit sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-2/v/explicit-formulas-for-sequences)
+
+---
+
+### 5.3 Recursive Formulas
+- Defining sequences recursively
+- Initial condition importance
+- Iterative thinking
+
+**Learning Resource:**  
+- [Khan Academy – Recursive sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-3/v/recursive-sequences)
+
+---
+
+### 5.4 Arithmetic Sequences
+- Constant difference
+- Explicit vs recursive forms
+- Linear growth interpretation
+
+**Learning Resource:**  
+- [Khan Academy – Arithmetic sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-4/v/arithmetic-sequences)
+
+---
+
+### 5.5 Geometric Sequences
+- Constant ratio
+- Exponential behavior
+- Growth vs decay intuition
+
+**Learning Resource:**  
+- [Khan Academy – Geometric sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-5/v/geometric-sequences)
+
+---
+
+## 6. Limits of Sequences
+
+### 6.1 Convergence Intuition
+- Approaching a finite value
+- Long-term behavior
+- Connection to limits
+
+**Learning Resource:**  
+- [Khan Academy – Convergent sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-6/v/convergent-sequences)
+
+---
+
+### 6.2 Divergence Intuition
+- Growth without bound
+- Oscillation
+- Recognizing non-convergence
+
+**Learning Resource:**  
+- [Khan Academy – Divergent sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-7/v/divergent-sequences)
+
+---
+
+## 7. Series
+
+### 7.1 Series as Sums
+- Series vs sequence
+- Accumulation concept
+- Partial sums intuition
+
+**Learning Resource:**  
+- [Khan Academy – Introduction to series](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-1/v/introduction-to-series)
+
+---
+
+### 7.2 Finite vs Infinite Series
+- Finite sums
+- Infinite processes
+- Divergence awareness
+
+**Learning Resource:**  
+- [Khan Academy – Finite and infinite series](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-2/v/finite-and-infinite-series)
+
+---
+
+### 7.3 Partial Sums
+- Definition of partial sums
+- Relationship to series value
+- Visual intuition
+
+**Learning Resource:**  
+- [Khan Academy – Partial sums](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-3/v/partial-sums)
+
+---
+
+## 8. Sigma Notation
+
+### 8.1 Sigma Meaning
+- Sigma as summation operator
+- Discrete accumulation
+
+**Learning Resource:**  
+- [Khan Academy – Sigma notation](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-4/v/sigma-notation)
+
+---
+
+### 8.2 Index of Summation
+- Role of index variable
+- Dummy variables
+- Bounds interpretation
+
+**Learning Resource:**  
+- [Khan Academy – Index of summation](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-5/v/index-of-summation)
+
+---
+
+### 8.3 Expanding Sums
+- Writing sigma sums explicitly
+- Pattern identification
+
+**Learning Resource:**  
+- [Khan Academy – Expanding sigma notation](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-6/v/expanding-sigma-notation)
+
+---
+
+### 8.4 Factoring Constants
+- Pulling constants out of summation
+- Linearity of sums
+
+**Learning Resource:**  
+- [Khan Academy – Linearity of summation](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-7/v/linearity-of-summation)
+
+---
+
+### 8.5 Combining Simple Sums
+- Splitting sums
+- Combining like terms
+- Structural simplification
+
+**Learning Resource:**  
+- [Khan Academy – Combining sigma expressions](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-8/v/combining-sigma-expressions)
+
+---
+
+## 9. Meta Skill Development
+
+### 9.1 Pattern Recognition
+- Recognizing derivative/antiderivative pairs
+- Identifying algebraic structure quickly
+
+### 9.2 Rewriting for Integrability
+- Simplifying expressions
+- Preparing for substitution
+
+### 9.3 Spotting Substitution Structure
+- Inner function awareness
+- Anticipating change of variables
+
+### 9.4 Trig Identity Recognition
+- Identifying useful identities
+- Structural simplification
+
+**Learning Resource:**  
+- [Khan Academy – Strategy in calculus](https://www.khanacademy.org/math/ap-calculus-ab)
+
+---
+
+## ✅ Day 10 Mastery Criteria
+
+You are finished with **Day 10** when:
+- Derivative rules feel mechanical
+- Antiderivatives are recognized instinctively
+- Sequences and series feel interpretable, not abstract
+- Sigma notation no longer intimidates
+- You can “see” Calc II structure forming
+
+At this point, you are genuinely **Calculus II–ready**.
+
+---

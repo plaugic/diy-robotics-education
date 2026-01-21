@@ -1,207 +1,290 @@
-## Day 5: Understanding Functions and Graphs
+# Day 5 — Functions & Graphs
 
-### Focus
-With algebraic techniques in hand, turn to the concept of a **function** — the cornerstone of calculus. A strong intuitive grasp of functions (what they mean, how to interpret their graphs, domain/range, etc.) is essential for understanding limits, derivatives, and integrals.
+**Goal:** Learn to *think in functions*—understand how functions behave, how they transform, and how their graphs encode information essential for limits, derivatives, and integrals.
 
-Today you will learn function notation, analyze basic graphs, and practice manipulating functions.
-
----
-
-## Topics to Master
-
-### Function Definition and Notation
-- Understand a function as a rule that assigns **each input exactly one output**.
-- Learn notation like `f(x)` and the idea that `y = f(x)`.
-- Be comfortable interpreting statements like:
-  - For `f(x) = x² − 3`, then `f(2) = 1`.
-- You should be able to define and work with functions fluidly.
+**Scope:** Covers **all Functions & Graphs**  
+**Time Expectation:** 6–8 focused hours  
+**Rule:** Always connect algebraic form ↔ graphical behavior.
 
 ---
 
-### Domain and Range
-- **Domain**: all allowable `x` inputs.
-- **Range**: all possible `y` outputs.
-- Example:
-  - `g(x) = √(x − 1)`
-    - Domain: `x ≥ 1`
-    - Range: `g(x) ≥ 0`
-- Practice finding domains for:
-  - Rational functions (denominators ≠ 0)
-  - Even roots (radicand ≥ 0)
-- This skill becomes important when dealing with **integrals and series convergence** in Calculus II.
+## 1. Function Fundamentals
+
+### 1.1 Definition of a Function
+- Input–output rule
+- Each input has **exactly one** output
+- Function vs relation
+- Vertical line test (graphical)
+
+**Learning Resource:**  
+- [Khan Academy – What is a function?](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions)
 
 ---
 
-### Basic Types of Functions and Their Graphs
-Ensure you recognize and can roughly sketch the following:
+### 1.2 Function Notation
+- Meaning of \(f(x)\)
+- Evaluating at specific inputs
+- Interpreting \(f(a)\), \(f(x+h)\)
+- Function notation vs multiplication
 
-- **Linear functions**
-  - Graphs are lines
-  - Slope–intercept form: `y = mx + b`
-  - Know slope, x-intercept, and y-intercept
-
-- **Quadratic functions**
-  - `y = ax² + bx + c` (parabolas)
-  - Identify vertex form if possible
-  - Know whether it opens up or down
-
-- **Polynomial functions**
-  - Understand general shapes and end behavior
-  - Focus mainly on quadratics for now
-
-- **Rational functions**
-  - `y = 1/x`: vertical and horizontal asymptotes, two branches
-  - `y = (ax + b)/(cx + d)` basic hyperbolas
-
-- **Exponential and logarithmic functions**
-  - `y = aˣ`: grows rapidly
-  - `y = logₐ(x)`: grows slowly, inverse of exponential  
-  *(We’ll focus more on these in Day 6)*
-
-- **Trigonometric functions**
-  - Sine, cosine, etc. *(covered Day 7)*
-  - Optional preview: `y = sin x`, `y = cos x` oscillate
-
-- **Absolute value and piecewise functions**
-  - `y = |x|`: V-shape graph
-  - Piecewise-defined functions
-  - Common in continuity and integrals
+**Learning Resource:**  
+- [Khan Academy – Function notation](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/function-notation)
 
 ---
 
-### Graphical Features
-Practice reading graphs and identifying:
-- Intercepts
-- Increasing vs. decreasing intervals
-- Symmetry
-  - **Even functions**: `f(−x) = f(x)` (y-axis symmetry), e.g. `x²`
-  - **Odd functions**: `f(−x) = −f(x)` (origin symmetry), e.g. `x³`, `sin x`
+### 1.3 Evaluating Functions
+- Substitution mechanics
+- Evaluating at numbers
+- Evaluating at expressions
+- Domain-aware evaluation
 
-Understanding symmetry can simplify many problems.
-
----
-
-### Function Operations
-If time allows, cover:
-
-- **Function addition**
-  - `(f + g)(x)`
-- **Composition**
-  - `(f ∘ g)(x)`
-  - Example:
-    - `f(u) = √u`, `g(x) = x² + 1`
-    - `f(g(x)) = √(x² + 1)`
-- **Inverses**
-  - Example:
-    - `f(x) = 3x − 5`
-    - `f⁻¹(x) = (x + 5) / 3`
-
-These appear in calculus during substitution and solving for variables.
+**Learning Resource:**  
+- [Khan Academy – Evaluating functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/evaluating_functions)
 
 ---
 
-## Learning Resources
+## 2. Domain & Range
 
-### Khan Academy — Functions and Graphs
-- Complete the **Functions** unit
-- Key topics:
-  - Function notation
-  - Domain and range
-  - Recognizing function types
-- Interactive problems reinforce evaluation and domain skills
+### 2.1 Polynomial Functions
+- Domain of all real numbers
+- No algebraic restrictions
+- End behavior intuition
 
----
-
-### Paul’s Online Math Notes — Algebra/Trig Review
-- Review sections on:
-  - Function notation and evaluation
-  - Common graphs
-- Includes lines, parabolas, circles, and more
-- Note:
-  - Conic sections appear, but deep knowledge isn’t required for Calc II
-  - Piecewise functions are important
+**Learning Resource:**  
+- [Khan Academy – Domain of polynomial functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/domain-polynomial)
 
 ---
 
-### Desmos Graphing Calculator (Interactive)
-- Use the free Desmos online graphing tool
-- Try graphing:
-  - `y = 2x + 1`
-  - `y = x² − 4`
-  - `y = 1/x`
-  - `y = 2ˣ`
-- Use sliders:
-  - Example: `y = ax² + bx + c` with sliders for `a`, `b`, `c`
-- Visual exploration helps cement understanding
+### 2.2 Rational Functions
+- Denominator cannot be zero
+- Identifying excluded values
+- Holes vs vertical asymptotes (preview)
+
+**Learning Resource:**  
+- [Khan Academy – Domain of rational functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/domain-rational)
 
 ---
 
-### Math Is Fun — Function Introduction
-- A gentle, visual introduction
-- Covers inputs/outputs, domains, and basic graphs
+### 2.3 Radical Functions
+- Even-index radicals require nonnegative radicands
+- Odd-index radicals allow all real inputs
+- Solving inequalities for domain
+
+**Learning Resource:**  
+- [Khan Academy – Domain of radical functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/domain-radical)
 
 ---
 
-## Practice
+### 2.4 Logarithmic Functions
+- Argument must be positive
+- Solving inequalities for domain
+- Understanding vertical asymptotes at zero
 
-### Evaluate Functions
-- If `f(x) = x² − 2x`:
-  - Find `f(0)`
-  - Find `f(3)`
-  - Solve `f(x) = 2`
-- Given a piecewise function:
-  - `h(x) = { x² if x < 0 ; 2x + 1 if x ≥ 0 }`
-  - Evaluate values and understand graph behavior
+**Learning Resource:**  
+- [Khan Academy – Domain of logarithmic functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/domain-logarithmic)
 
 ---
 
-### Domain and Range
-Determine domain and range of:
-- (a) `f(x) = (x + 2)/(x − 1)`
-- (b) `g(x) = √(4 − x²)`
-- (c) `h(x) = ln(x − 5)`  
-  - Domain: `x > 5`
+## 3. Function Families
 
-Example:
-- For `g(x) = √(4 − x²)`:
-  - Domain: `−2 ≤ x ≤ 2`
-  - Range: `0 ≤ g(x) ≤ 2`
+### 3.1 Linear Functions
+- Slope–intercept form
+- Rate of change
+- Constant rate behavior
+
+**Learning Resource:**  
+- [Khan Academy – Linear functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-functions)
 
 ---
 
-### Sketch by Hand
-Roughly sketch:
-- `y = x³` (odd symmetry)
-- `y = |x|`
-- `y = 1/x` (two branches)
-- `y = √x`
+### 3.2 Quadratic Functions
+- Parabolic shape
+- Vertex meaning
+- Opening direction
+- Symmetry axis
 
-Mark intercepts and asymptotes.
-
----
-
-### Composition and Inverses (Optional)
-- Let `f(x) = x²`, `g(x) = 3x − 1`
-  - Find `(f ∘ g)(2)`
-  - Simplify `f(g(x))`
-- Find an inverse for a simple function
+**Learning Resource:**  
+- [Khan Academy – Quadratic functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics)
 
 ---
 
-## Why This Matters
-Calculus is the study of **how functions behave** — how they change and accumulate.
+### 3.3 Polynomial Functions
+- Degree and shape
+- Turning points
+- End behavior by degree and sign
 
-To understand:
-- Limits of `f(x)`
-- Slopes of `y = f(x)`
-- Continuity, derivatives, and integrals
+**Learning Resource:**  
+- [Khan Academy – Polynomial graphs](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/v/polynomial-graphs)
 
-…you must be fluent in the language of functions and graphs.
+---
 
-Many Calculus II topics (power series, rational integrals, asymptotic behavior) rely on:
-- Domains
-- Graph behavior
-- Restrictions
+### 3.4 Rational Functions
+- Holes
+- Vertical asymptotes
+- Horizontal asymptotes
+- End behavior intuition
 
-**Functions are the canvas on which calculus is painted.**  
-Master them now, and everything that follows will be far easier to understand.
+**Learning Resource:**  
+- [Khan Academy – Rational function graphs](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/rational-functions)
+
+---
+
+### 3.5 Exponential Functions
+- Growth vs decay
+- Horizontal asymptotes
+- Base interpretation
+
+**Learning Resource:**  
+- [Khan Academy – Exponential functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponential-functions)
+
+---
+
+### 3.6 Logarithmic Functions
+- Inverse of exponential
+- Vertical asymptotes
+- Growth comparison
+
+**Learning Resource:**  
+- [Khan Academy – Logarithmic functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms)
+
+---
+
+### 3.7 Absolute Value Functions
+- V-shape
+- Piecewise definition
+- Reflection intuition
+
+**Learning Resource:**  
+- [Khan Academy – Absolute value functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-absolute-value)
+
+---
+
+### 3.8 Piecewise Functions
+- Multiple rules
+- Interval-based definitions
+- Continuity awareness
+
+**Learning Resource:**  
+- [Khan Academy – Piecewise functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/piecewise-functions)
+
+---
+
+## 4. Graph Features
+
+### 4.1 Intercepts
+- \(x\)-intercepts (zeros)
+- \(y\)-intercept
+- Solving algebraically vs reading graphically
+
+**Learning Resource:**  
+- [Khan Academy – Intercepts](https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-functions/e/intercepts)
+
+---
+
+### 4.2 Asymptotes
+- Vertical asymptotes
+- Horizontal asymptotes
+- Slant asymptotes (conceptual)
+
+**Learning Resource:**  
+- [Khan Academy – Asymptotes](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/asymptotes)
+
+---
+
+### 4.3 Increasing & Decreasing Behavior
+- Interval-based behavior
+- Graphical intuition
+- Connection to slope
+
+**Learning Resource:**  
+- [Khan Academy – Increasing and decreasing functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/increasing-decreasing)
+
+---
+
+### 4.4 End Behavior
+- Behavior as \(x \to \pm\infty\)
+- Leading term dominance
+- Long-term growth intuition
+
+**Learning Resource:**  
+- [Khan Academy – End behavior](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/v/end-behavior)
+
+---
+
+## 5. Function Operations
+
+### 5.1 Addition & Subtraction
+- Adding outputs
+- Domain intersection
+- Graphical intuition
+
+**Learning Resource:**  
+- [Khan Academy – Adding and subtracting functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/adding_functions)
+
+---
+
+### 5.2 Multiplication & Division
+- Product and quotient functions
+- Domain restrictions
+- Zero denominators
+
+**Learning Resource:**  
+- [Khan Academy – Multiplying and dividing functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/multiplying_functions)
+
+---
+
+### 5.3 Composition
+- Meaning of \((f \circ g)(x)\)
+- Order matters
+- Domain of compositions
+
+**Learning Resource:**  
+- [Khan Academy – Function composition](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/composite_functions)
+
+---
+
+### 5.4 Inverse Functions
+- Undoing a function
+- One-to-one requirement
+- Algebraic inversion
+- Graphical symmetry about \(y = x\)
+
+**Learning Resource:**  
+- [Khan Academy – Inverse functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/inverse_functions)
+
+---
+
+## 6. Symmetry
+
+### 6.1 Even Functions
+- Algebraic test: \(f(-x) = f(x)\)
+- Symmetry about the \(y\)-axis
+- Common examples
+
+**Learning Resource:**  
+- [Khan Academy – Even functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/even_functions)
+
+---
+
+### 6.2 Odd Functions
+- Algebraic test: \(f(-x) = -f(x)\)
+- Origin symmetry
+- Common examples
+
+**Learning Resource:**  
+- [Khan Academy – Odd functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/odd_functions)
+
+---
+
+## ✅ Day 5 Mastery Criteria
+
+You are finished with **Day 5** when:
+- You recognize function families instantly
+- Domain questions feel automatic
+- Graph features communicate meaning immediately
+- Composition and inverses feel natural
+- Symmetry is identified without computation
+
+If graphs feel mysterious, slow down here—this day pays dividends throughout calculus.
+
+---

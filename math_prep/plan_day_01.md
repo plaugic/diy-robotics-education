@@ -1,553 +1,267 @@
-# Day 1: Arithmetic and Fundamental Algebraic Operations
+# Day 1 — Arithmetic & Algebra Zero
 
-### Focus
-
-Refresh the building blocks of mathematics—these underpin all later topics. You need to be fluent with basic numerical operations and algebraic notation to succeed in higher math.
-
-Day 1 is about building *automaticity*: you should be able to compute, convert, and simplify without hesitation. Calculus (and even precalculus) becomes dramatically easier when you aren’t spending effort fighting fractions, signs, or order-of-operations mistakes.
-
-A useful standard for “ready” at the end of Day 1:
-- You can add/subtract common fractions quickly and correctly.
-- You can convert between decimals, fractions, and percentages reliably.
-- You rarely make sign errors with negative numbers.
-- You consistently apply order of operations, including tricky exponent/sign cases.
-- You can substitute values for variables and evaluate expressions cleanly.
+**Goal:** Remove all low-level friction so algebra never slows you down again.  
+**Time Expectation:** 6–8 focused hours  
+**Principle:** Every micro-skill is explicitly isolated, learned, and practiced.
 
 ---
 
-## Topics to Master
+## 1. Number Systems (Integers → Reals)
 
-### 1) Fractions and Decimals
+### 1.1 Integers
+- Positive integers  
+  - Counting numbers  
+  - Magnitude vs value  
+- Negative integers  
+  - Direction on the number line  
+  - Opposites  
+- Zero  
+  - Additive identity  
+  - Neutral element in addition  
 
-#### A. Fraction basics (what the parts mean)
-
-A fraction like $\frac{a}{b}$ represents **division**:
-
-$$
-\frac{a}{b} = a \div b
-$$
-
-- $a$ is the numerator (how many parts)
-- $b$ is the denominator (size/number of equal parts)
-- A fraction is undefined if $b = 0$
-
-#### B. Converting fractions to decimals
-
-Compute:
-
-$$
-\frac{a}{b} = a \div b
-$$
-
-Example:
-
-$$
-\frac{3}{8} = 3 \div 8 = 0.375
-$$
-
-Tips:
-- If the denominator is a factor of $10^n$ (like $2,4,5,8,20,25,40,125$), decimals often terminate.
-- Otherwise, decimals may repeat (e.g., $\frac{2}{3} = 0.\overline{6}$).
-
-#### C. Converting decimals to fractions
-
-Use place value:
-
-- If $0.375$, it is $375$ thousandths:
-
-$$
-0.375 = \frac{375}{1000}
-$$
-
-Then reduce:
-
-$$
-\frac{375}{1000} = \frac{3}{8}
-$$
-
-Reduction rule:
-
-$$
-\frac{a}{b} = \frac{a \div d}{b \div d}
-\quad\text{where $d$ is a common factor of $a$ and $b$}
-$$
-
-#### D. Adding and subtracting fractions
-
-You must use a **common denominator**:
-
-$$
-\frac{a}{b} + \frac{c}{d} = \frac{ad + bc}{bd}
-$$
-
-Example:
-
-$$
-\frac{3}{4} + \frac{2}{3}
-= \frac{3\cdot 3}{4\cdot 3} + \frac{2\cdot 4}{3\cdot 4}
-= \frac{9}{12} + \frac{8}{12}
-= \frac{17}{12}
-$$
-
-Convert improper fractions if needed:
-
-$$
-\frac{17}{12} = 1\frac{5}{12}
-$$
-
-Common pitfalls:
-- Adding numerators and denominators separately (incorrect):
-
-$$
-\frac{1}{2} + \frac{1}{3} \ne \frac{2}{5}
-$$
-
-- Forgetting to distribute negatives:
-
-$$
-\frac{3}{4} - \frac{2}{3}
-= \frac{9}{12} - \frac{8}{12}
-= \frac{1}{12}
-$$
-
-#### E. Multiplying fractions
-
-Multiply straight across:
-
-$$
-\frac{a}{b}\cdot \frac{c}{d} = \frac{ac}{bd}
-$$
-
-Example:
-
-$$
-\frac{3}{4}\cdot \frac{2}{3} = \frac{6}{12} = \frac{1}{2}
-$$
-
-Best practice: **reduce before multiplying** if possible (cross-cancel factors).
-
-#### F. Dividing fractions
-
-Divide by multiplying by the reciprocal:
-
-$$
-\frac{a}{b} \div \frac{c}{d} = \frac{a}{b}\cdot \frac{d}{c}
-\quad (c \ne 0)
-$$
-
-Example:
-
-$$
-\frac{3}{5} \div \frac{2}{7} = \frac{3}{5}\cdot \frac{7}{2} = \frac{21}{10}
-$$
-
-#### G. Decimal operations (place value discipline)
-
-When adding/subtracting decimals, align decimal points:
-
-$$
-12.30 + 0.045 = 12.345
-$$
-
-When multiplying decimals, multiply as integers then place decimal based on total decimal places:
-
-$$
-0.12 \cdot 0.3 = 0.036
-$$
-
-(2 decimal places + 1 decimal place = 3 total)
-
-When dividing by powers of 10:
-
-$$
-45.6 \div 10 = 4.56,\quad 45.6 \div 100 = 0.456
-$$
+**Learning Resource:**  
+- [Khan Academy – Integers](https://www.khanacademy.org/math/arithmetic/arith-review-integers)
 
 ---
 
-### 2) Percentages
+### 1.2 Rational Numbers
+- Fractions  
+  - Numerator vs denominator meaning  
+  - Fractions as division  
+- Decimals  
+  - Terminating decimals  
+  - Repeating decimals  
+- Equivalence  
+  - Fraction ↔ decimal equivalence  
+  - Simplifying to lowest terms  
 
-**Percent** means “per 100”:
-
-$$
-p\% = \frac{p}{100}
-$$
-
-So:
-
-$$
-20\% = \frac{20}{100} = 0.20
-$$
-
-#### A. Percent to decimal / fraction
-
-- Percent to decimal: divide by $100$
-
-$$
-15\% = 0.15
-$$
-
-- Percent to fraction:
-
-$$
-15\% = \frac{15}{100} = \frac{3}{20}
-$$
-
-#### B. Decimal to percent
-
-Multiply by $100$ and add $\%$:
-
-$$
-0.375 = 37.5\%
-$$
-
-#### C. Finding a percent of a number
-
-$$
-p\% \text{ of } N = \frac{p}{100}\cdot N
-$$
-
-Example:
-
-$$
-15\% \text{ of } 200 = 0.15\cdot 200 = 30
-$$
-
-#### D. Expressing one number as a percent of another
-
-$$
-\text{Percent} = \frac{\text{part}}{\text{whole}}\cdot 100\%
-$$
-
-Example:
-
-$$
-\frac{45}{60}\cdot 100\% = 75\%
-$$
-
-#### E. Quick sanity checks
-
-- $50\%$ is half, $25\%$ is a quarter, $10\%$ is one tenth.
-- If the percent is greater than $100\%$, the result is bigger than the original.
-- If the percent is less than $1\%$, the result is small relative to the original.
+**Learning Resource:**  
+- [Khan Academy – Rational numbers](https://www.khanacademy.org/math/pre-algebra/pre-algebra-rational-numbers)
 
 ---
 
-### 3) Negative Numbers and Absolute Value
+### 1.3 Irrational Numbers
+- Non-terminating, non-repeating decimals  
+- Square roots of non-perfect squares  
+- Exact values vs decimal approximations  
 
-#### A. Number line intuition
-
-- Positive numbers are to the right of $0$
-- Negative numbers are to the left of $0$
-
-#### B. Adding and subtracting negatives
-
-Core rules:
-- Adding a negative moves left:
-
-$$
-5 + (-2) = 3
-$$
-
-- Subtracting a number is adding its opposite:
-
-$$
-5 - 2 = 5 + (-2)
-$$
-
-- Subtracting a negative becomes addition:
-
-$$
-5 - (-2) = 5 + 2 = 7
-$$
-
-Common patterns to practice:
-
-$$
--3 + 7 = 4,\quad -3 - 7 = -10,\quad -3 - (-7) = 4
-$$
-
-#### C. Multiplication and division sign rules
-
-- Same signs → positive
-- Different signs → negative
-
-$$
-(-2)(-5)=10,\quad (-2)(5)=-10,\quad (2)(-5)=-10
-$$
-
-$$
-\frac{-12}{3}=-4,\quad \frac{-12}{-3}=4
-$$
-
-#### D. Absolute value
-
-Absolute value is distance from zero:
-
-$$
-|x| \ge 0
-$$
-
-Examples:
-
-$$
-|-5| = 5,\quad |5| = 5,\quad |0|=0
-$$
-
-Expression example:
-
-$$
-|5 - 8| = |-3| = 3
-$$
-
-Key idea: evaluate inside first, then take the non-negative distance.
+**Learning Resource:**  
+- [Khan Academy – Irrational numbers](https://www.khanacademy.org/math/pre-algebra/pre-algebra-irrational-numbers)
 
 ---
 
-### 4) Order of Operations (PEMDAS)
+### 1.4 Real Numbers
+- Rational + irrational numbers  
+- Placement on the number line  
+- Ordering real numbers  
 
-Order:
-1. Parentheses (and grouping symbols)
-2. Exponents
-3. Multiplication/Division left-to-right
-4. Addition/Subtraction left-to-right
-
-#### A. Critical exponent/sign pitfall
-
-The expression:
-
-$$
--2^2
-$$
-
-means:
-
-$$
--(2^2) = -4
-$$
-
-because exponents apply before the leading negative sign unless parentheses change it.
-
-But:
-
-$$
-(-2)^2 = 4
-$$
-
-because the negative is included in the base due to parentheses.
-
-#### B. Example: evaluate correctly
-
-Evaluate:
-
-$$
--2^2 + (3 - 5)
-$$
-
-Steps:
-- Exponent first:
-
-$$
--2^2 = -(2^2) = -4
-$$
-
-- Parentheses:
-
-$$
-(3 - 5) = -2
-$$
-
-- Add:
-
-$$
--4 + (-2) = -6
-$$
-
-#### C. Mixed operations example
-
-Simplify:
-
-$$
--2^2 + \frac{10}{(5 - 3)}
-$$
-
-Steps:
-- Parentheses:
-
-$$
-(5-3)=2
-$$
-
-- Exponent:
-
-$$
--2^2 = -4
-$$
-
-- Division:
-
-$$
-\frac{10}{2}=5
-$$
-
-- Addition:
-
-$$
--4 + 5 = 1
-$$
+**Learning Resource:**  
+- [Khan Academy – Real number system](https://www.khanacademy.org/math/pre-algebra/pre-algebra-real-numbers)
 
 ---
 
-### 5) Basic Variable Notation
+### 1.5 Interval Notation
+- Open intervals  
+- Closed intervals  
+- Half-open intervals  
+- Infinity notation  
+- Translating inequalities ↔ interval notation  
 
-A variable (like $x$) is a placeholder for a number. Substitution means replacing the variable with a given value.
-
-Example: If $x=3$, evaluate:
-
-$$
-2x + 5
-$$
-
-Substitute:
-
-$$
-2(3) + 5 = 6 + 5 = 11
-$$
-
-#### A. Evaluate carefully with negatives
-
-If $x=-3$, evaluate:
-
-$$
-2x + 5 = 2(-3)+5 = -6+5 = -1
-$$
-
-If $x=-2$, evaluate:
-
-$$
-x^2 - 4x = (-2)^2 - 4(-2) = 4 + 8 = 12
-$$
-
-Notice the parentheses are essential when squaring a negative:
-
-$$
-(-2)^2 \ne -2^2
-$$
-
-#### B. Treat variables like numbers with operations
-
-Examples:
-- $3x + 2x = 5x$
-- $x + x + x = 3x$
-- $2(x + 5) = 2x + 10$
+**Learning Resource:**  
+- [Khan Academy – Interval notation](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities/x2f8bb11595b61c86:interval-notation)
 
 ---
 
-## Learning Resources
+## 2. Fractions & Decimals
 
-### Khan Academy – Arithmetic (videos and exercises)
+### 2.1 Fraction Fundamentals
+- Simplifying fractions  
+- Equivalent fractions  
+- Common denominators  
+- Least common denominator (LCD)  
 
-Covers all core arithmetic skills, from fractions and decimals to negative numbers (excellent for a quick refresher). Work through the **Fractions, decimals, & percentages** unit to ensure you’re comfortable with these conversions and operations. Also review the **Negative numbers** section for practice with negatives and absolute values.
-
-Suggested approach:
-1. Watch a short video for the concept (5–10 minutes).
-2. Do a small set of problems immediately after.
-3. Re-do missed problems until the method feels routine.
-
-### Purplemath – Fractions and Absolute Value (online lessons)
-
-Read Purplemath’s tutorials on fractions for tips on common pitfalls (like when you need to find a common denominator when adding fractions). Also see Purplemath’s lesson on absolute value to reinforce your understanding of how positive and negative values work and why absolute value is defined as distance from zero.
+**Learning Resource:**  
+- [Khan Academy – Fractions review](https://www.khanacademy.org/math/arithmetic/arith-review-fractions)
 
 ---
 
-## Practice
+### 2.2 Fraction Operations
+- Addition  
+  - Same denominators  
+  - Different denominators  
+- Subtraction  
+- Multiplication  
+- Division (multiply by the reciprocal)  
 
-After reviewing the material, solidify your skills by doing practice problems. Khan Academy’s arithmetic practice sets are very effective—try exercises on adding and subtracting fractions, converting decimals to fractions (and vice versa), and negative number operations. Aim to comfortably handle problems like:
-
-- Compute:
-
-$$
-\frac{3}{4} + \frac{2}{3}
-$$
-
-- Convert:
-
-$$
-0.375
-$$
-
-to a fraction, and convert:
-
-$$
-\frac{3}{8}
-$$
-
-to a decimal.
-
-- Find:
-
-$$
-15\% \text{ of } 200
-$$
-
-- Evaluate:
-
-$$
-|5 - 8|
-$$
-
-- Simplify:
-
-$$
--2^2 + \frac{10}{(5 - 3)}
-$$
-
-by correctly applying the order of operations.
-
-### Extra “skill-check” drills (recommended)
-
-These are the kinds of quick computations that prevent calculus errors later:
-
-1. Common fraction sums:
-
-$$
-\frac{1}{6} + \frac{1}{4},\quad \frac{5}{8} - \frac{1}{3}
-$$
-
-2. Multiplication/division with negatives:
-
-$$
-(-6)\cdot 7,\quad \frac{24}{-8},\quad (-3)(-11)
-$$
-
-3. Absolute value with expressions:
-
-$$
-|2 - 9|,\quad |-4 + 1|,\quad |-(3)|,\quad |0-(-5)|
-$$
-
-4. Exponent sign traps:
-
-$$
--3^2,\quad (-3)^2,\quad -(-2)^2,\quad (-2)^3
-$$
-
-5. Substitute and evaluate: If $x=2$:
-
-$$
-3x^2 - 4x + 1
-$$
-
-If $x=-1$:
-
-$$
-2(x-5) - x^2
-$$
+**Learning Resource:**  
+- [Khan Academy – Fraction operations](https://www.khanacademy.org/math/arithmetic/arith-review-add-subtract-fractions)
 
 ---
 
-## Why This Matters
+### 2.3 Decimal Operations
+- Place value  
+- Rounding rules  
+- Addition and subtraction  
+- Multiplication and division  
 
-Much of calculus involves manipulating algebraic expressions and numbers. If you can’t confidently handle fractions or negative numbers, even a simple calculus problem can trip you up—especially because calculus often combines multiple skills at once (fractions inside parentheses, negatives in exponents, substitution into formulas, and multi-step simplification).
+**Learning Resource:**  
+- [Khan Academy – Decimal arithmetic](https://www.khanacademy.org/math/arithmetic/arith-review-decimals)
 
-Mastery of Day 1 material means you can perform basic calculations smoothly and devote your mental energy to the new concepts in calculus, rather than getting bogged down by arithmetic mistakes. By investing time now to reinforce these fundamentals, you’ll prevent small algebraic errors from derailing you when the math gets more complex.
+---
+
+### 2.4 Fraction ↔ Decimal Conversion
+- Long division method  
+- Recognizing repeating patterns  
+- Terminating vs repeating decimals  
+
+**Learning Resource:**  
+- [Khan Academy – Fractions and decimals](https://www.khanacademy.org/math/arithmetic/arith-review-fractions-decimals)
+
+---
+
+## 3. Percentages
+
+### 3.1 Percent Meaning
+- Percent as “per 100”  
+- Percent as a fraction  
+- Percent as a decimal  
+
+**Learning Resource:**  
+- [Khan Academy – Percent basics](https://www.khanacademy.org/math/arithmetic/arith-review-percent)
+
+---
+
+### 3.2 Percent Calculations
+- Percent of a quantity  
+- Finding the whole  
+- Finding the percent  
+
+**Learning Resource:**  
+- [Khan Academy – Percent problems](https://www.khanacademy.org/math/pre-algebra/pre-algebra-percent)
+
+---
+
+### 3.3 Percent Change
+- Percent increase  
+- Percent decrease  
+- Growth vs reduction interpretation  
+
+**Learning Resource:**  
+- [Khan Academy – Percent increase and decrease](https://www.khanacademy.org/math/pre-algebra/pre-algebra-percent-increase-decrease)
+
+---
+
+## 4. Signed Numbers
+
+### 4.1 Number Line Intuition
+- Directionality  
+- Distance from zero  
+- Ordering negative numbers  
+
+**Learning Resource:**  
+- [Khan Academy – Negative numbers](https://www.khanacademy.org/math/arithmetic/arith-review-negative-numbers)
+
+---
+
+### 4.2 Signed Operations
+- Addition  
+  - Same signs  
+  - Opposite signs  
+- Subtraction as adding the opposite  
+- Multiplication sign rules  
+- Division sign rules  
+
+**Learning Resource:**  
+- [Khan Academy – Integer operations](https://www.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers)
+
+---
+
+## 5. Absolute Value
+
+### 5.1 Conceptual Meaning
+- Distance from zero  
+- Always non-negative  
+- Absolute value vs parentheses  
+
+**Learning Resource:**  
+- [Khan Academy – Absolute value](https://www.khanacademy.org/math/pre-algebra/pre-algebra-absolute-value)
+
+---
+
+### 5.2 Absolute Value Operations
+- Evaluating absolute value expressions  
+- Absolute value with negatives  
+- Nested absolute values  
+
+**Learning Resource:**  
+- [Khan Academy – Absolute value expressions](https://www.khanacademy.org/math/pre-algebra/pre-algebra-absolute-value/e/absolute-value-expressions)
+
+---
+
+## 6. Order of Operations (PEMDAS)
+
+### 6.1 Operation Hierarchy
+- Parentheses and grouping symbols  
+- Exponents  
+- Multiplication and division (left to right)  
+- Addition and subtraction (left to right)  
+
+**Learning Resource:**  
+- [Khan Academy – Order of operations](https://www.khanacademy.org/math/pre-algebra/pre-algebra-order-of-operations)
+
+---
+
+### 6.2 Common Pitfalls
+- Negative signs vs subtraction  
+- Implied multiplication  
+- Nested grouping symbols  
+
+**Learning Resource:**  
+- [Khan Academy – Order of operations practice](https://www.khanacademy.org/math/pre-algebra/pre-algebra-order-of-operations/e/order_of_operations)
+
+---
+
+## 7. Variable Notation & Substitution
+
+### 7.1 Variables
+- Variables as placeholders  
+- Variables as unknowns  
+- Variables as changing quantities  
+
+**Learning Resource:**  
+- [Khan Academy – Variables introduction](https://www.khanacademy.org/math/pre-algebra/pre-algebra-variables)
+
+---
+
+### 7.2 Substitution
+- Replacing variables with values  
+- Evaluating expressions  
+- Multiple-variable substitution  
+
+**Learning Resource:**  
+- [Khan Academy – Evaluating expressions](https://www.khanacademy.org/math/pre-algebra/pre-algebra-expressions/e/evaluating_expressions)
+
+---
+
+### 7.3 Algebraic Expressions
+- Translating words into expressions  
+- Recognizing algebraic structure  
+- Avoiding symbol misinterpretation  
+
+**Learning Resource:**  
+- [Khan Academy – Writing algebraic expressions](https://www.khanacademy.org/math/pre-algebra/pre-algebra-expressions)
+
+---
+
+## ✅ Day 1 Mastery Criteria
+
+You are finished with **Day 1** when:
+- Fractions and decimals cause zero hesitation  
+- Negative numbers feel intuitive  
+- Absolute value is reflexive  
+- PEMDAS is automatic  
+- Substitution feels trivial and boring  
+
+If any of these feel slow, repeat the relevant section before moving on.
+
+---

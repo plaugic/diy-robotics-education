@@ -1,90 +1,221 @@
-## Day 2: Basic Algebra – Solving Simple Equations and Rearranging Expressions
+# Day 2 — Linear Algebra Mechanics
 
-**Focus:**  
-Lay the algebraic groundwork. Calculus will require you to solve equations for different variables and simplify expressions frequently. Today you’ll master linear equations (your first step into algebra) and foundational algebraic skills.
+**Goal:** Achieve full fluency with linear algebraic manipulation so solving equations never consumes mental bandwidth later in calculus.
 
----
-
-### Topics to Master
-
-- **Combining Like Terms:**  
-  Simplify expressions such as  
-  \[
-  5x + 3 - 2x + 8
-  \]  
-  by merging like terms (here, \(5x - 2x\) and \(3 + 8\)). This is critical before solving equations.
-
-- **The Distributive Property:**  
-  Practice expanding expressions (e.g. \(3(a + 4) = 3a + 12\)) and factoring simple expressions (pulling out common factors).
-
-- **Linear Equations (one variable):**  
-  Solve equations of the form \(ax + b = c\).  
-  - Start with simple one-step equations (e.g. \(x + 7 = 12\))  
-  - Move to two-step equations (e.g. \(3x - 5 = 10\))  
-  - Then multi-step equations involving parentheses or fractions, such as:  
-    \[
-    4(y - 2) = 8 \quad \text{or} \quad \frac{2}{3}m + 1 = 5
-    \]  
-  Ensure you understand that the goal is always to **isolate the variable**.
-
-- **Basic Equation Word Problems:**  
-  Set up and solve simple real-life linear equations.  
-  Example:  
-  > “If 5 added to twice a number is 17, what is the number?”  
-  translates to  
-  \[
-  2x + 5 = 17
-  \]  
-  This builds comfort in translating words into equations.
-
-- **Intro to Inequalities (Optional if time permits):**  
-  Solve basic inequalities (e.g. \(2x + 3 > 7\)) and graph their solution on a number line.  
-  While not heavily used in early calculus, inequalities are useful for domain/range discussions and limit definitions.
+**Scope:** Covers *all* Algebra I foundations required for Calculus I & II  
+**Time Expectation:** 6–8 focused hours  
+**Rule:** Do short practice immediately after each micro-topic.
 
 ---
 
-### Learning Resources
+## 1. Combining Like Terms
 
-- **Khan Academy – Intro to Algebra:**  
-  Go through the *Solving basic equations* module. It covers one-step and two-step equations thoroughly, with videos and plenty of practice problems.  
-  Also try *solving equations with variables on both sides* for a challenge (e.g. \(2x + 3 = x - 5\)).
+### 1.1 Understanding “Like Terms”
+- Definition of like terms
+  - Same variables
+  - Same exponents
+- Unlike terms
+  - Why they cannot be combined
+- Role of coefficients
 
-- **Purplemath – Solving Linear Equations:**  
-  Read Purplemath’s lesson on solving linear equations. It provides a step-by-step approach and highlights common mistakes (like forgetting to distribute a negative sign).
-
-- **Interactive Practice:**  
-  Use an online equation solver such as *School Yourself Algebra*. It offers interactive tutorials where you can practice combining like terms and solving equations step by step.
-
----
-
-### Practice
-
-Solve at least **10–15 linear equations** of varying difficulty. For example:
-
-- Simple:  
-  \[
-  m - 4 = 9 \quad (\text{solution } m = 13)
-  \]
-
-- With distribution:  
-  \[
-  5(2 + t) = 20
-  \]
-
-- With fractions:  
-  \[
-  \frac{z}{3} + 2 = 6
-  \]
-
-- Variables on both sides:  
-  \[
-  4p + 1 = 2p - 5
-  \]
-
-Check your answers, and if you get any wrong, rework the steps to find the mistake. Remember: the ability to solve equations reliably is vital for later math classes (like calculus), so get comfortable with the process now.
+**Learning Resource:**  
+- [Khan Academy – Combining like terms](https://www.khanacademy.org/math/pre-algebra/pre-algebra-expressions/e/combining_like_terms)
 
 ---
 
-### Why This Matters
+### 1.2 Constants
+- Identifying constants
+- Adding and subtracting constants
+- Constants inside parentheses
 
-In calculus problems you’ll often need to solve for when two expressions are equal (e.g. finding when velocities match, solving for critical points by setting a derivative to zero, etc.). If you have solid algebraic solving ability, you won’t be derailed by the equation-solving part of a calculus problem. Today’s practice ensures you can isolate variables and simplify expressions confidently, which will make advanced topics much easier to digest.
+**Learning Resource:**  
+- [Khan Academy – Simplifying expressions with constants](https://www.khanacademy.org/math/pre-algebra/pre-algebra-expressions)
+
+---
+
+### 1.3 Linear Terms
+- Terms of the form \(ax\)
+- Adding coefficients
+- Subtracting coefficients
+- Interpreting negative coefficients
+
+**Learning Resource:**  
+- [Khan Academy – Combining linear terms](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:expressions)
+
+---
+
+### 1.4 Higher-Degree Terms
+- Terms like \(x^2, x^3\)
+- Why degrees must match to combine
+- Common student errors
+
+**Learning Resource:**  
+- [Khan Academy – Simplifying algebraic expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-expressions)
+
+---
+
+## 2. Distributive Property
+
+### 2.1 Expansion (Forward Distribution)
+- Distributing a positive number
+- Distributing a negative number
+- Distributing across multiple terms
+- Common sign errors
+
+**Learning Resource:**  
+- [Khan Academy – Distributive property](https://www.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/e/distributive_property)
+
+---
+
+### 2.2 Factoring Out (Reverse Distribution)
+- Identifying common factors
+- Factoring numerical GCF
+- Factoring variable GCF
+- Factoring negatives for simplification
+
+**Learning Resource:**  
+- [Khan Academy – Factoring expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring)
+
+---
+
+### 2.3 Negative Distribution
+- Distributing \(-1\)
+- Handling subtraction of parentheses
+- Avoiding sign-flip mistakes
+
+**Learning Resource:**  
+- [Khan Academy – Distributing negatives](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:expressions/e/distribute_negative)
+
+---
+
+## 3. Linear Equations
+
+### 3.1 One-Step Equations
+- Addition property of equality
+- Subtraction property of equality
+- Multiplication property of equality
+- Division property of equality
+
+**Learning Resource:**  
+- [Khan Academy – One-step equations](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations/e/one_step_equations)
+
+---
+
+### 3.2 Two-Step Equations
+- Undoing addition/subtraction first
+- Undoing multiplication/division second
+- Order-of-operations reasoning
+
+**Learning Resource:**  
+- [Khan Academy – Two-step equations](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations/e/two_step_equations)
+
+---
+
+### 3.3 Multi-Step Equations
+- Clearing parentheses
+- Combining like terms
+- Isolating the variable
+- Checking solutions
+
+**Learning Resource:**  
+- [Khan Academy – Multi-step equations](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations/e/multi_step_equations)
+
+---
+
+### 3.4 Variables on Both Sides
+- Moving variables to one side
+- Avoiding zero-variable traps
+- Identifying identity vs contradiction cases
+
+**Learning Resource:**  
+- [Khan Academy – Variables on both sides](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations/e/variables_on_both_sides)
+
+---
+
+### 3.5 Fractional Coefficients
+- Clearing fractions using LCD
+- Multiplying entire equation
+- Avoiding partial distribution mistakes
+
+**Learning Resource:**  
+- [Khan Academy – Equations with fractions](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations/e/equations_with_fractions)
+
+---
+
+## 4. Inequalities
+
+### 4.1 Solving Linear Inequalities
+- Same steps as equations
+- Why inequality direction flips when multiplying/dividing by negatives
+- Checking solutions
+
+**Learning Resource:**  
+- [Khan Academy – Solving inequalities](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities)
+
+---
+
+### 4.2 Interval Notation Solutions
+- Translating inequality to interval notation
+- Open vs closed endpoints
+- Infinite intervals
+
+**Learning Resource:**  
+- [Khan Academy – Interval notation](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities/x2f8bb11595b61c86:interval-notation)
+
+---
+
+### 4.3 Graphing Inequalities
+- Open vs closed circles
+- Shading direction
+- Compound inequalities
+
+**Learning Resource:**  
+- [Khan Academy – Graphing inequalities](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities/graphing_inequalities)
+
+---
+
+## 5. Linear Word Problems
+
+### 5.1 Translating Verbal Descriptions
+- Keywords for operations
+- Translating phrases into expressions
+- Assigning variables correctly
+
+**Learning Resource:**  
+- [Khan Academy – Translating words to equations](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations/word-problems)
+
+---
+
+### 5.2 Setting Up Equations
+- Identifying unknowns
+- Writing correct equations
+- Avoiding overcomplication
+
+**Learning Resource:**  
+- [Khan Academy – Linear word problems](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations/alg-basics-word-problems)
+
+---
+
+### 5.3 Interpreting Solutions
+- Units and meaning
+- Rejecting impossible answers
+- Contextual verification
+
+**Learning Resource:**  
+- [Khan Academy – Interpreting solutions](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations)
+
+---
+
+## ✅ Day 2 Mastery Criteria
+
+You are finished with **Day 2** when:
+- You combine like terms without thinking
+- Distribution and factoring feel reversible
+- Linear equations feel mechanical
+- Fractional coefficients do not slow you down
+- Inequalities feel like equations with one extra rule
+- Word problems no longer feel “wordy”
+
+If any step feels slow or uncertain, repeat that section before advancing.
+
+---
