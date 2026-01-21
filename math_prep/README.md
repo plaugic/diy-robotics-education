@@ -41,16 +41,16 @@ This is a *skills bootcamp*, not passive reading.
 
 Each day has its own detailed plan located in the `math_prep/` directory:
 
-- **Day 1:** [math_prep/plan_day_01.md](math_prep/plan_day_01.md)
-- **Day 2:** [math_prep/plan_day_02.md](math_prep/plan_day_02.md)
-- **Day 3:** [math_prep/plan_day_03.md](math_prep/plan_day_03.md)
-- **Day 4:** [math_prep/plan_day_04.md](math_prep/plan_day_04.md)
-- **Day 5:** [math_prep/plan_day_05.md](math_prep/plan_day_05.md)
-- **Day 6:** [math_prep/plan_day_06.md](math_prep/plan_day_06.md)
-- **Day 7:** [math_prep/plan_day_07.md](math_prep/plan_day_07.md)
-- **Day 8:** [math_prep/plan_day_08.md](math_prep/plan_day_08.md)
-- **Day 9:** [math_prep/plan_day_09.md](math_prep/plan_day_09.md)
-- **Day 10:** [math_prep/plan_day_10.md](math_prep/plan_day_10.md)
+- **Day 1:** [plan_day_01.md](plan_day_01.md)
+- **Day 2:** [plan_day_02.md](plan_day_02.md)
+- **Day 3:** [plan_day_03.md](plan_day_03.md)
+- **Day 4:** [plan_day_04.md](plan_day_04.md)
+- **Day 5:** [plan_day_05.md](plan_day_05.md)
+- **Day 6:** [plan_day_06.md](plan_day_06.md)
+- **Day 7:** [plan_day_07.md](plan_day_07.md)
+- **Day 8:** [plan_day_08.md](plan_day_08.md)
+- **Day 9:** [plan_day_09.md](plan_day_09.md)
+- **Day 10:** [plan_day_10.md](plan_day_10.md)
 
 Follow the sequence. Each day assumes mastery (or active reinforcement) of the previous day’s material.
 
