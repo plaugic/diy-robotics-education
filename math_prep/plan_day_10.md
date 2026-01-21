@@ -17,7 +17,7 @@
 - Relationship between limits and instantaneous change
 
 **Learning Resource:**  
-- [Khan Academy – Derivative as a limit](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-1/v/derivative-definition)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=derivative+as+a+limit+visual+explanation)
 
 ---
 
@@ -27,7 +27,7 @@
 - Why the rule works (pattern recognition)
 
 **Learning Resource:**  
-- [Khan Academy – Power rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-2/v/power-rule)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=power+rule+differentiation+calculus)
 
 ---
 
@@ -37,7 +37,7 @@
 - Common misuse cases
 
 **Learning Resource:**  
-- [Khan Academy – Product rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2/ab-3-2/v/product-rule)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=product+rule+differentiation+examples)
 
 ---
 
@@ -47,7 +47,7 @@
 - Simplifying before differentiating
 
 **Learning Resource:**  
-- [Khan Academy – Quotient rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2/ab-3-3/v/quotient-rule)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=quotient+rule+differentiation+examples)
 
 ---
 
@@ -57,7 +57,7 @@
 - Recognizing composite structure
 
 **Learning Resource:**  
-- [Khan Academy – Chain rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2/ab-3-4/v/chain-rule)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=chain+rule+differentiation+examples)
 
 ---
 
@@ -69,7 +69,7 @@
 - Degree reduction intuition
 
 **Learning Resource:**  
-- [Khan Academy – Derivatives of polynomials](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-3/v/derivatives-of-polynomials)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=differentiating+polynomials+calculus)
 
 ---
 
@@ -79,7 +79,7 @@
 - Pattern recognition over memorization
 
 **Learning Resource:**  
-- [Khan Academy – Trig derivatives](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-4/v/derivatives-of-trigonometric-functions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=derivatives+of+trigonometric+functions+memorize)
 
 ---
 
@@ -89,7 +89,7 @@
 - Growth interpretation
 
 **Learning Resource:**  
-- [Khan Academy – Derivative of e^x](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-5/v/derivative-of-e-x)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=derivative+of+e^x+and+exponential+functions)
 
 ---
 
@@ -99,7 +99,7 @@
 - Domain awareness
 
 **Learning Resource:**  
-- [Khan Academy – Derivative of ln(x)](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-6/v/derivative-of-natural-log)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=derivative+of+ln(x)+and+logarithmic+functions)
 
 ---
 
@@ -111,7 +111,7 @@
 - Using derivative values
 
 **Learning Resource:**  
-- [Khan Academy – Tangent lines](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1/ab-2-7/v/equation-of-tangent-line)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+equation+of+tangent+line+using+derivatives)
 
 ---
 
@@ -121,7 +121,7 @@
 - Relationship to maxima and minima
 
 **Learning Resource:**  
-- [Khan Academy – Critical points](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2/ab-4-1/v/critical-points)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+critical+points+of+functions)
 
 ---
 
@@ -131,7 +131,7 @@
 - Acceleration interpretation
 
 **Learning Resource:**  
-- [Khan Academy – Second derivative](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2/ab-4-3/v/second-derivative)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=second+derivative+and+concavity+explained)
 
 ---
 
@@ -143,7 +143,7 @@
 - Preview of integration mindset
 
 **Learning Resource:**  
-- [Khan Academy – Antiderivatives](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-2/v/antiderivatives)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=basic+antiderivatives+calculus+intro)
 
 ---
 
@@ -153,7 +153,7 @@
 - Conceptual meaning
 
 **Learning Resource:**  
-- [Khan Academy – Constant of integration](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-3/v/constant-of-integration)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=meaning+of+constant+of+integration+plus+C)
 
 ---
 
@@ -165,7 +165,7 @@
 - Index notation
 
 **Learning Resource:**  
-- [Khan Academy – Introduction to sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-1/v/introduction-to-sequences)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=definition+of+sequences+calculus+2)
 
 ---
 
@@ -175,7 +175,7 @@
 - Pattern recognition
 
 **Learning Resource:**  
-- [Khan Academy – Explicit sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-2/v/explicit-formulas-for-sequences)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=explicit+formulas+for+sequences)
 
 ---
 
@@ -185,7 +185,7 @@
 - Iterative thinking
 
 **Learning Resource:**  
-- [Khan Academy – Recursive sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-3/v/recursive-sequences)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=recursive+formulas+for+sequences)
 
 ---
 
@@ -195,7 +195,7 @@
 - Linear growth interpretation
 
 **Learning Resource:**  
-- [Khan Academy – Arithmetic sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-4/v/arithmetic-sequences)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=arithmetic+sequences+and+series+explained)
 
 ---
 
@@ -205,7 +205,7 @@
 - Growth vs decay intuition
 
 **Learning Resource:**  
-- [Khan Academy – Geometric sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-5/v/geometric-sequences)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=geometric+sequences+and+series+explained)
 
 ---
 
@@ -217,7 +217,7 @@
 - Connection to limits
 
 **Learning Resource:**  
-- [Khan Academy – Convergent sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-6/v/convergent-sequences)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=convergence+of+sequences+limits)
 
 ---
 
@@ -227,7 +227,7 @@
 - Recognizing non-convergence
 
 **Learning Resource:**  
-- [Khan Academy – Divergent sequences](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-7/v/divergent-sequences)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=divergence+of+sequences+examples)
 
 ---
 
@@ -239,7 +239,7 @@
 - Partial sums intuition
 
 **Learning Resource:**  
-- [Khan Academy – Introduction to series](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-1/v/introduction-to-series)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=introduction+to+infinite+series+calculus)
 
 ---
 
@@ -249,7 +249,7 @@
 - Divergence awareness
 
 **Learning Resource:**  
-- [Khan Academy – Finite and infinite series](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-2/v/finite-and-infinite-series)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finite+vs+infinite+series+sums)
 
 ---
 
@@ -259,7 +259,7 @@
 - Visual intuition
 
 **Learning Resource:**  
-- [Khan Academy – Partial sums](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-3/v/partial-sums)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=partial+sums+of+infinite+series)
 
 ---
 
@@ -270,7 +270,7 @@
 - Discrete accumulation
 
 **Learning Resource:**  
-- [Khan Academy – Sigma notation](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-4/v/sigma-notation)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=sigma+notation+summation+explained)
 
 ---
 
@@ -280,7 +280,7 @@
 - Bounds interpretation
 
 **Learning Resource:**  
-- [Khan Academy – Index of summation](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-5/v/index-of-summation)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=index+of+summation+sigma+notation)
 
 ---
 
@@ -289,7 +289,7 @@
 - Pattern identification
 
 **Learning Resource:**  
-- [Khan Academy – Expanding sigma notation](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-6/v/expanding-sigma-notation)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=expanding+sigma+summation+notation)
 
 ---
 
@@ -298,7 +298,7 @@
 - Linearity of sums
 
 **Learning Resource:**  
-- [Khan Academy – Linearity of summation](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-7/v/linearity-of-summation)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=properties+of+sigma+notation+constants)
 
 ---
 
@@ -308,7 +308,7 @@
 - Structural simplification
 
 **Learning Resource:**  
-- [Khan Academy – Combining sigma expressions](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-11-8/v/combining-sigma-expressions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=manipulating+sigma+notation+sums)
 
 ---
 
@@ -331,7 +331,7 @@
 - Structural simplification
 
 **Learning Resource:**  
-- [Khan Academy – Strategy in calculus](https://www.khanacademy.org/math/ap-calculus-ab)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=strategies+for+calculus+integration+and+differentiation)
 
 ---
 

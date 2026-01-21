@@ -16,7 +16,7 @@
 - Recognizing when the rule applies (same base only)
 
 **Learning Resource:**  
-- [Khan Academy – Product rule of exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponents/e/product_rule)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=product+rule+of+exponents+algebra)
 
 ---
 
@@ -26,7 +26,7 @@
 - Understanding why subtraction works
 
 **Learning Resource:**  
-- [Khan Academy – Quotient rule of exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponents/e/quotient_rule)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=quotient+rule+of+exponents+algebra)
 
 ---
 
@@ -36,7 +36,7 @@
 - Avoiding incorrect distribution over addition
 
 **Learning Resource:**  
-- [Khan Academy – Power rule of exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponents/e/power_rule)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=power+rule+of+exponents+algebra)
 
 ---
 
@@ -46,7 +46,7 @@
 - Simplifying expressions with negative exponents
 
 **Learning Resource:**  
-- [Khan Academy – Negative exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponents/v/negative-exponents)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=negative+exponents+algebra)
 
 ---
 
@@ -56,7 +56,7 @@
 - Converting between radical and exponent form
 
 **Learning Resource:**  
-- [Khan Academy – Fractional exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponents/v/fractional-exponents)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=fractional+exponents+algebra)
 
 ---
 
@@ -68,7 +68,7 @@
 - Principal square root vs negative root
 
 **Learning Resource:**  
-- [Khan Academy – Square roots](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/v/square-roots)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=what+is+a+square+root+algebra)
 
 ---
 
@@ -78,7 +78,7 @@
 - Interpreting the index of a radical
 
 **Learning Resource:**  
-- [Khan Academy – Roots](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=cube+roots+and+higher+order+roots)
 
 ---
 
@@ -88,7 +88,7 @@
 - Simplifying variables under radicals
 
 **Learning Resource:**  
-- [Khan Academy – Simplifying radicals](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/e/simplifying_radicals)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=simplifying+radicals+algebra)
 
 ---
 
@@ -98,7 +98,7 @@
 - Common simplification mistakes
 
 **Learning Resource:**  
-- [Khan Academy – Adding and subtracting radicals](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/e/adding_subtracting_radicals)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=adding+and+subtracting+radicals+algebra)
 
 ---
 
@@ -108,7 +108,7 @@
 - Simplifying after multiplication
 
 **Learning Resource:**  
-- [Khan Academy – Multiplying radicals](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/e/multiplying_radicals)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=multiplying+radicals+algebra)
 
 ---
 
@@ -120,7 +120,7 @@
 - Multi-term denominators
 
 **Learning Resource:**  
-- [Khan Academy – Rationalizing denominators](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/e/rationalizing_denominators)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=rationalizing+denominators+algebra)
 
 ---
 
@@ -129,7 +129,7 @@
 - Structural symmetry with denominator rationalization
 
 **Learning Resource:**  
-- [Khan Academy – Rationalizing radicals](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=rationalizing+numerators+calculus+prep)
 
 ---
 
@@ -139,7 +139,7 @@
 - Connection to difference of squares
 
 **Learning Resource:**  
-- [Khan Academy – Conjugates](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/v/conjugates)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=conjugates+in+algebra)
 
 ---
 
@@ -151,7 +151,7 @@
 - Identifying excluded values
 
 **Learning Resource:**  
-- [Khan Academy – Simplifying rational expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=simplifying+rational+expressions+algebra)
 
 ---
 
@@ -161,7 +161,7 @@
 - Understanding why restrictions persist after simplification
 
 **Learning Resource:**  
-- [Khan Academy – Domain of rational expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions/v/domain-restrictions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+domain+of+rational+expressions)
 
 ---
 
@@ -171,7 +171,7 @@
 - Simplifying before multiplying
 
 **Learning Resource:**  
-- [Khan Academy – Multiplying and dividing rational expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions/e/multiplying_dividing_rational_expressions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=multiplying+and+dividing+rational+expressions)
 
 ---
 
@@ -181,7 +181,7 @@
 - Combining numerators correctly
 
 **Learning Resource:**  
-- [Khan Academy – Adding and subtracting rational expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions/e/adding_and_subtracting_rational_expressions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=adding+and+subtracting+rational+expressions)
 
 ---
 
@@ -191,7 +191,7 @@
 - Avoiding partial simplification errors
 
 **Learning Resource:**  
-- [Khan Academy – Complex fractions](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions/e/complex_fractions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=simplifying+complex+fractions+algebra)
 
 ---
 
@@ -203,7 +203,7 @@
 - Preserving equality
 
 **Learning Resource:**  
-- [Khan Academy – Rational equations](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-equations)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+rational+equations+clearing+denominators)
 
 ---
 
@@ -213,7 +213,7 @@
 - Multi-step radical equations
 
 **Learning Resource:**  
-- [Khan Academy – Radical equations](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/e/radical_equations)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+radical+equations+algebra)
 
 ---
 
@@ -223,7 +223,7 @@
 - Rejecting invalid answers
 
 **Learning Resource:**  
-- [Khan Academy – Extraneous solutions](https://www.khanacademy.org/math/algebra-basics/alg-basics-radicals/v/extraneous-solutions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=extraneous+solutions+in+rational+and+radical+equations)
 
 ---
 

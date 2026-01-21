@@ -56,9 +56,6 @@ Each file is **self-contained**, deeply nested, and resource-linked.
 - Order of operations
 - Variable notation & substitution
 
-**Canonical Resource**
-- [Khan Academy – Arithmetic & Pre-Algebra](https://www.khanacademy.org/math/arithmetic)
-
 📄 **Plan:** [plan_day_01.md](plan_day_01.md)
 
 ---
@@ -73,9 +70,6 @@ Each file is **self-contained**, deeply nested, and resource-linked.
 - Interval notation
 - Linear word problems
 
-**Canonical Resource**
-- [Khan Academy – Algebra Basics](https://www.khanacademy.org/math/algebra-basics)
-
 📄 **Plan:** [plan_day_02.md](plan_day_02.md)
 
 ---
@@ -87,9 +81,6 @@ Each file is **self-contained**, deeply nested, and resource-linked.
 - Polynomial structure & operations
 - All factoring techniques
 - Quadratic equations & discriminant analysis
-
-**Canonical Resource**
-- [Khan Academy – Polynomials & Quadratics](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials)
 
 📄 **Plan:** [plan_day_03.md](plan_day_03.md)
 
@@ -104,9 +95,6 @@ Each file is **self-contained**, deeply nested, and resource-linked.
 - Rational expressions
 - Rational & radical equations
 - Extraneous solutions
-
-**Canonical Resource**
-- [Khan Academy – Rational Expressions & Radicals](https://www.khanacademy.org/math/algebra-basics/alg-basics-rational-expressions)
 
 📄 **Plan:** [plan_day_04.md](plan_day_04.md)
 
@@ -123,9 +111,6 @@ Each file is **self-contained**, deeply nested, and resource-linked.
 - Function operations & inverses
 - Symmetry
 
-**Canonical Resource**
-- [Khan Academy – Functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions)
-
 📄 **Plan:** [plan_day_05.md](plan_day_05.md)
 
 ---
@@ -139,9 +124,6 @@ Each file is **self-contained**, deeply nested, and resource-linked.
 - Log laws
 - Solving exp/log equations
 - Inverse functions
-
-**Canonical Resource**
-- [Khan Academy – Exponentials & Logarithms](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponential-functions)
 
 📄 **Plan:** [plan_day_06.md](plan_day_06.md)
 
@@ -158,9 +140,6 @@ Each file is **self-contained**, deeply nested, and resource-linked.
 - Trig equations
 - Inverse trigonometry
 
-**Canonical Resource**
-- [Khan Academy – Trigonometry](https://www.khanacademy.org/math/trigonometry)
-
 📄 **Plan:** [plan_day_07.md](plan_day_07.md)
 
 ---
@@ -175,9 +154,6 @@ Each file is **self-contained**, deeply nested, and resource-linked.
 - Cartesian vs polar coordinates
 - Parametric equations (intro)
 
-**Canonical Resource**
-- [Khan Academy – Precalculus Geometry](https://www.khanacademy.org/math/precalculus)
-
 📄 **Plan:** [plan_day_08.md](plan_day_08.md)
 
 ---
@@ -190,9 +166,6 @@ Each file is **self-contained**, deeply nested, and resource-linked.
 - Limit techniques
 - Continuity & discontinuities
 - Special limits
-
-**Canonical Resource**
-- [Khan Academy – Limits & Continuity](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new)
 
 📄 **Plan:** [plan_day_09.md](plan_day_09.md)
 
@@ -208,9 +181,6 @@ Each file is **self-contained**, deeply nested, and resource-linked.
 - Series & partial sums
 - Sigma notation
 - Pattern recognition meta-skills
-
-**Canonical Resource**
-- [Khan Academy – Derivatives & Series](https://www.khanacademy.org/math/ap-calculus-bc)
 
 📄 **Plan:** [plan_day_10.md](plan_day_10.md)
 

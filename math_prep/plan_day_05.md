@@ -16,8 +16,8 @@
 - Function vs relation
 - Vertical line test (graphical)
 
-**Learning Resource:**  
-- [Khan Academy – What is a function?](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=what+is+a+function+algebra+basics)
 
 ---
 
@@ -27,8 +27,8 @@
 - Interpreting \(f(a)\), \(f(x+h)\)
 - Function notation vs multiplication
 
-**Learning Resource:**  
-- [Khan Academy – Function notation](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/function-notation)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=function+notation+algebra)
 
 ---
 
@@ -38,8 +38,8 @@
 - Evaluating at expressions
 - Domain-aware evaluation
 
-**Learning Resource:**  
-- [Khan Academy – Evaluating functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/evaluating_functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=evaluating+functions+algebra)
 
 ---
 
@@ -50,8 +50,8 @@
 - No algebraic restrictions
 - End behavior intuition
 
-**Learning Resource:**  
-- [Khan Academy – Domain of polynomial functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/domain-polynomial)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=domain+and+range+of+polynomial+functions)
 
 ---
 
@@ -60,8 +60,8 @@
 - Identifying excluded values
 - Holes vs vertical asymptotes (preview)
 
-**Learning Resource:**  
-- [Khan Academy – Domain of rational functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/domain-rational)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=domain+of+rational+functions+algebra)
 
 ---
 
@@ -70,8 +70,8 @@
 - Odd-index radicals allow all real inputs
 - Solving inequalities for domain
 
-**Learning Resource:**  
-- [Khan Academy – Domain of radical functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/domain-radical)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=domain+of+radical+functions+algebra)
 
 ---
 
@@ -80,8 +80,8 @@
 - Solving inequalities for domain
 - Understanding vertical asymptotes at zero
 
-**Learning Resource:**  
-- [Khan Academy – Domain of logarithmic functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/domain-logarithmic)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=domain+of+logarithmic+functions+algebra)
 
 ---
 
@@ -92,8 +92,8 @@
 - Rate of change
 - Constant rate behavior
 
-**Learning Resource:**  
-- [Khan Academy – Linear functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=linear+functions+slope+intercept+form)
 
 ---
 
@@ -103,8 +103,8 @@
 - Opening direction
 - Symmetry axis
 
-**Learning Resource:**  
-- [Khan Academy – Quadratic functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=graphing+quadratic+functions+parabolas)
 
 ---
 
@@ -113,8 +113,8 @@
 - Turning points
 - End behavior by degree and sign
 
-**Learning Resource:**  
-- [Khan Academy – Polynomial graphs](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/v/polynomial-graphs)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=graphing+polynomial+functions+end+behavior)
 
 ---
 
@@ -124,8 +124,8 @@
 - Horizontal asymptotes
 - End behavior intuition
 
-**Learning Resource:**  
-- [Khan Academy – Rational function graphs](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/rational-functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=graphing+rational+functions+asymptotes)
 
 ---
 
@@ -134,8 +134,8 @@
 - Horizontal asymptotes
 - Base interpretation
 
-**Learning Resource:**  
-- [Khan Academy – Exponential functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponential-functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=graphing+exponential+functions+algebra)
 
 ---
 
@@ -144,8 +144,8 @@
 - Vertical asymptotes
 - Growth comparison
 
-**Learning Resource:**  
-- [Khan Academy – Logarithmic functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=graphing+logarithmic+functions+algebra)
 
 ---
 
@@ -154,8 +154,8 @@
 - Piecewise definition
 - Reflection intuition
 
-**Learning Resource:**  
-- [Khan Academy – Absolute value functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-absolute-value)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=graphing+absolute+value+functions+algebra)
 
 ---
 
@@ -164,8 +164,8 @@
 - Interval-based definitions
 - Continuity awareness
 
-**Learning Resource:**  
-- [Khan Academy – Piecewise functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/piecewise-functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=graphing+piecewise+functions+algebra)
 
 ---
 
@@ -176,8 +176,8 @@
 - \(y\)-intercept
 - Solving algebraically vs reading graphically
 
-**Learning Resource:**  
-- [Khan Academy – Intercepts](https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-functions/e/intercepts)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+x+and+y+intercepts+algebra)
 
 ---
 
@@ -186,8 +186,8 @@
 - Horizontal asymptotes
 - Slant asymptotes (conceptual)
 
-**Learning Resource:**  
-- [Khan Academy – Asymptotes](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/asymptotes)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+vertical+and+horizontal+asymptotes)
 
 ---
 
@@ -196,8 +196,8 @@
 - Graphical intuition
 - Connection to slope
 
-**Learning Resource:**  
-- [Khan Academy – Increasing and decreasing functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/increasing-decreasing)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=increasing+and+decreasing+intervals+functions)
 
 ---
 
@@ -206,8 +206,8 @@
 - Leading term dominance
 - Long-term growth intuition
 
-**Learning Resource:**  
-- [Khan Academy – End behavior](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/v/end-behavior)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=end+behavior+of+functions+algebra)
 
 ---
 
@@ -218,8 +218,8 @@
 - Domain intersection
 - Graphical intuition
 
-**Learning Resource:**  
-- [Khan Academy – Adding and subtracting functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/adding_functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=operations+on+functions+addition+subtraction)
 
 ---
 
@@ -228,8 +228,8 @@
 - Domain restrictions
 - Zero denominators
 
-**Learning Resource:**  
-- [Khan Academy – Multiplying and dividing functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/multiplying_functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=operations+on+functions+multiplication+division)
 
 ---
 
@@ -238,8 +238,8 @@
 - Order matters
 - Domain of compositions
 
-**Learning Resource:**  
-- [Khan Academy – Function composition](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/composite_functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=function+composition+algebra)
 
 ---
 
@@ -249,8 +249,8 @@
 - Algebraic inversion
 - Graphical symmetry about \(y = x\)
 
-**Learning Resource:**  
-- [Khan Academy – Inverse functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/inverse_functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+inverse+functions+algebra)
 
 ---
 
@@ -261,8 +261,8 @@
 - Symmetry about the \(y\)-axis
 - Common examples
 
-**Learning Resource:**  
-- [Khan Academy – Even functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/even_functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=even+and+odd+functions+algebra)
 
 ---
 
@@ -271,8 +271,8 @@
 - Origin symmetry
 - Common examples
 
-**Learning Resource:**  
-- [Khan Academy – Odd functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/odd_functions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=identifying+odd+functions+algebra)
 
 ---
 

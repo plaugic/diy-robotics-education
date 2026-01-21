@@ -18,7 +18,7 @@
 - Writing polynomials in standard form
 
 **Learning Resource:**  
-- [Khan Academy – Introduction to polynomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=what+is+a+polynomial+introduction)
 
 ---
 
@@ -29,7 +29,7 @@
 - Why degree matters for behavior and factoring
 
 **Learning Resource:**  
-- [Khan Academy – Degree of polynomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/e/degree_of_polynomials)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=degree+of+a+polynomial+algebra)
 
 ---
 
@@ -39,7 +39,7 @@
 - Effect on graph end behavior (conceptual)
 
 **Learning Resource:**  
-- [Khan Academy – Leading coefficient](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/v/leading-coefficient)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=leading+coefficient+of+a+polynomial)
 
 ---
 
@@ -49,7 +49,7 @@
 - Constant term as \(x^0\)
 
 **Learning Resource:**  
-- [Khan Academy – Polynomial terms](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=constant+term+of+a+polynomial)
 
 ---
 
@@ -61,7 +61,7 @@
 - Handling missing powers
 
 **Learning Resource:**  
-- [Khan Academy – Adding polynomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/e/adding_polynomials)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=adding+polynomials+algebra)
 
 ---
 
@@ -71,7 +71,7 @@
 - Avoiding sign errors
 
 **Learning Resource:**  
-- [Khan Academy – Subtracting polynomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/e/subtracting_polynomials)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=subtracting+polynomials+algebra)
 
 ---
 
@@ -83,7 +83,7 @@
 - Recognizing degree growth
 
 **Learning Resource:**  
-- [Khan Academy – Multiplying polynomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-polynomials/e/multiplying_polynomials)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=multiplying+polynomials+algebra)
 
 ---
 
@@ -96,7 +96,7 @@
 - Why GCF is always checked first
 
 **Learning Resource:**  
-- [Khan Academy – Factoring out the GCF](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_out_gcf)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=factoring+greatest+common+factor+gcf+polynomials)
 
 ---
 
@@ -106,7 +106,7 @@
 - Recognizing factorable vs prime trinomials
 
 **Learning Resource:**  
-- [Khan Academy – Factoring trinomials (simple)](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_trinomials_1)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=factoring+trinomials+a=1)
 
 ---
 
@@ -116,7 +116,7 @@
 - Common factoring errors
 
 **Learning Resource:**  
-- [Khan Academy – Factoring trinomials with leading coefficient](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_trinomials_2)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=factoring+trinomials+ax^2+bx+c+decomposition)
 
 ---
 
@@ -126,7 +126,7 @@
 - Why sums of squares do not factor over the reals
 
 **Learning Resource:**  
-- [Khan Academy – Difference of squares](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_difference_of_squares)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=factoring+difference+of+squares)
 
 ---
 
@@ -136,7 +136,7 @@
 - Verification by expansion
 
 **Learning Resource:**  
-- [Khan Academy – Perfect square trinomials](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_perfect_square_trinomials)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=factoring+perfect+square+trinomials)
 
 ---
 
@@ -146,7 +146,7 @@
 - Multi-step factoring chains
 
 **Learning Resource:**  
-- [Khan Academy – Factoring by grouping](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring/e/factoring_by_grouping)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=factoring+polynomials+by+grouping)
 
 ---
 
@@ -158,7 +158,7 @@
 - Interpreting roots as solutions
 
 **Learning Resource:**  
-- [Khan Academy – Solving quadratics by factoring](https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics/e/solving_quadratics_by_factoring)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+quadratic+equations+by+factoring)
 
 ---
 
@@ -169,7 +169,7 @@
 - When the quadratic formula is required
 
 **Learning Resource:**  
-- [Khan Academy – Quadratic formula](https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics/e/quadratic_formula)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=quadratic+formula+algebra)
 
 ---
 
@@ -182,7 +182,7 @@
   - No real roots
 
 **Learning Resource:**  
-- [Khan Academy – Discriminant](https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics/v/discriminant)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=discriminant+of+quadratic+equation)
 
 ---
 

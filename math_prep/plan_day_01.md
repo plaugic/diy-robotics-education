@@ -19,8 +19,8 @@
   - Additive identity  
   - Neutral element in addition  
 
-**Learning Resource:**  
-- [Khan Academy – Integers](https://www.khanacademy.org/math/arithmetic/arith-review-integers)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=positive+and+negative+integers+explained)
 
 ---
 
@@ -33,30 +33,30 @@
   - Repeating decimals  
 - Equivalence  
   - Fraction ↔ decimal equivalence  
-  - Simplifying to lowest terms  
+  - Simplifying to lowest terms
 
-**Learning Resource:**  
-- [Khan Academy – Rational numbers](https://www.khanacademy.org/math/pre-algebra/pre-algebra-rational-numbers)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=rational+numbers+fractions+decimals+explained)
 
 ---
 
 ### 1.3 Irrational Numbers
 - Non-terminating, non-repeating decimals  
 - Square roots of non-perfect squares  
-- Exact values vs decimal approximations  
+- Exact values vs decimal approximations
 
-**Learning Resource:**  
-- [Khan Academy – Irrational numbers](https://www.khanacademy.org/math/pre-algebra/pre-algebra-irrational-numbers)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=irrational+numbers+explained)
 
 ---
 
 ### 1.4 Real Numbers
 - Rational + irrational numbers  
 - Placement on the number line  
-- Ordering real numbers  
+- Ordering real numbers
 
-**Learning Resource:**  
-- [Khan Academy – Real number system](https://www.khanacademy.org/math/pre-algebra/pre-algebra-real-numbers)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=real+numbers+system+classification)
 
 ---
 
@@ -65,10 +65,10 @@
 - Closed intervals  
 - Half-open intervals  
 - Infinity notation  
-- Translating inequalities ↔ interval notation  
+- Translating inequalities ↔ interval notation
 
-**Learning Resource:**  
-- [Khan Academy – Interval notation](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities/x2f8bb11595b61c86:interval-notation)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=interval+notation+inequalities+algebra)
 
 ---
 
@@ -78,10 +78,10 @@
 - Simplifying fractions  
 - Equivalent fractions  
 - Common denominators  
-- Least common denominator (LCD)  
+- Least common denominator (LCD)
 
-**Learning Resource:**  
-- [Khan Academy – Fractions review](https://www.khanacademy.org/math/arithmetic/arith-review-fractions)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=simplifying+fractions+common+denominators)
 
 ---
 
@@ -91,10 +91,10 @@
   - Different denominators  
 - Subtraction  
 - Multiplication  
-- Division (multiply by the reciprocal)  
+- Division (multiply by the reciprocal)
 
-**Learning Resource:**  
-- [Khan Academy – Fraction operations](https://www.khanacademy.org/math/arithmetic/arith-review-add-subtract-fractions)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=fraction+operations+add+subtract+multiply+divide)
 
 ---
 
@@ -102,20 +102,20 @@
 - Place value  
 - Rounding rules  
 - Addition and subtraction  
-- Multiplication and division  
+- Multiplication and division
 
-**Learning Resource:**  
-- [Khan Academy – Decimal arithmetic](https://www.khanacademy.org/math/arithmetic/arith-review-decimals)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=decimal+operations+add+subtract+multiply+divide)
 
 ---
 
 ### 2.4 Fraction ↔ Decimal Conversion
 - Long division method  
 - Recognizing repeating patterns  
-- Terminating vs repeating decimals  
+- Terminating vs repeating decimals
 
-**Learning Resource:**  
-- [Khan Academy – Fractions and decimals](https://www.khanacademy.org/math/arithmetic/arith-review-fractions-decimals)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=converting+fractions+to+decimals+long+division)
 
 ---
 
@@ -124,30 +124,30 @@
 ### 3.1 Percent Meaning
 - Percent as “per 100”  
 - Percent as a fraction  
-- Percent as a decimal  
+- Percent as a decimal
 
-**Learning Resource:**  
-- [Khan Academy – Percent basics](https://www.khanacademy.org/math/arithmetic/arith-review-percent)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=meaning+of+percentages+math)
 
 ---
 
 ### 3.2 Percent Calculations
 - Percent of a quantity  
 - Finding the whole  
-- Finding the percent  
+- Finding the percent
 
-**Learning Resource:**  
-- [Khan Academy – Percent problems](https://www.khanacademy.org/math/pre-algebra/pre-algebra-percent)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=calculating+percentages+of+numbers)
 
 ---
 
 ### 3.3 Percent Change
 - Percent increase  
 - Percent decrease  
-- Growth vs reduction interpretation  
+- Growth vs reduction interpretation
 
-**Learning Resource:**  
-- [Khan Academy – Percent increase and decrease](https://www.khanacademy.org/math/pre-algebra/pre-algebra-percent-increase-decrease)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=percent+increase+and+decrease+formula)
 
 ---
 
@@ -156,10 +156,10 @@
 ### 4.1 Number Line Intuition
 - Directionality  
 - Distance from zero  
-- Ordering negative numbers  
+- Ordering negative numbers
 
-**Learning Resource:**  
-- [Khan Academy – Negative numbers](https://www.khanacademy.org/math/arithmetic/arith-review-negative-numbers)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=number+line+negative+numbers+intuition)
 
 ---
 
@@ -169,10 +169,10 @@
   - Opposite signs  
 - Subtraction as adding the opposite  
 - Multiplication sign rules  
-- Division sign rules  
+- Division sign rules
 
-**Learning Resource:**  
-- [Khan Academy – Integer operations](https://www.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=operations+with+signed+numbers+rules)
 
 ---
 
@@ -181,20 +181,20 @@
 ### 5.1 Conceptual Meaning
 - Distance from zero  
 - Always non-negative  
-- Absolute value vs parentheses  
+- Absolute value vs parentheses
 
-**Learning Resource:**  
-- [Khan Academy – Absolute value](https://www.khanacademy.org/math/pre-algebra/pre-algebra-absolute-value)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=absolute+value+meaning+and+definition)
 
 ---
 
 ### 5.2 Absolute Value Operations
 - Evaluating absolute value expressions  
 - Absolute value with negatives  
-- Nested absolute values  
+- Nested absolute values
 
-**Learning Resource:**  
-- [Khan Academy – Absolute value expressions](https://www.khanacademy.org/math/pre-algebra/pre-algebra-absolute-value/e/absolute-value-expressions)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=absolute+value+expressions+and+operations)
 
 ---
 
@@ -204,20 +204,20 @@
 - Parentheses and grouping symbols  
 - Exponents  
 - Multiplication and division (left to right)  
-- Addition and subtraction (left to right)  
+- Addition and subtraction (left to right)
 
-**Learning Resource:**  
-- [Khan Academy – Order of operations](https://www.khanacademy.org/math/pre-algebra/pre-algebra-order-of-operations)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=order+of+operations+pemdas+examples)
 
 ---
 
 ### 6.2 Common Pitfalls
 - Negative signs vs subtraction  
 - Implied multiplication  
-- Nested grouping symbols  
+- Nested grouping symbols
 
-**Learning Resource:**  
-- [Khan Academy – Order of operations practice](https://www.khanacademy.org/math/pre-algebra/pre-algebra-order-of-operations/e/order_of_operations)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=common+mistakes+order+of+operations+pemdas)
 
 ---
 
@@ -226,30 +226,30 @@
 ### 7.1 Variables
 - Variables as placeholders  
 - Variables as unknowns  
-- Variables as changing quantities  
+- Variables as changing quantities
 
-**Learning Resource:**  
-- [Khan Academy – Variables introduction](https://www.khanacademy.org/math/pre-algebra/pre-algebra-variables)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=introduction+to+variables+algebra)
 
 ---
 
 ### 7.2 Substitution
 - Replacing variables with values  
 - Evaluating expressions  
-- Multiple-variable substitution  
+- Multiple-variable substitution
 
-**Learning Resource:**  
-- [Khan Academy – Evaluating expressions](https://www.khanacademy.org/math/pre-algebra/pre-algebra-expressions/e/evaluating_expressions)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=substitution+algebraic+expressions)
 
 ---
 
 ### 7.3 Algebraic Expressions
 - Translating words into expressions  
 - Recognizing algebraic structure  
-- Avoiding symbol misinterpretation  
+- Avoiding symbol misinterpretation
 
-**Learning Resource:**  
-- [Khan Academy – Writing algebraic expressions](https://www.khanacademy.org/math/pre-algebra/pre-algebra-expressions)
+**Learning Resources:**  
+- [YouTube Search Results](https://www.youtube.com/results?search_query=translating+words+into+algebraic+expressions)
 
 ---
 

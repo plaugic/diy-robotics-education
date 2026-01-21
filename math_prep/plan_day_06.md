@@ -18,7 +18,7 @@
 - Decay behavior for \(0 < a < 1\)
 
 **Learning Resource:**  
-- [Khan Academy – Exponential functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponential-functions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=exponential+functions+base+properties+algebra)
 
 ---
 
@@ -29,7 +29,7 @@
 - Graph shape and intercepts
 
 **Learning Resource:**  
-- [Khan Academy – The number e](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponential-functions/v/the-number-e)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=natural+base+e+exponential+function+calculus+prep)
 
 ---
 
@@ -40,7 +40,7 @@
 - Horizontal asymptotes
 
 **Learning Resource:**  
-- [Khan Academy – Exponential growth and decay](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponential-functions/v/exponential-growth-decay)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=exponential+growth+and+decay+word+problems)
 
 ---
 
@@ -52,7 +52,7 @@
 - Understanding what a logarithm answers
 
 **Learning Resource:**  
-- [Khan Academy – Logarithms as inverses](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms/v/logarithms-as-inverses)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=logarithms+as+inverse+functions+intro)
 
 ---
 
@@ -62,7 +62,7 @@
 - Evaluating simple common logs
 
 **Learning Resource:**  
-- [Khan Academy – Common logarithms](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms/v/common-logarithms)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=common+logarithms+base+10+algebra)
 
 ---
 
@@ -72,7 +72,7 @@
 - Key identities involving natural logs
 
 **Learning Resource:**  
-- [Khan Academy – Natural logarithms](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms/v/natural-logarithms)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=natural+logarithms+ln+and+e+properties)
 
 ---
 
@@ -84,7 +84,7 @@
 - Avoiding misuse across addition
 
 **Learning Resource:**  
-- [Khan Academy – Product rule of logarithms](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms/v/product-rule-of-logarithms)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=product+rule+of+logarithms+algebra)
 
 ---
 
@@ -93,7 +93,7 @@
 - Structural similarity to exponent rules
 
 **Learning Resource:**  
-- [Khan Academy – Quotient rule of logarithms](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms/v/quotient-rule-of-logarithms)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=quotient+rule+of+logarithms+algebra)
 
 ---
 
@@ -103,7 +103,7 @@
 - Avoiding incorrect exponent movement
 
 **Learning Resource:**  
-- [Khan Academy – Power rule of logarithms](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms/v/power-rule-of-logarithms)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=power+rule+of+logarithms+algebra)
 
 ---
 
@@ -113,7 +113,7 @@
 - Calculator interpretation
 
 **Learning Resource:**  
-- [Khan Academy – Change of base formula](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms/v/change-of-base-formula)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=change+of+base+formula+logarithms)
 
 ---
 
@@ -125,7 +125,7 @@
 - Checking solutions
 
 **Learning Resource:**  
-- [Khan Academy – Solving exponential equations](https://www.khanacademy.org/math/algebra-basics/alg-basics-exponential-functions/e/solving-exponential-equations)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+exponential+equations+with+logarithms)
 
 ---
 
@@ -135,7 +135,7 @@
 - Avoiding illegal operations
 
 **Learning Resource:**  
-- [Khan Academy – Solving logarithmic equations](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms/e/solving-logarithmic-equations)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+logarithmic+equations+algebra)
 
 ---
 
@@ -145,7 +145,7 @@
 - Verifying solutions in original equations
 
 **Learning Resource:**  
-- [Khan Academy – Domain restrictions with logarithms](https://www.khanacademy.org/math/algebra-basics/alg-basics-logarithms/v/domain-of-logarithmic-functions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=domain+restrictions+logarithmic+equations+extraneous)
 
 ---
 
@@ -157,7 +157,7 @@
 - One-to-one requirement
 
 **Learning Resource:**  
-- [Khan Academy – Inverse functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/inverse-functions-intro)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=introduction+to+inverse+functions+algebra)
 
 ---
 
@@ -167,7 +167,7 @@
 - Verifying with composition
 
 **Learning Resource:**  
-- [Khan Academy – Finding inverses algebraically](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/e/inverse-functions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+inverse+functions+algebraically)
 
 ---
 
@@ -177,7 +177,7 @@
 - Restricting domains when necessary
 
 **Learning Resource:**  
-- [Khan Academy – Domain and range of inverse functions](https://www.khanacademy.org/math/algebra-basics/alg-basics-functions/v/inverse-functions-domain-range)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=domain+and+range+of+inverse+functions)
 
 ---
 

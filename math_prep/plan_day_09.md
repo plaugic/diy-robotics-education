@@ -17,7 +17,7 @@
 - Left-hand vs right-hand approach intuition
 
 **Learning Resource:**  
-- [Khan Academy – Limits intro](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-1/v/introduction-to-limits)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=concept+of+limits+calculus+explained)
 
 ---
 
@@ -28,7 +28,7 @@
 - When a two-sided limit fails to exist
 
 **Learning Resource:**  
-- [Khan Academy – One-sided limits](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-2/v/one-sided-limits)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=one+sided+limits+calculus+explained)
 
 ---
 
@@ -39,7 +39,7 @@
 - Open vs closed circles
 
 **Learning Resource:**  
-- [Khan Academy – Limits from graphs](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-3/v/estimating-limits-from-graphs)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+limits+from+graphs)
 
 ---
 
@@ -49,7 +49,7 @@
 - Recognizing divergence or oscillation
 
 **Learning Resource:**  
-- [Khan Academy – Limits from tables](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-4/v/estimating-limits-from-tables)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+limits+numerically+tables)
 
 ---
 
@@ -61,7 +61,7 @@
 - Identifying indeterminate forms
 
 **Learning Resource:**  
-- [Khan Academy – Direct substitution](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-5/v/direct-substitution)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=limits+direct+substitution+calculus)
 
 ---
 
@@ -71,7 +71,7 @@
 - Limits involving rational expressions
 
 **Learning Resource:**  
-- [Khan Academy – Limits by factoring](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-6/v/limits-by-factoring)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=calculating+limits+by+factoring)
 
 ---
 
@@ -81,7 +81,7 @@
 - When rationalization applies
 
 **Learning Resource:**  
-- [Khan Academy – Limits by rationalization](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-7/v/limits-by-rationalizing)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=calculating+limits+by+rationalizing)
 
 ---
 
@@ -92,7 +92,7 @@
 - Infinite limits vs finite limits
 
 **Learning Resource:**  
-- [Khan Academy – Limits at infinity](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-8/v/limits-at-infinity)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=limits+at+infinity+horizontal+asymptotes)
 
 ---
 
@@ -104,7 +104,7 @@
 - Relationship between continuity and limits
 
 **Learning Resource:**  
-- [Khan Academy – Continuity](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-9/v/continuity)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=definition+of+continuity+calculus)
 
 ---
 
@@ -114,7 +114,7 @@
 - Algebraic identification
 
 **Learning Resource:**  
-- [Khan Academy – Removable discontinuities](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-10/v/removable-discontinuities)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=removable+discontinuities+calculus)
 
 ---
 
@@ -124,7 +124,7 @@
 - Piecewise function context
 
 **Learning Resource:**  
-- [Khan Academy – Jump discontinuities](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-11/v/jump-discontinuities)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=jump+discontinuities+calculus)
 
 ---
 
@@ -134,7 +134,7 @@
 - Relationship to rational functions
 
 **Learning Resource:**  
-- [Khan Academy – Infinite discontinuities](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-12/v/infinite-discontinuities)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=infinite+discontinuities+vertical+asymptotes)
 
 ---
 
@@ -146,7 +146,7 @@
 - Geometric intuition
 
 **Learning Resource:**  
-- [Khan Academy – Limit of sin(x)/x](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-13/v/limit-of-sin-x-over-x)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=limit+of+sin(x)/x+as+x+approaches+0)
 
 ---
 
@@ -156,7 +156,7 @@
 - Conceptual meaning
 
 **Learning Resource:**  
-- [Khan Academy – Limit of (e^x − 1)/x](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-14/v/limit-of-e-x-minus-1-over-x)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=limit+of+(e^x-1)/x+as+x+approaches+0)
 
 ---
 

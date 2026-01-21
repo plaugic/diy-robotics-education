@@ -17,7 +17,7 @@
 - Relationship to geometry
 
 **Learning Resource:**
-- [Khan Academy – Degrees](https://www.khanacademy.org/math/trigonometry/trig-angle-measure/v/degrees)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=degrees+angle+measure+geometry)
 
 ---
 
@@ -28,7 +28,7 @@
 - Why calculus uses radians exclusively
 
 **Learning Resource:**  
-- [Khan Academy – Radians](https://www.khanacademy.org/math/trigonometry/trig-angle-measure/v/radians)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=radians+angle+measure+explained)
 
 ---
 
@@ -39,7 +39,7 @@
 - Recognizing common angles instantly
 
 **Learning Resource:**  
-- [Khan Academy – Converting between radians and degrees](https://www.khanacademy.org/math/trigonometry/trig-angle-measure/v/converting-between-radians-and-degrees)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=converting+degrees+to+radians+and+radians+to+degrees)
 
 ---
 
@@ -51,7 +51,7 @@
 - Relationship between angle and point location
 
 **Learning Resource:**  
-- [Khan Academy – Unit circle](https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=unit+circle+explained+trigonometry)
 
 ---
 
@@ -61,7 +61,7 @@
 - Reference angles
 
 **Learning Resource:**  
-- [Khan Academy – Special angles](https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/v/unit-circle-special-angles)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=reference+angles+and+special+angles+trigonometry)
 
 ---
 
@@ -72,7 +72,7 @@
 - Avoiding decimal approximations
 
 **Learning Resource:**  
-- [Khan Academy – Exact trig values](https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/v/unit-circle-trig-values)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+exact+trig+values+using+unit+circle)
 
 ---
 
@@ -82,7 +82,7 @@
 - Applying signs to reference angles
 
 **Learning Resource:**  
-- [Khan Academy – Trig signs in quadrants](https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/v/trig-signs-in-quadrants)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=astc+rule+trigonometry+quadrants)
 
 ---
 
@@ -94,7 +94,7 @@
 - Range and periodicity
 
 **Learning Resource:**  
-- [Khan Academy – Sine](https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/v/sine-function)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=sine+function+trigonometry+unit+circle)
 
 ---
 
@@ -104,7 +104,7 @@
 - Symmetry properties
 
 **Learning Resource:**  
-- [Khan Academy – Cosine](https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/v/cosine-function)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=cosine+function+trigonometry+unit+circle)
 
 ---
 
@@ -114,7 +114,7 @@
 - Periodicity and asymptotes
 
 **Learning Resource:**  
-- [Khan Academy – Tangent](https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/v/tangent-function)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=tangent+function+graph+and+properties)
 
 ---
 
@@ -125,7 +125,7 @@
 - Relationship to sine, cosine, tangent
 
 **Learning Resource:**  
-- [Khan Academy – Reciprocal trig functions](https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/v/reciprocal-trig-functions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=reciprocal+trigonometric+functions+cosecant+secant+cotangent)
 
 ---
 
@@ -137,7 +137,7 @@
 - Period of tangent
 
 **Learning Resource:**  
-- [Khan Academy – Period of trig functions](https://www.khanacademy.org/math/trigonometry/trig-function-graphs/v/period-of-trig-functions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=period+of+trigonometric+functions)
 
 ---
 
@@ -147,7 +147,7 @@
 - Only applies to sine and cosine
 
 **Learning Resource:**  
-- [Khan Academy – Amplitude](https://www.khanacademy.org/math/trigonometry/trig-function-graphs/v/amplitude-of-trig-functions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=amplitude+of+trigonometric+functions)
 
 ---
 
@@ -157,7 +157,7 @@
 - Graphing intuition
 
 **Learning Resource:**  
-- [Khan Academy – Phase shift](https://www.khanacademy.org/math/trigonometry/trig-function-graphs/v/phase-shift-of-trig-functions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=phase+shift+of+trigonometric+functions)
 
 ---
 
@@ -169,7 +169,7 @@
 - Using identities to simplify expressions
 
 **Learning Resource:**  
-- [Khan Academy – Pythagorean identities](https://www.khanacademy.org/math/trigonometry/trig-identities/v/pythagorean-trig-identities)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=prover+using+pythagorean+identities+trigonometry)
 
 ---
 
@@ -178,7 +178,7 @@
 - Converting between functions
 
 **Learning Resource:**  
-- [Khan Academy – Reciprocal identities](https://www.khanacademy.org/math/trigonometry/trig-identities/v/reciprocal-identities)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=reciprocal+identities+trigonometry)
 
 ---
 
@@ -188,7 +188,7 @@
 - Structural use in simplification
 
 **Learning Resource:**  
-- [Khan Academy – Quotient identities](https://www.khanacademy.org/math/trigonometry/trig-identities/v/quotient-identities)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=quotient+identities+trigonometry)
 
 ---
 
@@ -198,7 +198,7 @@
 - Symmetry interpretation
 
 **Learning Resource:**  
-- [Khan Academy – Even and odd trig identities](https://www.khanacademy.org/math/trigonometry/trig-identities/v/even-odd-trig-identities)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=even+and+odd+properties+of+trigonometric+functions)
 
 ---
 
@@ -209,7 +209,7 @@
 - Recognizing when to apply
 
 **Learning Resource:**  
-- [Khan Academy – Double-angle identities](https://www.khanacademy.org/math/trigonometry/trig-identities/v/double-angle-identities)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=double+angle+identities+trigonometry)
 
 ---
 
@@ -221,7 +221,7 @@
 - Checking solutions
 
 **Learning Resource:**  
-- [Khan Academy – Solving basic trig equations](https://www.khanacademy.org/math/trigonometry/trig-equations/v/solving-basic-trig-equations)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+basic+trigonometric+equations)
 
 ---
 
@@ -231,7 +231,7 @@
 - Using integer parameters
 
 **Learning Resource:**  
-- [Khan Academy – General solutions of trig equations](https://www.khanacademy.org/math/trigonometry/trig-equations/v/general-solutions-of-trig-equations)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=finding+general+solutions+of+trigonometric+equations)
 
 ---
 
@@ -243,7 +243,7 @@
 - Domain/range charts
 
 **Learning Resource:**  
-- [Khan Academy – Inverse trig domains and ranges](https://www.khanacademy.org/math/trigonometry/inverse-trig-functions/v/inverse-trig-functions-domain-range)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=domain+and+range+of+inverse+trigonometric+functions)
 
 ---
 
@@ -253,7 +253,7 @@
 - Avoiding common sign mistakes
 
 **Learning Resource:**  
-- [Khan Academy – Evaluating inverse trig functions](https://www.khanacademy.org/math/trigonometry/inverse-trig-functions/v/evaluating-inverse-trig-functions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=evaluating+inverse+trigonometric+functions)
 
 ---
 

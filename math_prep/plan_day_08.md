@@ -17,7 +17,7 @@
 - Using distance in geometric reasoning
 
 **Learning Resource:**  
-- [Khan Academy – Distance formula](https://www.khanacademy.org/math/geometry/hs-geo-coordinate-geometry/hs-geo-distance-midpoint/v/distance-formula)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=distance+formula+geometry+example+problems)
 
 ---
 
@@ -28,7 +28,7 @@
 - Using midpoints in problem solving
 
 **Learning Resource:**  
-- [Khan Academy – Midpoint formula](https://www.khanacademy.org/math/geometry/hs-geo-coordinate-geometry/hs-geo-distance-midpoint/v/midpoint-formula)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=midpoint+formula+geometry+examples)
 
 ---
 
@@ -39,7 +39,7 @@
 - Writing the equation given center and radius
 
 **Learning Resource:**  
-- [Khan Academy – Equation of a circle](https://www.khanacademy.org/math/geometry/hs-geo-coordinate-geometry/hs-geo-circles/v/equation-of-a-circle)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=equation+of+a+circle+center+radius)
 
 ---
 
@@ -50,7 +50,7 @@
 - Axis of symmetry
 
 **Learning Resource:**  
-- [Khan Academy – Parabolas](https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics/v/parabolas-intro)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=parabolas+conic+sections+intro)
 
 ---
 
@@ -61,7 +61,7 @@
 - Identifying ellipse equations by structure
 
 **Learning Resource:**  
-- [Khan Academy – Ellipses](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:conic-sections/x9e81a4f98389efdf:ellipses)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=ellipses+conic+sections+intro)
 
 ---
 
@@ -72,7 +72,7 @@
 - Identifying hyperbola equations by signs
 
 **Learning Resource:**  
-- [Khan Academy – Hyperbolas](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:conic-sections/x9e81a4f98389efdf:hyperbolas)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=hyperbolas+conic+sections+intro)
 
 ---
 
@@ -83,7 +83,7 @@
 - Identifying symmetry from equations
 
 **Learning Resource:**  
-- [Khan Academy – Symmetry in graphs](https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-functions/v/symmetry-of-functions)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=symmetry+tests+algebra+x+axis+y+axis+origin)
 
 ---
 
@@ -93,7 +93,7 @@
 - Area as accumulation
 
 **Learning Resource:**  
-- [Khan Academy – Area under curves (intro)](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-1/v/area-under-a-curve-intro)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=introduction+to+area+under+curve+calculus)
 
 ---
 
@@ -105,7 +105,7 @@
 - Quadrants and sign interpretation
 
 **Learning Resource:**  
-- [Khan Academy – Cartesian coordinate system](https://www.khanacademy.org/math/geometry/hs-geo-coordinate-geometry/hs-geo-coordinate-plane/v/the-coordinate-plane)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=cartesian+coordinate+system+explained)
 
 ---
 
@@ -115,7 +115,7 @@
 - Polar graph intuition
 
 **Learning Resource:**  
-- [Khan Academy – Polar coordinates](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:polar-coordinates)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=polar+coordinates+intro+precalculus)
 
 ---
 
@@ -126,7 +126,7 @@
 - Negative \(r\) values (conceptual)
 
 **Learning Resource:**  
-- [Khan Academy – Understanding polar coordinates](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:polar-coordinates/v/polar-coordinates)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=plotting+polar+coordinates+explained)
 
 ---
 
@@ -136,7 +136,7 @@
 - Using trigonometry in conversions
 
 **Learning Resource:**  
-- [Khan Academy – Converting between polar and Cartesian](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:polar-coordinates/v/converting-between-polar-and-cartesian-coordinates)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=converting+between+polar+and+cartesian+coordinates)
 
 ---
 
@@ -148,7 +148,7 @@
 - Separating \(x\) and \(y\) definitions
 
 **Learning Resource:**  
-- [Khan Academy – Parametric equations intro](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:parametric-equations)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=parametric+equations+intro+precalculus)
 
 ---
 
@@ -158,7 +158,7 @@
 - Recognizing when elimination is possible
 
 **Learning Resource:**  
-- [Khan Academy – Eliminating the parameter](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:parametric-equations/v/eliminating-the-parameter)
+- [YouTube Search Results](https://www.youtube.com/results?search_query=eliminating+the+parameter+parametric+equations)
 
 ---
 

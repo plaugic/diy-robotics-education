@@ -18,8 +18,8 @@
   - Why they cannot be combined
 - Role of coefficients
 
-**Learning Resource:**  
-- [Khan Academy – Combining like terms](https://www.khanacademy.org/math/pre-algebra/pre-algebra-expressions/e/combining_like_terms)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=combining+like+terms+algebra+basics)
 
 ---
 
@@ -28,8 +28,8 @@
 - Adding and subtracting constants
 - Constants inside parentheses
 
-**Learning Resource:**  
-- [Khan Academy – Simplifying expressions with constants](https://www.khanacademy.org/math/pre-algebra/pre-algebra-expressions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=constants+in+algebraic+expressions)
 
 ---
 
@@ -39,8 +39,8 @@
 - Subtracting coefficients
 - Interpreting negative coefficients
 
-**Learning Resource:**  
-- [Khan Academy – Combining linear terms](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:expressions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=linear+terms+and+coefficients)
 
 ---
 
@@ -49,8 +49,8 @@
 - Why degrees must match to combine
 - Common student errors
 
-**Learning Resource:**  
-- [Khan Academy – Simplifying algebraic expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-expressions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=simplifying+higher+degree+terms)
 
 ---
 
@@ -62,8 +62,8 @@
 - Distributing across multiple terms
 - Common sign errors
 
-**Learning Resource:**  
-- [Khan Academy – Distributive property](https://www.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/e/distributive_property)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=distributive+property+algebra)
 
 ---
 
@@ -73,8 +73,8 @@
 - Factoring variable GCF
 - Factoring negatives for simplification
 
-**Learning Resource:**  
-- [Khan Academy – Factoring expressions](https://www.khanacademy.org/math/algebra-basics/alg-basics-factoring)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=factoring+greatest+common+factor+gcf)
 
 ---
 
@@ -83,8 +83,8 @@
 - Handling subtraction of parentheses
 - Avoiding sign-flip mistakes
 
-**Learning Resource:**  
-- [Khan Academy – Distributing negatives](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:expressions/e/distribute_negative)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=distributing+negative+signs+algebra)
 
 ---
 
@@ -96,8 +96,8 @@
 - Multiplication property of equality
 - Division property of equality
 
-**Learning Resource:**  
-- [Khan Academy – One-step equations](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations/e/one_step_equations)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+one+step+equations+algebra)
 
 ---
 
@@ -106,8 +106,8 @@
 - Undoing multiplication/division second
 - Order-of-operations reasoning
 
-**Learning Resource:**  
-- [Khan Academy – Two-step equations](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations/e/two_step_equations)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+two+step+equations+algebra)
 
 ---
 
@@ -117,8 +117,8 @@
 - Isolating the variable
 - Checking solutions
 
-**Learning Resource:**  
-- [Khan Academy – Multi-step equations](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations/e/multi_step_equations)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+multi+step+equations+algebra)
 
 ---
 
@@ -127,8 +127,8 @@
 - Avoiding zero-variable traps
 - Identifying identity vs contradiction cases
 
-**Learning Resource:**  
-- [Khan Academy – Variables on both sides](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations/e/variables_on_both_sides)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+equations+with+variables+on+both+sides)
 
 ---
 
@@ -137,8 +137,8 @@
 - Multiplying entire equation
 - Avoiding partial distribution mistakes
 
-**Learning Resource:**  
-- [Khan Academy – Equations with fractions](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations/e/equations_with_fractions)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+equations+with+fractional+coefficients)
 
 ---
 
@@ -149,8 +149,8 @@
 - Why inequality direction flips when multiplying/dividing by negatives
 - Checking solutions
 
-**Learning Resource:**  
-- [Khan Academy – Solving inequalities](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=solving+linear+inequalities+algebra)
 
 ---
 
@@ -159,8 +159,8 @@
 - Open vs closed endpoints
 - Infinite intervals
 
-**Learning Resource:**  
-- [Khan Academy – Interval notation](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities/x2f8bb11595b61c86:interval-notation)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=interval+notation+inequalities)
 
 ---
 
@@ -169,8 +169,8 @@
 - Shading direction
 - Compound inequalities
 
-**Learning Resource:**  
-- [Khan Academy – Graphing inequalities](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities/graphing_inequalities)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=graphing+inequalities+on+number+line)
 
 ---
 
@@ -181,8 +181,8 @@
 - Translating phrases into expressions
 - Assigning variables correctly
 
-**Learning Resource:**  
-- [Khan Academy – Translating words to equations](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations/word-problems)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=translating+algebraic+expressions+word+problems)
 
 ---
 
@@ -191,8 +191,8 @@
 - Writing correct equations
 - Avoiding overcomplication
 
-**Learning Resource:**  
-- [Khan Academy – Linear word problems](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations/alg-basics-word-problems)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=setting+up+algebraic+equations+word+problems)
 
 ---
 
@@ -201,8 +201,8 @@
 - Rejecting impossible answers
 - Contextual verification
 
-**Learning Resource:**  
-- [Khan Academy – Interpreting solutions](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations)
+**Learning Resource:**
+- [YouTube Search Results](https://www.youtube.com/results?search_query=interpreting+solutions+to+algebraic+equations)
 
 ---
 
