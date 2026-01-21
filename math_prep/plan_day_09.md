@@ -1,42 +1,261 @@
-Day 9: Differentiation – The Concept of the Derivative and Basic Rules
+# Day 9: Differentiation – The Concept of the Derivative and Basic Rules
 
-Focus: Time to learn about the derivative, the central idea of Calculus I (and heavily used in Calculus II for series tests, etc.). The derivative measures instantaneous rate of change – essentially, it gives the slope of the tangent line to a function’s graph. Today, you’ll grasp what a derivative is, learn how to compute derivatives of common functions using rules (power, product, quotient, chain), and see some basic applications. This is a packed day, but extremely important: by the end, you should be able to differentiate most algebraic functions you encounter.
-	•	Topics to Master:
-	•	Definition of the Derivative: Understand the derivative $f’(x)$ as $\displaystyle \lim_{h\to0}\frac{f(x+h) - f(x)}{h}$. This formula encapsulates taking the slope of the secant line between two close points and moving the points infinitely close. Recognize that $f’(a)$ is the slope of $f$ at $x=a$. Conceptually: if $f$ is position, $f’$ is velocity. If $f$ gives a curve, $f’$ gives its slope at each point ￼. It might help to derive $f’ (x)$ for a simple function from first principles: e.g., do the limit for $f(x)=x^2$ to find $f’(x)=2x$. This secures understanding of where rules come from.
-	•	Basic Differentiation Rules: Learn the common derivative formulas:
-	•	Power Rule: $\frac{d}{dx}x^n = nx^{n-1}$ for any real $n$. This is a workhorse rule (e.g. $d(x^5)/dx = 5x^4$; $d(1/x)/dx = -1/x^2$ since that’s $x^{-1}$).
-	•	Constant & Coefficient Rules: $d(c)/dx = 0$ for constant $c$. $d(cf(x))/dx = c\cdot f’(x)$ (you can pull constants out).
-	•	Sum/Difference Rule: derivative of sum is sum of derivatives, likewise for difference (linearity of derivative).
-	•	Product Rule: If $u(x)$ and $v(x)$ are functions, $(uv)’ = u’v + uv’$. Practice on something like $f(x) = x^2 \sin x$.
-	•	Quotient Rule: $\displaystyle \left(\frac{u}{v}\right)’ = \frac{u’v - uv’}{v^2}$ (provided $v \neq 0$). Use it for, say, $f(x) = \frac{x}{x^2+1}$. It’s a bit memorization-heavy, but you can derive it if needed by combining product + chain, or just memorize “lo d hi minus hi d lo over lo-lo”.
-	•	Chain Rule: The most important rule for composition: if $y = f(u)$ and $u = g(x)$, then $\frac{dy}{dx} = f’(u) \cdot g’(x)$. In Leibniz form, $\frac{d}{dx}f(g(x)) = f’(g(x))\cdot g’(x)$. Practice on a composite like $\sin(x^2)$ (outer $f=\sin$, inner $g=x^2$, derivative = $\cos(x^2)\cdot 2x$). Or $e^{3x}$ (derivative $e^{3x}\cdot 3$). This rule is crucial for Calc II integration (it’s the reverse of the chain rule, $u$-substitution).
-	•	Derivative of Common Functions: Know that $(\sin x)’ = \cos x$, $(\cos x)’ = -\sin x$, $(\tan x)’ = \sec^2 x$. Also $(e^x)’ = e^x$, $(\ln x)’ = 1/x$. For $a^x$, $(a^x)’ = a^x \ln a$. For $\log_a x$, $(\log_a x)’ = 1/(x\ln a)$. These should be on your formula sheet to memorize.
-	•	Practice Differentiation: Once you have rules, apply them to lots of examples to ensure you’re doing it right. Example tasks:
-	•	Differentiate simple polynomials and sums: $d(x^3 + 5x - 4)/dx = 3x^2 + 5$.
-	•	Use product rule: if $h(x) = x^2 e^x$, $h’(x) = 2x e^x + x^2 e^x = e^x(2x + x^2)$.
-	•	Use quotient: $k(x) = \frac{\sin x}{x}$, then $k’(x) = \frac{\cos x \cdot x - \sin x \cdot 1}{x^2}$. Simplify it if possible.
-	•	Use chain: $m(x) = (3x^2 + 1)^5$, then $m’(x) = 5(3x^2+1)^4 \cdot (6x)$ by chain (outer $u^5$ and inner $3x^2+1$).
-	•	Higher-order derivatives: Know notation like $f’’(x)$ for second derivative (derivative of the derivative), etc. Understand these physically: e.g. if $f$ is position, $f’$ is velocity, $f’’$ is acceleration. In Calc II, second derivatives appear in tests for series convergence and solving differential equations. Not a major focus now, but be aware how to take a second derivative (just differentiate again). For instance, if $y=x^3$, $y’ = 3x^2$, $y’’ = 6x$.
-	•	Using Derivatives: Briefly see how derivatives solve problems:
-	•	Tangent lines: The line tangent to $y=f(x)$ at $x=a$ has slope $f’(a)$, so equation: $y - f(a) = f’(a)(x - a)$. You can try finding a tangent line equation, e.g. for $f(x) = x^2$ at $x=1$ (slope $2$, line: $y - 1 = 2(x-1)$).
-	•	Critical points: Points where $f’(x)=0$ (or undefined) are critical – often where maxima/minima occur. Just note this; in Calc II you’ll need this concept for finding extreme values in some contexts (like optimizing a function that appears in an application or testing endpoints of interval of convergence in series). You may not have time to delve deep, but know the idea: set derivative to zero to find horizontal tangents, etc.
-	•	Velocity/Acceleration: If you have a simple motion equation (e.g. $s(t) = t^3 - 5t^2$ for position), you can get $v(t) = s’(t)$ and $a(t) = v’(t)$. Do one quick check: if $s(t) = t^2$, then $v(t) = 2t$, acceleration $a(t) = 2$ (constant acceleration). This just ties derivative to a real concept.
-	•	Learning Resources:
-	•	Khan Academy – Basic Derivatives: Use the modules on “Derivative as slope of curve” and “Power rule”, “Product and quotient rules”, “Chain rule”. Khan’s exercises will guide you through differentiation step by step. Start with verifying you conceptually get derivative as a limit (Khan often has a graph where you estimate the slope of tangent). Then focus on mechanical skills with the rules.
-	•	Paul’s Online Math Notes – Calculus I: Derivatives: Paul’s notes list out all the differentiation formulas clearly (you might want to print or jot these as your formula sheet) ￼. He also has plenty of examples applying each rule in increasing complexity. If any rule confuses you, check his examples. Notably, check his example for chain rule – a common mistake is not applying it correctly with nested functions. Paul also covers implicit differentiation (differentiating relations not explicitly solved for y) – if time permits, glance at that concept (useful if you ever need $\frac{dy}{dx}$ given an equation like $x^2 + y^2 = 25$, which gives $2x + 2y \frac{dy}{dx} = 0$ so $\frac{dy}{dx} = -\frac{x}{y}$). Implicit differentiation is handy in related rates and in deriving derivative of inverse functions, but might be a stretch goal for today.
-	•	3Blue1Brown – “The Essence of Calculus”: Chapter 2 and 3 of his series visually derive the derivative of $x^2$ and generalize the power rule, etc. If you’re a visual learner and want a break from symbolic manipulation, watch a few minutes of these to see geometric interpretation of derivative rules (like how the $n$ in power rule comes from something combinatorial). It’s not necessary, but can deepen understanding.
-	•	Practice: Differentiation gets easier the more you practice. Try to differentiate at least ~10 functions covering various cases:
-	1.	A simple polynomial: $f(x) = 4x^3 - 3x + 7$.
-	2.	Including a reciprocal: $g(x) = \frac{5}{x^4}$. (Rewrite as $5x^{-4}$ first, then use power rule.)
-	3.	Product rule: $h(x) = (2x^2 + 1)(x^3 - x)$. (You can expand to check result.)
-	4.	Quotient rule: $p(x) = \frac{x^2 + 1}{x^3}$ (or something a bit more complex like $\frac{\sin x}{x}$ which you did above).
-	5.	Chain rule basics: $q(x) = (3x + 5)^7$.
-	6.	Chain in trig: $r(x) = \sin(4x)$, $s(x) = \cos^3 x$ (for $\cos^3 x$, see it as $(\cos x)^3$).
-	7.	Chain with exp: $t(x) = e^{2x^2}$ (here do inner $2x^2$, outer $e^u$).
-	8.	Implicit (if you looked at it): Differentiate $x^2 + y^2 = 25$ or $x^3 + y^3 = 6$ implicitly to find $\frac{dy}{dx}$.
-	9.	Logarithmic differentiation technique (optional advanced): differentiate $y = x^x$ (this is tricky directly; you set $\ln y = x \ln x$ and differentiate implicitly: $\frac{1}{y} y’ = \ln x + 1$, so $y’ = y(\ln x + 1) = x^x(\ln x + 1)$). This showcases using logs to differentiate weird exponentials, a skill sometimes useful in Calc II integration or series. If it’s too much, skip it, but it’s a neat application.
-	10.	Confirm any results using a CAS (computer algebra system) or differentiator tool if available (just to ensure no algebra mistakes).
-	•	Also, do a couple of tangent line calculations and critical point finds: e.g., for $f(x) = x^3 - 3x$, find $f’(x)$ and solve $f’(x)=0$ (here $3x^2 - 3 = 0$ gives $x = \pm 1$, which are critical points likely maxima/minima). Check $f(1)$ and $f(-1)$ and note shape. This ties derivative to function behavior.
-	•	Aim to get to the point where seeing something like $y = \frac{\ln x}{x^2}$ doesn’t scare you: you’d calmly apply quotient (with a chain inside for $\ln x$ as needed). Speed isn’t crucial now, accuracy is – speed will come with familiarity.
+## Focus
 
-Why this matters: Differentiation is a must-know for any calculus sequence. In Calculus II, you will use derivatives in various contexts: analyzing series (e.g. Taylor series are derived from taking derivatives), solving optimization problems in applications, working with differential equations, and more. Also, integration (Calc II’s new focus) is essentially the reverse of differentiation – knowing your derivatives well makes finding antiderivatives easier. For example, if you instantly recognize that $\frac{d}{dx}(\tan^{-1}x) = \frac{1}{1+x^2}$, then when you see $\int \frac{1}{1+x^2}dx$ in Calc II, you know it’s $\tan^{-1}x + C$. Many integration techniques rely on thinking “what derivative would produce this integrand?”. Therefore, the more derivative facts you have memorized and the more practiced you are, the easier integration will be. Additionally, Calc II topics like convergence tests for series (e.g. the Ratio Test involves taking limits of ratios that include derivatives in some cases) and calculus of parametric curves (finding slopes) all use derivatives. In short, mastering differentiation rules is non-negotiable for success. Use today to solidify that mastery, and be ready to deploy these rules instantly in problem-solving.
+Time to learn about the **derivative**, the central idea of Calculus I (and heavily used in Calculus II for series tests, etc.). The derivative measures **instantaneous rate of change**—essentially, it gives the **slope of the tangent line** to a function’s graph.
+
+Today, you’ll:
+- Grasp what a derivative *is*
+- Learn how to compute derivatives using standard rules (power, product, quotient, chain)
+- See basic applications of derivatives
+
+This is a **packed but critical day**. By the end, you should be able to differentiate most algebraic functions you encounter.
+
+---
+
+## Topics to Master
+
+### Definition of the Derivative
+
+Understand the derivative \( f'(x) \) as:
+
+\[
+f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}
+\]
+
+This formula represents:
+- The slope of a **secant line** between two nearby points
+- Letting those points move infinitely close to become a **tangent line**
+
+Key interpretations:
+- \( f'(a) \) is the slope of \( f \) at \( x = a \)
+- If \( f \) is **position**, then \( f' \) is **velocity**
+- If \( f \) is a **curve**, then \( f' \) gives its **slope** at each point
+
+To cement understanding, derive a derivative *from first principles*:
+- Example:  
+  \( f(x) = x^2 \Rightarrow f'(x) = 2x \) via the limit definition
+
+This shows **where differentiation rules come from**, not just how to apply them.
+
+---
+
+### Basic Differentiation Rules
+
+#### Power Rule
+\[
+\frac{d}{dx}x^n = nx^{n-1}
+\]
+
+Examples:
+- \( \frac{d}{dx}(x^5) = 5x^4 \)
+- \( \frac{d}{dx}(1/x) = -1/x^2 \) (since \( x^{-1} \))
+
+#### Constant & Coefficient Rules
+- \( \frac{d}{dx}(c) = 0 \)
+- \( \frac{d}{dx}[c f(x)] = c f'(x) \)
+
+#### Sum / Difference Rule
+- Derivative of a sum is the sum of derivatives
+- Derivative of a difference is the difference of derivatives
+
+---
+
+### Product Rule
+
+If \( u(x) \) and \( v(x) \) are functions:
+
+\[
+(uv)' = u'v + uv'
+\]
+
+Example:
+- \( f(x) = x^2 \sin x \)
+
+---
+
+### Quotient Rule
+
+\[
+\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}, \quad v \neq 0
+\]
+
+Example:
+- \( f(x) = \frac{x}{x^2 + 1} \)
+
+Mnemonic:
+> *“Low d-high minus high d-low over low-low”*
+
+---
+
+### Chain Rule
+
+For composite functions:
+
+\[
+\frac{d}{dx} f(g(x)) = f'(g(x)) \cdot g'(x)
+\]
+
+Examples:
+- \( \sin(x^2) \Rightarrow \cos(x^2)\cdot 2x \)
+- \( e^{3x} \Rightarrow 3e^{3x} \)
+
+This rule is **crucial for Calc II**, especially for integration via *u-substitution*.
+
+---
+
+### Derivatives of Common Functions
+
+- \( (\sin x)' = \cos x \)
+- \( (\cos x)' = -\sin x \)
+- \( (\tan x)' = \sec^2 x \)
+- \( (e^x)' = e^x \)
+- \( (\ln x)' = \frac{1}{x} \)
+- \( (a^x)' = a^x \ln a \)
+- \( (\log_a x)' = \frac{1}{x \ln a} \)
+
+These **must be memorized**.
+
+---
+
+## Practice Differentiation
+
+### Example Tasks
+
+- **Polynomial**  
+  \[
+  \frac{d}{dx}(x^3 + 5x - 4) = 3x^2 + 5
+  \]
+
+- **Product Rule**  
+  \[
+  h(x) = x^2 e^x \Rightarrow h'(x) = e^x(2x + x^2)
+  \]
+
+- **Quotient Rule**  
+  \[
+  k(x) = \frac{\sin x}{x} \Rightarrow k'(x) = \frac{x\cos x - \sin x}{x^2}
+  \]
+
+- **Chain Rule**  
+  \[
+  m(x) = (3x^2 + 1)^5 \Rightarrow m'(x) = 5(3x^2 + 1)^4 \cdot 6x
+  \]
+
+---
+
+### Higher-Order Derivatives
+
+- \( f''(x) \): second derivative  
+- Interpretation:
+  - Position → velocity → acceleration
+
+Example:
+- \( y = x^3 \)
+- \( y' = 3x^2 \)
+- \( y'' = 6x \)
+
+---
+
+## Using Derivatives
+
+### Tangent Lines
+
+Equation at \( x = a \):
+
+\[
+y - f(a) = f'(a)(x - a)
+\]
+
+Example:
+- \( f(x) = x^2 \) at \( x = 1 \)
+- Slope \( = 2 \)
+- Line: \( y - 1 = 2(x - 1) \)
+
+---
+
+### Critical Points
+
+- Occur when \( f'(x) = 0 \) or undefined
+- Often correspond to maxima or minima
+- Important in optimization and series endpoints
+
+---
+
+### Velocity & Acceleration
+
+Example:
+- \( s(t) = t^3 - 5t^2 \)
+- \( v(t) = s'(t) \)
+- \( a(t) = v'(t) \)
+
+If:
+- \( s(t) = t^2 \)
+- \( v(t) = 2t \)
+- \( a(t) = 2 \)
+
+---
+
+## Learning Resources
+
+### Khan Academy – Basic Derivatives
+- Derivative as slope of curve
+- Power, product, quotient, and chain rules
+- Excellent step-by-step practice
+
+### Paul’s Online Math Notes – Calculus I
+- Clear formula lists
+- Extensive worked examples
+- Includes **implicit differentiation**
+  - Example:
+    \[
+    x^2 + y^2 = 25 \Rightarrow \frac{dy}{dx} = -\frac{x}{y}
+    \]
+
+### 3Blue1Brown – *Essence of Calculus*
+- Chapters 2–3
+- Visual intuition for derivatives
+- Optional but excellent for conceptual depth
+
+---
+
+## Practice Set (Do ~10)
+
+1. \( f(x) = 4x^3 - 3x + 7 \)
+2. \( g(x) = \frac{5}{x^4} \)
+3. \( h(x) = (2x^2 + 1)(x^3 - x) \)
+4. \( p(x) = \frac{x^2 + 1}{x^3} \)
+5. \( q(x) = (3x + 5)^7 \)
+6. \( r(x) = \sin(4x) \), \( s(x) = \cos^3 x \)
+7. \( t(x) = e^{2x^2} \)
+8. Implicit: \( x^2 + y^2 = 25 \)
+9. Log diff (optional):  
+   \[
+   y = x^x \Rightarrow y' = x^x(\ln x + 1)
+   \]
+10. Verify results using a CAS
+
+Also:
+- Find tangent lines
+- Find critical points (e.g. \( f(x) = x^3 - 3x \))
+
+---
+
+## Why This Matters
+
+Differentiation is **non-negotiable** for Calculus II.
+
+You’ll use derivatives for:
+- Taylor and power series
+- Optimization problems
+- Differential equations
+- Parametric curves
+- Integration (as reverse differentiation)
+
+Example:
+- Knowing \( \frac{d}{dx}(\tan^{-1}x) = \frac{1}{1+x^2} \)
+- Makes \( \int \frac{1}{1+x^2}dx = \tan^{-1}x + C \) immediate
+
+The stronger your differentiation skills, the easier **integration and series analysis** become.
+
+**Accuracy first. Speed follows.**

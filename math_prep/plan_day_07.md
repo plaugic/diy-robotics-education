@@ -1,24 +1,224 @@
-Day 7: Trigonometry Essentials
+## Day 7: Trigonometry Essentials
 
-Focus: Trigonometry is often the topic that troubles Calculus students the most – yet it’s essential. Calculus II, in particular, delves into integrals of trig functions and techniques like trigonometric substitution ￼. Today’s mission is to grasp the core trig concepts: the unit circle, fundamental trig functions (sine, cosine, etc.), basic identities, and simple trig equations. Given the time crunch, we’ll prioritize what’s absolutely essential for calculus: evaluating trig functions, using identities to simplify expressions, and understanding trig function behavior.
-	•	Topics to Master:
-	•	Angles and the Unit Circle: Understand radians (the standard measure in calculus) versus degrees. Know common angle measures: $0, \pi/6, \pi/4, \pi/3, \pi/2$ (and their degree equivalents 0°, 30°, 45°, 60°, 90°; likewise for 120°, 135°, etc., up to 360° or $2\pi$). Be able to find coordinates on the unit circle for these angles. For example, $\sin(\pi/6)=1/2$, $\cos(\pi/3)=1/2$, etc. Practice by drawing a unit circle and labeling it with sine and cosine values for those key angles. Use an interactive unit circle to verify your memory ￼.
-	•	Definition of trig functions: Recall that for an angle $\theta$ on the unit circle, $\cos\theta$ is the $x$-coordinate and $\sin\theta$ is the $y$-coordinate. Tangent $\tan\theta = \sin\theta/\cos\theta$. Know the basic shape of sine and cosine waves (sine starts at 0 and goes up, cosine starts at 1 at $\theta=0$). Remember $\sin(0)=0$, $\cos(0)=1$; $\sin(\pi/2)=1$, $\cos(\pi/2)=0$; etc. Understanding these will help evaluate limits and integrals involving trig.
-	•	Key Trig Identities: The Pythagorean Identity $\sin^2\theta + \cos^2\theta = 1$ (and its rearrangements $\cos^2\theta = 1-\sin^2\theta$, etc.) is a must-know ￼. Also know the co-function identities $\sin(\pi/2 - \theta) = \cos\theta$, etc., and the even/odd properties: $\cos(-\theta) = \cos\theta$ (cosine is even), $\sin(-\theta) = -\sin\theta$ (sine is odd) ￼. These identities are frequently used to simplify integrals and solve equations. If possible, also familiarize with angle sum identities (like $\sin(\alpha+\beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$) and double-angle formulas ($\sin(2x) = 2\sin x\cos x$, $\cos(2x) = 1-2\sin^2x$) ￼. In Calc II, the double-angle for cosine in the form $\cos^2x = \frac{1+\cos(2x)}{2}$ is especially useful for integrating $\sin^2x$ or $\cos^2x$. Make sure you have at least the Pythagorean and double-angle identities on hand (even if not fully memorized, know where to find them).
-	•	Evaluating Trig Expressions: Practice simplifying expressions using identities: e.g. simplify $\frac{\sin^2x}{1-\cos^2x}$ (using $1-\cos^2x=\sin^2x$, this simplifies to 1). Or simplify $\cos^2x - \sin^2x$ (that’s $\cos(2x)$ by a double-angle identity). Being comfortable with such manipulations will greatly help in integration techniques.
-	•	Basic Trig Equations: Solve simple equations like $\sin \theta = \frac{\sqrt{2}}{2}$. Know the general solutions on $[0,2\pi)$: for $\sin\theta = \sqrt{2}/2$, $\theta = \pi/4$ or $3\pi/4$ (and similarly for other quadrants if needed). Or $\cos \theta = -1/2$ gives $\theta = 2\pi/3$ or $4\pi/3$ in that interval. Understanding where trig functions take certain values is crucial for solving equations such as $\sin x = a$ or $\cos x = a$ that appear in calculus (like when finding where a derivative $\cos x$ equals zero, etc.).
-	•	Inverse Trig (if time): Be aware of $\arcsin$, $\arccos$, $\arctan$ as the inverses of sin, cos, tan (restricted to principal ranges). Calc II might require understanding $\arcsin x$ or $\arctan x$ as results of integrals (e.g. $\int \frac{1}{\sqrt{1-x^2}}dx = \arcsin x + C$). You don’t need deep knowledge now beyond knowing $\arcsin x$ gives an angle whose sine is $x$, etc., and that $\arctan x$ ranges $(-\pi/2,\pi/2)$.
-	•	Learning Resources:
-	•	Khan Academy – Trigonometry: Focus on the “Unit circle definition of trig functions” and “Trigonometric identities” topics. Khan’s videos on the unit circle will help convert between degrees and radians and memorize coordinates. There are also exercises for using identities (like verifying one side equals another). Also check out the “Graphs of sin(x) and cos(x)” for a visual of these functions.
-	•	MathisFun – Unit Circle Interactive: Use the Interactive Unit Circle￼ on MathisFun to click around angles and see sin, cos, tan values ￼. This is a great way to reinforce the quadrant signs (e.g. sin is positive in QI and QII, negative in QIII/QIV) and common angle values. Spend a few minutes testing yourself: “What is $\sin(150°)$?” and confirm on the interactive tool (should be 0.5).
-	•	Professor Leonard’s Trig Videos (Optional): If you prefer a lecture style, search YouTube for “Professor Leonard Trigonometry crash course” – he has comprehensive lectures. However, given our time constraint, it may be more than needed. Instead, you might find shorter videos like “All the Trig Identities in 10 minutes” for a quick rundown. Use as needed for tricky parts.
-	•	Paul’s Online Math Notes – Trig Review: Paul’s trig sections cover evaluating trig functions ￼, trig formulas ￼ (like identities), solving trig equations ￼, and inverse trig ￼. This is a good reference if you need to look up an identity or see a solved example. Keep this page bookmarked for when you’re doing calculus – it’s handy for recalling identities.
-	•	Practice:
-	•	Unit circle recall: Draw a blank unit circle and fill in as much as you can: angles in radians (especially multiples of $\pi/6, \pi/4, \pi/3$), and the corresponding $(\cos\theta, \sin\theta)$ coordinates. Use a reference to check and correct it. Repeat until you can reproduce the key values from memory.
-	•	Identity usage: Do 5 quick identity verifications/simplifications, such as: prove $\frac{1-\cos(2x)}{2} = \sin^2 x$ (start from one side and transform to the other); simplify $\frac{\sin x \cos x}{\sin^2 x}$ (that simplifies to $\cot x \csc x$ or $\frac{\cos x}{\sin x}$ depending how you approach); verify $\tan^2x + 1 = \sec^2x$ using $\sin^2+\cos^2=1$. The goal is not rigorous proof but to ensure you know how to apply identities correctly.
-	•	Evaluate trig values: Without a calculator, determine: $\sin 300°$, $\cos(5\pi/6)$, $\tan(\pi/4)$. Then some involving negative angles: $\sin(-\pi/3)$, $\cos(-\pi/3)$ (using odd/even properties). Check with a calculator or unit circle to confirm.
-	•	Solve trig equations: Solve $\sin x = 0$ for $x$ in $[0,2\pi)$ (answers: $x=0,\pi,2\pi$). Solve $\cos x = \frac{\sqrt{2}}{2}$ in $[0,2\pi)$ ($x=\pi/4, 7\pi/4$). Solve $\tan x = \sqrt{3}$ in $[0,\pi)$ ($x=\pi/3, \pi/3 + \pi$ but within $[0,\pi)$ just $\pi/3$ for principal, general solution $x = \pi/3 + k\pi$). Knowing these patterns will help, for example, when finding where a derivative like $\cos x$ equals zero (you’ll immediately know $x=\pi/2, 3\pi/2$ etc.).
-	•	Inverse trig (if done): Evaluate a couple like $\arcsin(1/2)$ (expect $\pi/6$) or $\arctan(1)$ ($\pi/4$) to get comfortable with the idea.
-	•	Trig might be the densest topic you cover in one day, so prioritize: if time is short, ensure you know unit circle values and Pythagorean/double-angle identities, as those are used constantly in Calc II integrals ￼. It’s okay if you need to occasionally look up a less common identity (like $\sin(α+\beta)$) when doing homework – just know where to find it. But the basic ones should be at your fingertips.
+### Focus
+Trigonometry is often the topic that troubles Calculus students the most—yet it’s essential. Calculus II, in particular, delves into integrals of trig functions and techniques like **trigonometric substitution**. Today’s mission is to grasp the **core trig concepts**: the unit circle, fundamental trig functions (sine, cosine, etc.), basic identities, and simple trig equations.
 
-Why this matters: In Calculus II, you’ll encounter integrals of trig functions (like $\int \sin^2 x,dx$ or $\int \frac{dx}{1+x^2}$ which yields $\arctan x$). Techniques like trig substitution explicitly require recognizing trig relationships (for example, substituting $x = \sin\theta$ in an integral uses the identity $1-\sin^2\theta=\cos^2\theta$ ￼). Many students who “howl and cry about Calc 2” are those who never fully learned their basic trig and algebra ￼ – we don’t want to be in that camp. By solidifying trig now, you set yourself up to handle those integration techniques and also to understand the behavior of periodic functions in series. Essentially, trig is to Calc II what algebra was to Calc I: absolutely required background. After today, keep your unit circle and identities sheet handy; even as you do calculus problems, you may refer to it until everything is second nature.
+Given the time crunch, we’ll prioritize what’s absolutely essential for calculus:
+- Evaluating trig functions  
+- Using identities to simplify expressions  
+- Understanding trig function behavior  
+
+---
+
+## Topics to Master
+
+### 1. Angles and the Unit Circle
+- Understand **radians** (the standard measure in calculus) versus degrees.
+- Know common angle measures:
+  - Radians: \( 0, \frac{\pi}{6}, \frac{\pi}{4}, \frac{\pi}{3}, \frac{\pi}{2} \)
+  - Degrees: \( 0^\circ, 30^\circ, 45^\circ, 60^\circ, 90^\circ \)
+  - Continue through \( 120^\circ, 135^\circ, \dots, 360^\circ \) (or \( 2\pi \)).
+- Be able to find **coordinates on the unit circle** for these angles.
+  - Examples:
+    - \( \sin(\pi/6) = \tfrac{1}{2} \)
+    - \( \cos(\pi/3) = \tfrac{1}{2} \)
+- Practice by drawing a unit circle and labeling sine and cosine values for key angles.
+- Use an interactive unit circle to verify your memory.
+
+---
+
+### 2. Definition of Trig Functions
+- For an angle \( \theta \) on the unit circle:
+  - \( \cos\theta \) = *x-coordinate*
+  - \( \sin\theta \) = *y-coordinate*
+  - \( \tan\theta = \frac{\sin\theta}{\cos\theta} \)
+- Know the basic shapes:
+  - **Sine** starts at 0 and increases
+  - **Cosine** starts at 1 when \( \theta = 0 \)
+- Key values to recall:
+  - \( \sin(0)=0 \), \( \cos(0)=1 \)
+  - \( \sin(\pi/2)=1 \), \( \cos(\pi/2)=0 \)
+- Understanding these helps evaluate **limits and integrals** involving trig.
+
+---
+
+### 3. Key Trigonometric Identities
+- **Pythagorean Identity** (must-know):
+  \[
+  \sin^2\theta + \cos^2\theta = 1
+  \]
+  Rearrangements:
+  \[
+  \cos^2\theta = 1 - \sin^2\theta, \quad \sin^2\theta = 1 - \cos^2\theta
+  \]
+
+- **Co-function identities**:
+  \[
+  \sin\!\left(\tfrac{\pi}{2} - \theta\right) = \cos\theta
+  \]
+
+- **Even/Odd properties**:
+  - \( \cos(-\theta) = \cos\theta \) (even)
+  - \( \sin(-\theta) = -\sin\theta \) (odd)
+
+- **Angle sum identities** (good to recognize):
+  \[
+  \sin(\alpha+\beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta
+  \]
+
+- **Double-angle formulas**:
+  \[
+  \sin(2x) = 2\sin x\cos x
+  \]
+  \[
+  \cos(2x) = 1 - 2\sin^2 x
+  \]
+  Especially useful in Calc II:
+  \[
+  \cos^2 x = \frac{1+\cos(2x)}{2}
+  \]
+
+> At minimum, have **Pythagorean identities** and **double-angle formulas** available (memorized or easily accessible).
+
+---
+
+### 4. Evaluating Trig Expressions
+Practice simplifying using identities:
+
+- Example:
+  \[
+  \frac{\sin^2 x}{1-\cos^2 x} = 1
+  \]
+  (since \( 1-\cos^2 x = \sin^2 x \))
+
+- Example:
+  \[
+  \cos^2 x - \sin^2 x = \cos(2x)
+  \]
+
+Comfort with these manipulations is critical for integration techniques.
+
+---
+
+### 5. Basic Trigonometric Equations
+Solve simple equations on \( [0,2\pi) \):
+
+- \( \sin\theta = \tfrac{\sqrt{2}}{2} \)
+  - Solutions: \( \theta = \tfrac{\pi}{4}, \tfrac{3\pi}{4} \)
+
+- \( \cos\theta = -\tfrac{1}{2} \)
+  - Solutions: \( \theta = \tfrac{2\pi}{3}, \tfrac{4\pi}{3} \)
+
+Understanding where trig functions take values is crucial in calculus (e.g., finding where derivatives equal zero).
+
+---
+
+### 6. Inverse Trigonometric Functions (If Time)
+- Be aware of:
+  - \( \arcsin x \), \( \arccos x \), \( \arctan x \)
+- These are inverses with **restricted ranges**.
+- Common calculus result:
+  \[
+  \int \frac{1}{\sqrt{1-x^2}}\,dx = \arcsin x + C
+  \]
+- Know:
+  - \( \arcsin x \) gives an angle whose sine is \( x \)
+  - \( \arctan x \in (-\tfrac{\pi}{2}, \tfrac{\pi}{2}) \)
+
+---
+
+## Learning Resources
+
+### Khan Academy – Trigonometry
+- Focus on:
+  - *Unit circle definition of trig functions*
+  - *Trigonometric identities*
+  - *Graphs of* \( \sin x \) *and* \( \cos x \)
+- Excellent for degree–radian conversion and identity practice.
+
+### MathIsFun – Unit Circle Interactive
+- Use the **Interactive Unit Circle** to explore angles and values.
+- Reinforces quadrant signs and common values.
+- Example check:
+  - “What is \( \sin(150^\circ) \)?” → should be \( 0.5 \)
+
+### Professor Leonard (Optional)
+- Search: *“Professor Leonard Trigonometry crash course”*
+- Very thorough; may be more than needed.
+- Short summary videos (e.g. *“All Trig Identities in 10 Minutes”*) may be more efficient.
+
+### Paul’s Online Math Notes – Trig Review
+- Covers:
+  - Evaluating trig functions
+  - Trig identities
+  - Solving trig equations
+  - Inverse trig
+- Excellent reference to bookmark for calculus.
+
+---
+
+## Practice
+
+### Unit Circle Recall
+- Draw a blank unit circle.
+- Fill in:
+  - Angles (multiples of \( \pi/6, \pi/4, \pi/3 \))
+  - Coordinates \( (\cos\theta, \sin\theta) \)
+- Check and repeat until confident.
+
+### Identity Usage
+Do 5 quick simplifications/verifications:
+- Prove:
+  \[
+  \frac{1-\cos(2x)}{2} = \sin^2 x
+  \]
+- Simplify:
+  \[
+  \frac{\sin x \cos x}{\sin^2 x}
+  \]
+- Verify:
+  \[
+  \tan^2 x + 1 = \sec^2 x
+  \]
+
+### Evaluate Trig Values (No Calculator)
+- \( \sin 300^\circ \)
+- \( \cos\!\left(\tfrac{5\pi}{6}\right) \)
+- \( \tan\!\left(\tfrac{\pi}{4}\right) \)
+- Negative angles:
+  - \( \sin(-\tfrac{\pi}{3}) \)
+  - \( \cos(-\tfrac{\pi}{3}) \)
+
+### Solve Trig Equations
+- \( \sin x = 0 \), \( x \in [0,2\pi) \)
+  - \( x = 0, \pi, 2\pi \)
+- \( \cos x = \tfrac{\sqrt{2}}{2} \), \( x \in [0,2\pi) \)
+  - \( x = \tfrac{\pi}{4}, \tfrac{7\pi}{4} \)
+- \( \tan x = \sqrt{3} \), \( x \in [0,\pi) \)
+  - \( x = \tfrac{\pi}{3} \)
+  - General solution: \( x = \tfrac{\pi}{3} + k\pi \)
+
+### Inverse Trig (If Done)
+- \( \arcsin(\tfrac{1}{2}) = \tfrac{\pi}{6} \)
+- \( \arctan(1) = \tfrac{\pi}{4} \)
+
+> Trig is dense—prioritize **unit circle values** and **Pythagorean + double-angle identities**. It’s okay to look up less common identities; the essentials should be second nature.
+
+---
+
+## Why This Matters
+In Calculus II, trig appears everywhere:
+
+- Integrals like:
+  \[
+  \int \sin^2 x\,dx, \quad \int \frac{dx}{1+x^2} = \arctan x
+  \]
+- **Trig substitution** relies on identities like:
+  \[
+  1 - \sin^2\theta = \cos^2\theta
+  \]
+- Weak trig knowledge is a major reason students struggle with Calc II.
+
+By solidifying trig now, you set yourself up to handle integration techniques, inverse trig results, and periodic behavior in series. Trigonometry is to **Calculus II** what algebra was to **Calculus I**: absolutely required background.
+
+After today, keep a **unit circle + identities sheet** handy. You’ll reference it often—until it becomes second nature.

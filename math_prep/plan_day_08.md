@@ -1,31 +1,266 @@
-Day 8: Introduction to Calculus – Limits and Continuity
+# Day 8: Introduction to Calculus – Limits and Continuity
 
-Focus: Congratulations – you’re now stepping into calculus itself! The first fundamental concept is the limit. Limits describe how a function’s output behaves as the input approaches some value, and they underpin the definitions of derivatives and integrals. Today you will learn what limits are, how to evaluate basic limits, and the concept of continuity. This will bridge your algebra/pre-calculus knowledge into the new realm of calculus ideas.
-	•	Topics to Master:
-	•	Concept of a Limit: Understand informally that $\lim_{x \to a} f(x) = L$ means $f(x)$ gets arbitrarily close to $L$ as $x$ approaches $a$ (from both sides). A key insight: the value of $f(a)$ (if it even exists) is not directly relevant to the limit – what matters is the trend of $f(x)$ around $a$ ￼. For example, you can have a situation where $f(a)$ is undefined or different from the limit, yet the limit exists (like a removable hole in the graph). Grasp this through examples (see below).
-	•	Computing Limits Numerically/Graphically: Practice finding limits by creating small tables of values. E.g. estimate $\lim_{x\to2} \frac{x^2-4}{x-2}$ by plugging $x=1.9,1.99,2.01,2.1$ (you’ll see values approaching 4). Graphical approach: look at the graph and see what y-value you approach as $x$ approaches the target. This builds intuition.  ￼ ￼
-	•	Basic Algebraic Limit Techniques: Learn to evaluate limits using algebra for common cases:
-	•	If $f$ is a nice (continuous) function at $a$, then $\lim_{x\to a} f(x) = f(a)$. So for a polynomial or a simple trig/exp/log function where plugging in $a$ is fine, the limit is just the value. Example: $\lim_{x\to 3} (x^2 - 1) = 3^2 - 1 = 8$.
-	•	Indeterminate form $0/0$: Many interesting limits yield $0/0$ if you plug in directly. Use algebraic manipulation to simplify. Techniques include factoring and canceling, rationalizing, or using conjugates. For instance, $\lim_{x\to 2}\frac{x^2-4}{x-2}$: direct sub gives $0/0$, but factoring $x^2-4=(x-2)(x+2)$ cancels the $(x-2)$, leaving $\lim_{x\to2}(x+2) = 4$. Similarly, $\lim_{h\to 0}\frac{\sqrt{1+h}-1}{h}$, rationalize numerator: $\frac{(\sqrt{1+h}-1)(\sqrt{1+h}+1)}{h(\sqrt{1+h}+1)} = \frac{1+h-1}{h(\sqrt{1+h}+1)} = \frac{1}{\sqrt{1+h}+1}$, then plug $h\to0$: result $1/2$. Practice a couple such manipulations.
-	•	Limits at Infinity: Get a taste of how functions behave as $x\to \infty$ or $-\infty$. For rational functions, recall that the end behavior is determined by the degrees. Example: $\lim_{x\to\infty}\frac{5x^2 - 1}{2x^2 + 3x} = \frac{5}{2}$ (ratio of leading coefficients). If degree denominator > numerator, limit is 0; if numerator > denominator, limit diverges (or $\pm \infty$). This will be useful in improper integrals and series.
-	•	Continuity: A function $f(x)$ is continuous at $x=a$ if $\lim_{x\to a}f(x) = f(a)$. In other words, the function’s value and the limit agree (no hole or jump at that point). Learn that polynomials, sin x, e^x, etc., are continuous everywhere, whereas something like $f(x) = \frac{x^2-4}{x-2}$ is not continuous at $x=2$ (there’s a hole). Also, piecewise functions can have jump discontinuities if the left- and right-hand limits differ. You should be able to identify if a graph is continuous or has a discontinuity (and of what type: removable hole, jump, infinite asymptote). This concept is important because many theorems in Calc (Intermediate Value Theorem, etc.) apply to continuous functions ￼.
-	•	Tricky Limits (optional): Be aware of special trigonometric limits: $\lim_{x\to 0}\frac{\sin x}{x} = 1$ and $\lim_{x\to 0}(1 + \frac{1}{n})^n = e$ (the latter in a different form is $\lim_{x\to 0}\frac{e^x - 1}{x} = 1$). These are used so often that they’re worth noting. If you have time, read why $\sin x \sim x$ near 0 (series or geometric argument). But at minimum, remember the result – you will likely use it in Calc I/II problems.
-	•	Learning Resources:
-	•	Khan Academy – Limits Intro: Start with “Introduction to limits” videos and problems. Khan will present examples of approaching a value from left and right, and how sometimes they differ (nonexistent limit) or agree (limit exists). Do their exercises on evaluating limits algebraically, which include factoring and rationalizing examples.
-	•	3Blue1Brown “Essence of Calculus” (Chapter 2): If you want a conceptual deep-dive, 3Blue1Brown’s second video “The paradox of the derivative” actually introduces limits by framing the idea of instantaneous rate of change as a limiting process. It’s a highly visual explanation. While not required, it can give a strong intuition for why limits matter. (Time permitting, watch the first 10 minutes for the intuitive gist.)
-	•	Paul’s Online Math Notes – Calculus I: Limit section: Paul’s notes on limits are very student-friendly. He goes through the $\frac{0}{0}$ cases with step-by-step algebra ￼, explains one-sided vs two-sided limits, and defines continuity clearly. Use these notes to see additional examples (e.g. piecewise function limits). Pay special attention to any summary he gives of limit properties – knowing those properties (e.g. you can take limit inside a sum, etc.) will help you solve limits systematically.
-	•	Practice:
-	•	Understanding Definition: In your own words (maybe write a few sentences), describe what $\lim_{x\to a}f(x) = L$ means ￼. Also, consider a simple example like $f(x) = (x^2-1)/(x-1)$. Simplify it (it becomes $x+1$ for $x\neq1$). Now, $f(1)$ is undefined, but $\lim_{x\to1}f(x) = 2$. Explain why the limit is 2 even though $f(1)$ doesn’t exist – this will reinforce the concept.
-	•	Numerical limits: For a function like $g(x) = \frac{|x|}{x}$, make a table approaching 0 from left and right (e.g. $x=-0.1,-0.01,…$ and $x=0.1,0.01,…$). See that $g(x)$ approaches -1 from the left and +1 from the right, thus $\lim_{x\to0}g(x)$ doesn’t exist (DNE). This is a classic example (sgn function) to illustrate one-sided limits and discontinuity.
-	•	Algebraic evaluation: Solve a set of about 6 limit problems:
-	1.	$\lim_{x\to 3} (2x^3 - x)$ (direct substitution).
-	2.	$\lim_{x\to -2} \frac{x^2-4}{x+2}$ (factor and cancel, removable hole).
-	3.	$\lim_{t\to 0} \frac{\sqrt{4+t} - 2}{t}$ (rationalize to find the limit, should get $1/4$).
-	4.	$\lim_{x\to 5^+} \frac{1}{5-x}$ (approaching 5 from right, denominator is negative small, so limit $=-\infty$).
-	5.	$\lim_{x\to\infty} \frac{3x^2 + 1}{4x^2 - x + 9}$ (leading terms dominate, answer $3/4$).
-	6.	$\lim_{x\to 0} \frac{\sin x}{x}$ (know this special case is 1).
-	•	Check your answers via either reasoning or tools (for rational ones, plug a very close value; for the trig one, maybe use a calculator radian mode for a small x).
-	•	Continuity check: Take a piecewise function, say $h(x) = \begin{cases}x^2 & x<1 \ 3 & x=1 \ 2x-1 & x>1 \end{cases}$. Determine if it’s continuous at $x=1$. (Find $\lim_{x\to1^-}h(x) = 1$, $\lim_{x\to1^+}h(x) = 1$, and $h(1)=3$. The left/right limits agree at 1, but the function’s value is 3, so there’s a jump – not continuous at 1. It has a removable discontinuity if we redefined $h(1)=1$.) Do a couple such analyses; this is common in exam questions to test understanding of continuity.
-	•	By the end of these exercises, you should feel comfortable with the idea of approaching values and know how to do basic limit algebra. The formal $\varepsilon$-$\delta$ definition isn’t necessary for this prep (usually taught in more theoretical courses), so focus on computational and intuitive understanding.
+## Focus
 
-Why this matters: Limits are the foundation of calculus. The derivative is defined as a limit (a slope as two points get infinitely close), and the definite integral is defined as a limit (adding infinitely many slices). If you understand limits, you’ll find the definitions of derivative and integral much more natural ￼ ￼. Moreover, in Calculus II you’ll encounter series and sequences, which also have limits at their core (e.g. the sum of an infinite series is the limit of partial sums). By getting limit concepts down, you set yourself up for success in both Calc I and II concepts. Today’s introduction to continuity also matters: many powerful theorems (like the Intermediate Value Theorem or determining convergence of improper integrals) assume continuity. So, as you move forward, always consider limits first – they tell you “what happens as…”, which is the key question in calculus. Having tackled Day 8, you’re now thinking like a budding calculus student, where approaching values and infinities is second nature!
+Congratulations — you’re now stepping into calculus itself! The first fundamental concept is the **limit**. Limits describe how a function’s output behaves as the input approaches some value, and they underpin the definitions of **derivatives** and **integrals**. Today you will learn what limits are, how to evaluate basic limits, and the concept of **continuity**. This will bridge your algebra/pre-calculus knowledge into the new realm of calculus ideas.
+
+---
+
+## Topics to Master
+
+### 1. Concept of a Limit
+Understand informally that  
+
+\[
+\lim_{x \to a} f(x) = L
+\]
+
+means that \( f(x) \) gets arbitrarily close to \( L \) as \( x \) approaches \( a \) (from both sides).
+
+**Key insight:**  
+The value of \( f(a) \) (if it even exists) is *not* directly relevant to the limit — what matters is the trend of \( f(x) \) around \( a \). For example, you can have a situation where \( f(a) \) is undefined or different from the limit, yet the limit exists (like a removable hole in the graph). Grasp this through examples (see below).
+
+---
+
+### 2. Computing Limits Numerically / Graphically
+Practice finding limits by creating small tables of values.
+
+**Example:**  
+Estimate  
+\[
+\lim_{x \to 2} \frac{x^2 - 4}{x - 2}
+\]
+
+by plugging in values such as:
+- \( x = 1.9, 1.99 \)
+- \( x = 2.01, 2.1 \)
+
+You’ll see the values approaching **4**.
+
+**Graphical approach:**  
+Look at the graph and observe what \( y \)-value the function approaches as \( x \) approaches the target. This builds intuition.
+
+---
+
+### 3. Basic Algebraic Limit Techniques
+
+#### a. Direct Substitution
+If \( f \) is a “nice” (continuous) function at \( a \), then:
+
+\[
+\lim_{x \to a} f(x) = f(a)
+\]
+
+This works for polynomials, simple trig, exponential, and logarithmic functions where plugging in \( a \) is valid.
+
+**Example:**
+\[
+\lim_{x \to 3} (x^2 - 1) = 3^2 - 1 = 8
+\]
+
+---
+
+#### b. Indeterminate Form \( \frac{0}{0} \)
+Many interesting limits produce \( \frac{0}{0} \) when plugging in directly. Use algebraic manipulation:
+
+- Factoring and canceling  
+- Rationalizing  
+- Using conjugates  
+
+**Example:**
+\[
+\lim_{x \to 2} \frac{x^2 - 4}{x - 2}
+\]
+
+Direct substitution gives \( 0/0 \). Factor:
+\[
+x^2 - 4 = (x - 2)(x + 2)
+\]
+
+Cancel \( (x - 2) \):
+\[
+\lim_{x \to 2} (x + 2) = 4
+\]
+
+**Another example:**
+\[
+\lim_{h \to 0} \frac{\sqrt{1+h} - 1}{h}
+\]
+
+Rationalize:
+\[
+\frac{(\sqrt{1+h}-1)(\sqrt{1+h}+1)}{h(\sqrt{1+h}+1)}
+= \frac{1+h-1}{h(\sqrt{1+h}+1)}
+= \frac{1}{\sqrt{1+h}+1}
+\]
+
+Now plug in \( h \to 0 \):
+\[
+\frac{1}{2}
+\]
+
+Practice a few of these manipulations.
+
+---
+
+### 4. Limits at Infinity
+Understand how functions behave as \( x \to \infty \) or \( x \to -\infty \).
+
+For rational functions:
+- Same degree (top and bottom): limit = ratio of leading coefficients  
+- Denominator degree > numerator degree: limit = 0  
+- Numerator degree > denominator degree: limit diverges (\( \pm\infty \))
+
+**Example:**
+\[
+\lim_{x \to \infty} \frac{5x^2 - 1}{2x^2 + 3x} = \frac{5}{2}
+\]
+
+These ideas are important later for improper integrals and series.
+
+---
+
+### 5. Continuity
+A function \( f(x) \) is **continuous** at \( x = a \) if:
+
+\[
+\lim_{x \to a} f(x) = f(a)
+\]
+
+In words: the limit exists and equals the function’s value.
+
+- Polynomials, \( \sin x \), \( e^x \), etc., are continuous everywhere.
+- \( f(x) = \frac{x^2 - 4}{x - 2} \) is **not** continuous at \( x = 2 \) (there’s a hole).
+- Piecewise functions can have **jump discontinuities** if left- and right-hand limits differ.
+
+You should be able to identify:
+- Removable discontinuities (holes)
+- Jump discontinuities
+- Infinite discontinuities (vertical asymptotes)
+
+This matters because many theorems in calculus (e.g., the Intermediate Value Theorem) apply only to continuous functions.
+
+---
+
+### 6. Tricky Limits (Optional but Important)
+Be aware of these special limits:
+
+\[
+\lim_{x \to 0} \frac{\sin x}{x} = 1
+\]
+
+\[
+\lim_{x \to 0} \frac{e^x - 1}{x} = 1
+\]
+
+(Equivalently, \( \lim_{n \to \infty} (1 + \frac{1}{n})^n = e \).)
+
+If time permits, read why \( \sin x \sim x \) near 0. At minimum, **memorize these results** — they appear constantly in Calc I and II.
+
+---
+
+## Learning Resources
+
+- **Khan Academy – Limits Intro**  
+  Start with “Introduction to limits.” Focus on left-hand vs right-hand limits and algebraic evaluation (factoring, rationalizing).
+
+- **3Blue1Brown – Essence of Calculus (Chapter 2)**  
+  “The paradox of the derivative” introduces limits through instantaneous rate of change. Highly visual and intuitive. Even the first 10 minutes is valuable.
+
+- **Paul’s Online Math Notes – Calculus I (Limits section)**  
+  Excellent step-by-step explanations of \( 0/0 \) cases, one-sided limits, and continuity. Pay attention to limit properties summaries.
+
+---
+
+## Practice
+
+### 1. Understanding the Definition
+In your own words, describe what  
+\[
+\lim_{x \to a} f(x) = L
+\]
+means.
+
+Example:
+\[
+f(x) = \frac{x^2 - 1}{x - 1}
+\]
+
+Simplify:
+\[
+f(x) = x + 1 \quad (x \neq 1)
+\]
+
+- \( f(1) \) is undefined  
+- \( \lim_{x \to 1} f(x) = 2 \)
+
+Explain why the limit exists even though \( f(1) \) does not.
+
+---
+
+### 2. Numerical Limits
+Let:
+\[
+g(x) = \frac{|x|}{x}
+\]
+
+Make a table approaching 0 from both sides:
+- Left: \( x = -0.1, -0.01, \dots \)
+- Right: \( x = 0.1, 0.01, \dots \)
+
+You’ll find:
+- Left-hand limit = −1  
+- Right-hand limit = +1  
+
+Therefore:
+\[
+\lim_{x \to 0} g(x) \text{ does not exist (DNE)}
+\]
+
+---
+
+### 3. Algebraic Evaluation
+Solve the following limits:
+
+1. \(\lim_{x \to 3} (2x^3 - x)\)
+2. \(\lim_{x \to -2} \frac{x^2 - 4}{x + 2}\)
+3. \(\lim_{t \to 0} \frac{\sqrt{4+t} - 2}{t}\) (answer: \( \frac{1}{4} \))
+4. \(\lim_{x \to 5^+} \frac{1}{5 - x}\) (answer: \( -\infty \))
+5. \(\lim_{x \to \infty} \frac{3x^2 + 1}{4x^2 - x + 9}\)
+6. \(\lim_{x \to 0} \frac{\sin x}{x}\)
+
+Check answers using reasoning or numerical approximation.
+
+---
+
+### 4. Continuity Check
+Consider:
+\[
+h(x) =
+\begin{cases}
+x^2 & x < 1 \\
+3 & x = 1 \\
+2x - 1 & x > 1
+\end{cases}
+\]
+
+- \( \lim_{x \to 1^-} h(x) = 1 \)
+- \( \lim_{x \to 1^+} h(x) = 1 \)
+- \( h(1) = 3 \)
+
+The limit exists but does not equal the function value → **not continuous** at \( x = 1 \).  
+If we redefined \( h(1) = 1 \), the discontinuity would be removable.
+
+---
+
+## Why This Matters
+
+Limits are the foundation of calculus:
+
+- **Derivatives** are defined as limits (slopes as points get infinitely close).
+- **Integrals** are defined as limits (summing infinitely many slices).
+- **Sequences and series** in Calculus II rely entirely on limits.
+
+Understanding limits makes derivatives and integrals feel natural instead of mysterious. Continuity also underpins powerful results like the Intermediate Value Theorem and convergence tests for improper integrals.
+
+By completing Day 8, you’re officially thinking like a calculus student — comfortable with approaching values, infinity, and “what happens as…”. This mindset will carry you through both Calculus I and II.
