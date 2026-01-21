@@ -1,27 +1,115 @@
-10-Day Math Self-Study Crash Course: From Basics to Calculus II Readiness
+```md
+# 10-Day Math Self-Study Crash Course  
+## From Basics to Calculus II Readiness
 
-Overview
+---
 
-Preparing for Calculus II in just 10 days is an intensive but achievable challenge. This plan focuses on essential topics only – arithmetic, algebra, functions, trigonometry, and the core concepts of Calculus I – because a solid grasp of these is crucial before tackling Calculus II. (In fact, the standard prerequisites for calculus include a firm command of algebra, trigonometry, and logarithms ￼.) Each day builds upon prior material in a logical progression, ensuring you reinforce foundations as you advance. By the end of Day 10, you should feel confident in fundamental skills like manipulating algebraic expressions, understanding functions, and using basic trigonometry – all of which are essential before learning calculus ￼.
+## Overview
 
-How to use this plan: Dedicate several hours each day to learning and practice. The plan outlines Topics to Master and suggests Learning Resources (videos, articles, interactive tools) for each day. Be sure to practice problems for every new concept – solving exercises is key to solidifying your understanding ￼. Skim or skip any content you’re already comfortable with, but do not skip core concepts. (If you find the pace too fast at any point, consider slowing down or supplementing with more practice rather than moving on with shaky understanding.) Now, let’s dive into the day-by-day breakdown.
+Preparing for **Calculus II in just 10 days** is an intensive but achievable challenge. This plan focuses on **essential topics only**—arithmetic, algebra, functions, trigonometry, and the core concepts of **Calculus I**—because a solid grasp of these areas is absolutely critical before tackling Calculus II.
 
-See Day 1 @math_prep/plan_day_01.md
-See Day 2 @math_prep/plan_day_02.md
-See Day 3 @math_prep/plan_day_03.md
-See Day 4 @math_prep/plan_day_04.md
-See Day 5 @math_prep/plan_day_05.md
-See Day 6 @math_prep/plan_day_06.md
-See Day 7 @math_prep/plan_day_07.md
-See Day 8 @math_prep/plan_day_08.md
-See Day 9 @math_prep/plan_day_09.md
-See Day 10 @math_prep/plan_day_10.md
+Standard calculus prerequisites include a firm command of **algebra, trigonometry, and logarithms**. Each day in this plan builds upon prior material in a **logical progression**, ensuring that foundational skills are reinforced as you advance.
 
-Finally, remember that practice is key: even after this 10-day sprint, continue to solve problems. Calculus is not a spectator sport; the more you do, the more you internalize. You now have a strong foundation from arithmetic through Calc I. With focus and continued practice, you are well-prepared to succeed in Calculus II. Good luck, and enjoy the journey of higher mathematics!
+By the end of **Day 10**, you should feel confident in:
+- Manipulating algebraic expressions  
+- Understanding and working with functions  
+- Applying core trigonometric concepts  
+- Grasping the essential ideas of limits, derivatives, and integrals  
 
-Sources:
-	•	Khan Academy – Prerequisites and Calculus Concepts ￼ ￼ ￼ (prerequisite skills and introduction to limits)
-	•	SpainExchange (Geographic FAQ) – Preparation for Calculus ￼ (emphasizing algebra, function, trig proficiency before calculus)
-	•	Paul Dawkins’ Online Math Notes – Lamar University (Algebra/Trig Review and Calculus I Notes) ￼ ￼ ￼ ￼ ￼ ￼ (factoring vital for calculus, rationalizing, simplifying expressions, derivative/integral formulas, Fundamental Theorem insight)
-	•	Purplemath Algebra and Trig Lessons (various pages on fractions, solving equations, logarithms, trig identities) – for supplementary explanations in approachable language.
-	•	3Blue1Brown – Essence of Calculus series ￼ (conceptual understanding of calculus ideas: integrals and derivatives as inverses, visual intuition).
+These are the skills you *must* internalize before moving on to Calculus II.
+
+---
+
+## How to Use This Plan
+
+- Dedicate **several hours each day** to learning and practice.
+- Each day outlines:
+  - **Topics to Master**
+  - **Suggested Learning Resources** (videos, articles, interactive tools)
+- **Practice problems are non-negotiable.** Solving problems is the only way to solidify understanding.
+- Skim or skip material you’re already comfortable with, **but do not skip core concepts**.
+- If the pace feels too fast:
+  - Slow down
+  - Add more practice
+  - Supplement with additional explanations  
+  Moving forward with shaky understanding will hurt you later.
+
+This is a *skills bootcamp*, not passive reading.
+
+---
+
+## Day-by-Day Breakdown
+
+Each day has its own detailed plan located in the `math_prep/` directory:
+
+- **Day 1:** [math_prep/plan_day_01.md](math_prep/plan_day_01.md)
+- **Day 2:** [math_prep/plan_day_02.md](math_prep/plan_day_02.md)
+- **Day 3:** [math_prep/plan_day_03.md](math_prep/plan_day_03.md)
+- **Day 4:** [math_prep/plan_day_04.md](math_prep/plan_day_04.md)
+- **Day 5:** [math_prep/plan_day_05.md](math_prep/plan_day_05.md)
+- **Day 6:** [math_prep/plan_day_06.md](math_prep/plan_day_06.md)
+- **Day 7:** [math_prep/plan_day_07.md](math_prep/plan_day_07.md)
+- **Day 8:** [math_prep/plan_day_08.md](math_prep/plan_day_08.md)
+- **Day 9:** [math_prep/plan_day_09.md](math_prep/plan_day_09.md)
+- **Day 10:** [math_prep/plan_day_10.md](math_prep/plan_day_10.md)
+
+Follow the sequence. Each day assumes mastery (or active reinforcement) of the previous day’s material.
+
+---
+
+## Final Notes
+
+Practice is the key to success.
+
+Even after completing this 10-day sprint, **continue solving problems**. Calculus is not a spectator sport—the more you *do*, the more you internalize.
+
+By completing this plan, you will have built a strong foundation spanning:
+- Arithmetic
+- Algebra
+- Functions
+- Trigonometry
+- Core Calculus I concepts
+
+With focus and continued practice, you will be **well-prepared to succeed in Calculus II**.
+
+Good luck—and enjoy the journey into higher mathematics.
+
+---
+
+## Sources & Recommended References
+
+- **Khan Academy**  
+  *Prerequisites and Calculus Concepts*  
+  - Prerequisite skills  
+  - Introduction to limits  
+
+- **SpainExchange (Geographic FAQ)**  
+  *Preparation for Calculus*  
+  - Emphasis on algebra, functions, and trigonometry before calculus  
+
+- **Paul Dawkins’ Online Math Notes (Lamar University)**  
+  - Algebra & Trigonometry review  
+  - Calculus I notes  
+  - Factoring (vital for calculus)  
+  - Rationalizing and simplifying expressions  
+  - Derivative and integral formulas  
+  - Fundamental Theorem of Calculus insights  
+
+- **Purplemath**  
+  *Algebra and Trigonometry Lessons*  
+  - Fractions  
+  - Solving equations  
+  - Logarithms  
+  - Trigonometric identities  
+  - Clear, approachable explanations  
+
+- **3Blue1Brown**  
+  *Essence of Calculus*  
+  - Visual and conceptual understanding  
+  - Derivatives and integrals as inverse ideas  
+  - Intuition-first explanations  
+
+---
+
+Happy studying 🚀
+```
