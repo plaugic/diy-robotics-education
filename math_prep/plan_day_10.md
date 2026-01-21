@@ -217,16 +217,16 @@ Derivatives measure **instantaneous change**; integrals **accumulate change**.
 
 ### Practice 10 Indefinite Integrals
 
-1. \( \int (5x^4 - 2x + 3)\,dx \)
-2. \( \int \frac{1}{x^3}\,dx \)
-3. \( \int \sin x\,dx \)
-4. \( \int \sec^2 x\,dx \)
-5. \( \int e^{5x}\,dx \)
-6. \( \int \frac{1}{2x}\,dx \)
-7. \( \int (3x+2)^5\,dx \)
-8. \( \int \frac{\cos 3x}{5}\,dx \)
-9. \( \int \frac{2x}{x^2+1}\,dx \)
-10. \( \int (\sec x \tan x)\,dx \)
+1. $$\int (5x^4 - 2x + 3)\,dx$$
+2. $$\int \frac{1}{x^3}\,dx$$
+3. $$\int \sin x\,dx$$
+4. $$\int \sec^2 x\,dx$$
+5. $$\int e^{5x}\,dx$$
+6. $$\int \frac{1}{2x}\,dx$$
+7. $$\int (3x + 2)^5\,dx$$
+8. $$\int \frac{\cos(3x)}{5}\,dx$$
+9. $$\int \frac{2x}{x^2 + 1}\,dx$$
+10. $$\int (\sec x \tan x)\,dx$$
 
 > Check a few by differentiating your answers.
 
