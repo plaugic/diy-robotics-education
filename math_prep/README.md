@@ -1,4 +1,3 @@
-```md
 # 10-Day Math Self-Study Crash Course  
 ## From Basics to Calculus II Readiness
 
@@ -112,4 +111,3 @@ Good luck—and enjoy the journey into higher mathematics.
 ---
 
 Happy studying 🚀
-```
